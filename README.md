@@ -10,10 +10,15 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Categories
 
+* [Linux](#linux)
 * [Postgres](#postgres)
 * [Spring](#spring)
 
 ---
+
+### Linux
+- [Query System Details](linux/query-system-details.md)
+- [Set Timezone](linux/set-timezone.md)
 
 ### Postgres
 - [Get The Current User](postgres/get-the-current-user.md)
