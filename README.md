@@ -10,11 +10,15 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Categories
 
+* [Docker](#docker)
 * [Linux](#linux)
 * [Postgres](#postgres)
 * [Spring](#spring)
 
 ---
+
+### Docker
+- [Container Will Not Start](docker/container-will-not-start.md)
 
 ### Linux
 - [Query System Details](linux/query-system-details.md)
