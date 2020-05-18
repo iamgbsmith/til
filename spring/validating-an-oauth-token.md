@@ -1,6 +1,6 @@
-# Validating An OAuth Token 
+# Validating An OAuth Token
 
-Spring Security OAuth2 provides an endpoint to validate a JWT token. The JWT should be an access token as an __attempt to validate a refresh token will result in "Token was not recognised" being returned.__
+Spring Security OAuth2 provides an endpoint to validate a JWT token. The JWT should be an access token as an **attempt to validate a refresh token will result in "Token was not recognised" being returned.**
 
 `https://server:host/authorization-service/oauth/check_token?token=`
 
@@ -14,6 +14,15 @@ token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXVyYSJdLCJ1c2VyX25hbWUiO
 Sample response:
 
 ```json
-{"aud":["aura"],"user_name":"SMITHR","scope":["read","write"],"iss":"microspan","active":true,"exp":1589458174,"authorities":["ROLE_PROJECT_MANAGER","ROLE_ANALYST"],"jti":"0477265b-00af-4d7f-806a-612fe8d314ad","client_id":"a-web-application"}
+{
+  "aud": ["aura"],
+  "user_name": "SMITHR",
+  "scope": ["read", "write"],
+  "iss": "microspan",
+  "active": true,
+  "exp": 1589458174,
+  "authorities": ["ROLE_PROJECT_MANAGER", "ROLE_ANALYST"],
+  "jti": "0477265b-00af-4d7f-806a-612fe8d314ad",
+  "client_id": "a-web-application"
+}
 ```
-
