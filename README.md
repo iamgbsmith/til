@@ -26,8 +26,10 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Set Timezone](linux/set-timezone.md)
 
 ### Postgres
+- [Connecting pgAdmin Over SSH](postgres/connecting-pgadmin-over-ssh.md)
+- [Determine Table And Index Sizes](postgres/determine-table-and-index-sizes.md)
 - [Get The Current User](postgres/get-the-current-user.md)
-- [Install An Extension](postgres/install-an-extension.md)
+- [Installing An Extension](postgres/installing-an-extension.md)
 - [Set The Current User](postgres/set-the-current-user.md)
 
 ### React Native

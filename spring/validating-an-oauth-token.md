@@ -15,8 +15,8 @@ Sample response:
 
 ```json
 {
-  "aud": ["aura"],
-  "user_name": "SMITHR",
+  "aud": ["orbiks"],
+  "user_name": "smithr",
   "scope": ["read", "write"],
   "iss": "microspan",
   "active": true,
