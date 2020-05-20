@@ -26,6 +26,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Set Timezone](linux/set-timezone.md)
 
 ### Postgres
+- [Backup A Database](postgres/backup-a-database.md)
 - [Connecting pgAdmin Over SSH](postgres/connecting-pgadmin-over-ssh.md)
 - [Determine Table And Index Sizes](postgres/determine-table-and-index-sizes.md)
 - [Get The Current User](postgres/get-the-current-user.md)
