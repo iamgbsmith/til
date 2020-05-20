@@ -31,6 +31,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Determine Table And Index Sizes](postgres/determine-table-and-index-sizes.md)
 - [Get The Current User](postgres/get-the-current-user.md)
 - [Installing An Extension](postgres/installing-an-extension.md)
+- [Restore A Database](postgres/restore-a-database.md)
 - [Set The Current User](postgres/set-the-current-user.md)
 
 ### React Native
