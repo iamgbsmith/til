@@ -21,6 +21,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Docker
 - [Container Will Not Start](docker/container-will-not-start.md)
+- [NGINX Network Resolver](docker/nginx-network-resolver.md)
 
 ### Linux
 - [Query System Details](linux/query-system-details.md)
