@@ -15,6 +15,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 * [Postgres](#postgres)
 * [React Native](#react-native)
 * [Spring](#spring)
+* [TypeScript](#typeScript)
 
 ---
 
@@ -42,6 +43,9 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Custom Servlet Filter](spring/custom-servlet-filter.md)
 - [OAuth Token Endpoints](spring/oauth-token-endpoints.md)
 - [Validating An OAuth Token](spring/validating-an-oauth-token.md)
+
+### TypeScript
+- [Node Project Setup](typescript/node-project-setup.md)
 
 ## About
 
