@@ -4,4 +4,4 @@ If your application crashes on iOS, try launching it using the simulator in Xcod
 
 Look for an error message similar to `Exception	NSException *	"Unhandled JS Exception: TypeError: undefined is not an object [...deleted]` which should help determine the JavaScript code causing the problem in the application.
 
-Errors that manifest as a red screen error in development typically give rise to the application termination in production if not handled correctly.
+Errors that manifest as a red screen error in development typically give rise to the application crashing in production if not handled correctly.
