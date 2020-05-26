@@ -22,9 +22,14 @@ The above will restore the schema and data.
 - To restore a specific table add the option `--table=tablename` (multiple tables can be selected by writing multiple --table switches)
 - To improve restore performance use multiple concurrent jobs with `--jobs=number-of-jobs` where the number of jobs matches the number of CPU cores on the server
 
+### After the restore
+
+Optimise and reclaim fragmented tablespaces by running the `VACUUM ANALYZE` command.
+
 ### Passwords and the restore process
 
 - The `--no-password` option requires the existence of a `.pgpass` file. This option can be useful in batch jobs and scripts where no user is present to enter a password.
 - The `--password` option is not required as the sever will prompt for a password if the server requires authentication.
+
 
 See [pg_restore](https://www.postgresql.org/docs/current/app-pgrestore.html) for more details.
