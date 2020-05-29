@@ -23,6 +23,9 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Container Will Not Start](docker/container-will-not-start.md)
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
 
+### Java
+- [Thread Dumps On Linux](java/thread-dumps-on-linux.md)
+
 ### Linux
 - [Query System Details](linux/query-system-details.md)
 - [Set Timezone](linux/set-timezone.md)

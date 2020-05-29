@@ -14,9 +14,9 @@ yarn init
 [follow prompts...]
 ```
 
-Install TypeScript
+Install TypeScript dev dependency
 ```
-yarn install typescript
+yarn install typescript --dev
 ```
 
 Initialise TypeScript
@@ -24,7 +24,7 @@ Initialise TypeScript
 npx tsc --init
 ```
 
-Install dev packages
+Install other dev dependencies
 ```
 yarn add rimraf nodemon npm-run-all --dev
 ```
