@@ -11,6 +11,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Categories
 
 * [Docker](#docker)
+* [Java](#java)
 * [Linux](#linux)
 * [Postgres](#postgres)
 * [React Native](#react-native)
