@@ -27,6 +27,9 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Java
 - [Thread Dumps On Linux](java/thread-dumps-on-linux.md)
 
+### JavaScript
+- [Immutability With Immer](javascript/immutability-with-immer.md)
+
 ### Linux
 - [Query System Details](linux/query-system-details.md)
 - [Set Timezone](linux/set-timezone.md)
