@@ -12,6 +12,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 * [Docker](#docker)
 * [Java](#java)
+* [JavaScript](#javascript)
 * [Linux](#linux)
 * [Postgres](#postgres)
 * [React Native](#react-native)
