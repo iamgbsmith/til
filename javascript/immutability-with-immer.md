@@ -17,7 +17,7 @@ const todosArray = [
 ];
 ```
   
-Add an item
+Add an item:
 
 ```javascript
 const addedTodosArray = produce(todosArray, draft => {
@@ -25,7 +25,7 @@ const addedTodosArray = produce(todosArray, draft => {
 });
 ```
 
-Remove an item
+Remove an item:
 
 ```javascript
 const deletedTodosArray = produce(todosArray, draft => {
@@ -33,7 +33,7 @@ const deletedTodosArray = produce(todosArray, draft => {
 });
 ```
 
-Update an item
+Update an item:
 
 ```javascript
 const updatedTodosArray = produce(todosArray, draft => {
