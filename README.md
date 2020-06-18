@@ -44,6 +44,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Get The Current User](postgres/get-the-current-user.md)
 - [Restore A Database](postgres/restore-a-database.md)
 - [Set The Current User](postgres/set-the-current-user.md)
+- [Terminating A Hanging Query](postgres/terminating-a-hanging-query.md)
 
 ### React Native
 - [Application Crashes](react-native/application-crashes.md)
