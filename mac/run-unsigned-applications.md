@@ -1,6 +1,6 @@
 # Run Unsigned Applications
 
-Security controls in macOS Catalina have tightened controls on whether applications downloaded from the internet can be run. If you try to open an appliction that isn’t registered with Apple by an identified developer you will get a warning dialog. There are two ways around this.
+Security in macOS Catalina has tightened controls on whether applications downloaded from the internet can be run. If you try to open an appliction that isn’t registered with Apple by an identified developer you will get a warning dialog. There are two ways around this.
 
 __Caveat:__ Ensure that you have verified the authenticity of the application you are about to run before proceeding. __Do not run any application that looks untrustworthy.__
 
