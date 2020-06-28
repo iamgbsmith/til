@@ -25,6 +25,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
 
 ### Linux
+- [Perform A DNS Lookup](linux/perform-a-dns-lookup.md)
 - [Query System Details](linux/query-system-details.md)
 - [Set Timezone](linux/set-timezone.md)
 - [Show Free Disk Space](linux/show-free-disk-space.md)
