@@ -47,6 +47,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### React Native
 - [Application Crashes](react-native/application-crashes.md)
 - [Application Will Not Start](react-native/application-will-not-start.md)
+- [Get Width Or Height Of A Component](react-native/get-width-or-height-of-a-component.md)
 - [Remove Launch Screen White Flash](react-native/remove-launch-screen-white-flash.md)
 
 ### Spring
