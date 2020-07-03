@@ -58,6 +58,9 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### TypeScript
 - [Node Project Setup](typescript/node-project-setup.md)
 
+### Visual Studio Code
+- [Debug A Node Application](visual-studio-code/debug-a-node-application.md)
+
 ## About
 
 This collection was inspired by Josh Branchaud [jbranchaud/til](https://github.com/jbranchaud/til).
