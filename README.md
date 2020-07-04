@@ -16,7 +16,8 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 * [Postgres](#postgres)
 * [React Native](#react-native)
 * [Spring](#spring)
-* [TypeScript](#typeScript)
+* [TypeScript](#typescript)
+* [Visual Studio Code](#visual-studio-code)
 
 ---
 
