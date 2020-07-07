@@ -34,6 +34,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Mac
 - [Run Unsigned Applications](mac/run-unsigned-applications.md)
+- [Reclaim Disk Space From Brew](mac/reclaim-diskpace-from-brew.md)
 
 ### Postgres
 - [Backup A Database](postgres/backup-a-database.md)
