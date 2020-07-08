@@ -35,6 +35,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Mac
 - [Run Unsigned Applications](mac/run-unsigned-applications.md)
 - [Reclaim Disk Space From Brew](mac/reclaim-diskpace-from-brew.md)
+- [Take A Screenshot](mac/take-a-screenshot.md)
 
 ### Postgres
 - [Backup A Database](postgres/backup-a-database.md)
@@ -58,6 +59,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Validating An OAuth Token](spring/validating-an-oauth-token.md)
 
 ### TypeScript
+- [Basic Data Types](typescript/basic-data-types.md)
 - [Node Project Setup](typescript/node-project-setup.md)
 
 ### Visual Studio Code
