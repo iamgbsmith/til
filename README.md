@@ -6,7 +6,7 @@ There have been many occassions during my career where I have done something in 
 
 In these moments of haste, I would often think that what I was working on there and then could be useful in future but ended up moving on due to time pressures. What I should have actually done was to capture learnings for future reference irrespective of how trivial they might seem.
 
-This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing.
+This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also document tools or techniques I have used in the past and would like to share with others.
 
 ### Categories
 
@@ -25,10 +25,15 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Docker
 - [Container Will Not Start](docker/container-will-not-start.md)
+- [Creat A Swarm](docker/create-a-swarm.md)
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
 
 ### Java
+- [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
 - [Thread Dumps On Linux](java/thread-dumps-on-linux.md)
+
+### JavaScript
+- [Immutability With Immer](javascript/immutability-with-immer.md)
 
 ### Linux
 - [Grep Find In Files](linux/grep-find-in-files.md)
