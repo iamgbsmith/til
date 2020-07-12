@@ -11,6 +11,8 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Categories
 
 * [Docker](#docker)
+* [Java](#java)
+* [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
 * [Postgres](#postgres)
@@ -24,6 +26,9 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Docker
 - [Container Will Not Start](docker/container-will-not-start.md)
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
+
+### Java
+- [Thread Dumps On Linux](java/thread-dumps-on-linux.md)
 
 ### Linux
 - [Grep Find In Files](linux/grep-find-in-files.md)
