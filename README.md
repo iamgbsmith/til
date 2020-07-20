@@ -71,6 +71,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### TypeScript
 - [Basic Data Types](typescript/basic-data-types.md)
+- [Benefits Of Using TypeScript](typescript/benefits-of-using-typescript.md)
 - [Node Project Setup](typescript/node-project-setup.md)
 
 ### Visual Studio Code
