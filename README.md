@@ -11,6 +11,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Categories
 
 * [Docker](#docker)
+* [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
@@ -27,6 +28,9 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Container Will Not Start](docker/container-will-not-start.md)
 - [Creat A Swarm](docker/create-a-swarm.md)
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
+
+### Git
+- [Working With Branches](git/working-with-branches.md)
 
 ### Java
 - [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
