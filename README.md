@@ -27,7 +27,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Docker
 - [Container Will Not Start](docker/container-will-not-start.md)
-- [Creat A Swarm](docker/create-a-swarm.md)
+- [Create A Swarm](docker/create-a-swarm.md)
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
 
 ### Git
