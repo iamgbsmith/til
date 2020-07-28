@@ -64,6 +64,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Python
 - [Create A Virtual Environment](python/create-a-virtual-environment.md)
+- [Installing And Upgrading Packages](python/installing-and-upgrading-packages.md)
 
 ### React Native
 - [Application Crashes](react-native/application-crashes.md)
