@@ -18,8 +18,8 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 * [Mac](#mac)
 * [Postgres](#postgres)
 * [Python](#python)
-* [React](#react)
 * [React Native](#react-native)
+* [React](#react)
 * [Spring](#spring)
 * [TypeScript](#typescript)
 * [Visual Studio Code](#visual-studio-code)
@@ -29,6 +29,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Docker
 - [Container Will Not Start](docker/container-will-not-start.md)
 - [Create A Swarm](docker/create-a-swarm.md)
+- [Create An Image](docker/create-an-image.md)
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
 
 ### Git
