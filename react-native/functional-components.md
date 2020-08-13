@@ -11,7 +11,7 @@ Functional Components can be enhanced using React Hooks which let you use state 
 
 ### Functional component example
 
-The following is an example of a stateless functional component written using TypeScript. In the props object, there is a title which is a string.
+The following is an example of a stateless functional component written using TypeScript. In the props object, there is a read-only string property called title.
 
 ```javascript
 import React from 'react';
