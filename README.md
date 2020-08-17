@@ -33,6 +33,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
 
 ### Git
+- [Naming Branches](git/naming-branches.md)
 - [Working With Branches](git/working-with-branches.md)
 
 ### Java
