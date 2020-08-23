@@ -37,6 +37,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Working With Branches](git/working-with-branches.md)
 
 ### Java
+- [Java Licensing Policy](java/java-licensing-policy.md)
 - [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
 - [Thread Dumps On Linux](java/thread-dumps-on-linux.md)
 
