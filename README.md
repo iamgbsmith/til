@@ -79,7 +79,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### React Native
 - [Application Crashes](react-native/application-crashes.md)
 - [Application Will Not Start](react-native/application-will-not-start.md)
-- [Create A React Native App](react-native/create-a-react-native-project.md)
+- [Create A React Native App](react-native/create-a-react-native-app.md)
 - [Disable App Transport Security In iOS](react-native/disable-app-transport-security-in-ios.md)
 - [Functional Components](react-native/functional-components.md)
 - [Get Width Or Height Of A Component](react-native/get-width-or-height-of-a-component.md)
