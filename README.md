@@ -47,6 +47,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Linux
 - [Grep Find In Files](linux/grep-find-in-files.md)
+- [Install A Root Certificate](linux/install-a-root-certificate.md)
 - [Perform A DNS Lookup](linux/perform-a-dns-lookup.md)
 - [Query System Details](linux/query-system-details.md)
 - [Set Timezone](linux/set-timezone.md)
