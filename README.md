@@ -12,6 +12,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 * [Docker](#docker)
 * [Git](#git)
+* [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
@@ -35,6 +36,9 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Git
 - [Naming Branches](git/naming-branches.md)
 - [Working With Branches](git/working-with-branches.md)
+
+### HTML
+- [Local Storage and Session Storage](html/local-storage-and-session-storage.md)
 
 ### Java
 - [Java Licensing Policy](java/java-licensing-policy.md)
