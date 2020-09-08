@@ -76,6 +76,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### React
 - [Clean Yarn Cache](react/clean-yarn-cache.md)
 - [Create A React App](react/create-a-react-app.md)
+- [Using Styled Components](react/using-styled-components.md)
 
 ### React Native
 - [Application Crashes](react-native/application-crashes.md)
