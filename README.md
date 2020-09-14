@@ -56,6 +56,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Query System Details](linux/query-system-details.md)
 - [Set Timezone](linux/set-timezone.md)
 - [Show Free Disk Space](linux/show-free-disk-space.md)
+- [Show Timestamps In Bash History](linux/show-timestamps-in-bash-history.md)
 
 ### Mac
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
