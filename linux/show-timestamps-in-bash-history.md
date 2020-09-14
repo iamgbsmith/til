@@ -1,8 +1,8 @@
 # Show Timestamps In Bash History
 
-By default, the `history` command output does not show a timestamp when commands were run in bash.
+By default, the output from `history` does not show a timestamp when commands were run in bash.
 
-To enable timestamps in history for the logged in user, update `~./bashrc` with the following command:
+To enable timestamps in history for the logged in user, update `~./bashrc` as follows:
 
 ```shell
 echo 'export HISTTIMEFORMAT="%F %T "' >> ~/.bashrc
