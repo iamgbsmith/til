@@ -73,6 +73,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Restore A Database](postgres/restore-a-database.md)
 - [Set The Current User](postgres/set-the-current-user.md)
 - [Terminate A Hanging Query](postgres/terminate-a-hanging-query.md)
+- [UUIDs As Primary Keys](postgres/uuids-as-primary-keys.md)
 
 ### Python
 - [Create A Virtual Environment](python/create-a-virtual-environment.md)
