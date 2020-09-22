@@ -21,7 +21,7 @@ docker secret create some_random_secret ./pwd.txt
 ```
 __If creating a secret from a file, delete the file once the secret has been created.__
 
-Creating a secret with a file means that the password cannot be read from the shell history. 
+Creating a secret from a file means that the password cannot be read from the shell history. 
 
 ### List secrets
 
