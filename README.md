@@ -97,6 +97,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Spring
 - [Custom Servlet Filter](spring/custom-servlet-filter.md)
 - [OAuth Token Endpoints](spring/oauth-token-endpoints.md)
+- [Spring Boot Application Profiles](spring/spring-boot-application-profiles.md)
 - [Validating An OAuth Token](spring/validating-an-oauth-token.md)
 
 ### TypeScript
