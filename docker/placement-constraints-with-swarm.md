@@ -1,6 +1,6 @@
 # Placement Constraints With Swarm
 
-Docker Swarm will attempt to run containers across nodes to provide maximum resiliency and availability. For example, if you specify two replicas of a container then it will try and run them on two different nodes within a swarm using placement constraints. Only when resources are unavailable will two containers be placed on the same node in the swarm.
+Docker Swarm will attempt to run containers across nodes to provide maximum resiliency and availability. For example, if you specify two replicas of a container in a compose file and there are at least two nodes, swarm will try and run the containers on different nodes. Only when resources are unavailable will two containers be placed on the same node in the swarm.
 
 Sometimes it may be necessary to specify which node a container is run on. For example, a container that monitors and reports on the Swarm state should be run on a manager node in order to get the data it needs or use a Docker volume. 
 
