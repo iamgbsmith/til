@@ -31,6 +31,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Container Will Not Start](docker/container-will-not-start.md)
 - [Create A Swarm](docker/create-a-swarm.md)
 - [Create An Image](docker/create-an-image.md)
+- [Install Docker On Ubuntu](docker/install-docker-on-ubuntu.md)
 - [Manage Sensitive Data With Secrets](docker/manage-sensitive-data-with-secrets.md)
 - [Placement Constraints With Swarm](docker/placement-constraints-with-swarm.md)
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
