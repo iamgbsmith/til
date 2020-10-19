@@ -41,6 +41,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Working With Branches](git/working-with-branches.md)
 
 ### HTML
+- [Determine Browser Capabilities](html/determine-browser-capabilities.md)
 - [Local Storage and Session Storage](html/local-storage-and-session-storage.md)
 
 ### Java
