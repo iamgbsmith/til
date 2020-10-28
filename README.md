@@ -46,6 +46,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Java
 - [Java Licensing Policy](java/java-licensing-policy.md)
+- [Override Field Names In JSON Payloads](java/override-field-names-in-json-payloads.md)
 - [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
 - [Run Unit Tests Faster](java/run-unit-tests-faster.md)
 - [Thread Dumps On Linux](java/thread-dumps-on-linux.md)
