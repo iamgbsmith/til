@@ -45,6 +45,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Local Storage and Session Storage](html/local-storage-and-session-storage.md)
 
 ### Java
+- [Add JAXB Dependencies](java/add-jaxb-dependencies.md)
 - [Java Licensing Policy](java/java-licensing-policy.md)
 - [Override Field Names In JSON Payloads](java/override-field-names-in-json-payloads.md)
 - [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
