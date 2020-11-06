@@ -35,6 +35,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Manage Sensitive Data With Secrets](docker/manage-sensitive-data-with-secrets.md)
 - [Placement Constraints With Swarm](docker/placement-constraints-with-swarm.md)
 - [NGINX Network Resolver](docker/nginx-network-resolver.md)
+- [Store Data With Volumes](docker/store-data-with-volumes.md)
 
 ### Git
 - [Naming Branches](git/naming-branches.md)
