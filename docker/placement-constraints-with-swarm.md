@@ -75,5 +75,5 @@ web:
   deploy:
     replicas: 2
     placement:
-      constraints: [node.labels.web == true ]
+      constraints: [node.labels.web == true]
 ```
