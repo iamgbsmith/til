@@ -61,12 +61,12 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Install A Root Certificate](linux/install-a-root-certificate.md)
 - [Perform A DNS Lookup](linux/perform-a-dns-lookup.md)
 - [Query System Details](linux/query-system-details.md)
-- [Run Background Commands](linux/run-background-commands.md)
 - [Set Timezone](linux/set-timezone.md)
 - [Show Free Disk Space](linux/show-free-disk-space.md)
 - [Show Timestamps In Bash History](linux/show-timestamps-in-bash-history.md)
 
 ### Mac
+- [Bind To Active Directory](mac/bind-to-active-directory.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
 - [Run Unsigned Applications](mac/run-unsigned-applications.md)
 - [Reclaim Disk Space From Brew](mac/reclaim-diskpace-from-brew.md)
