@@ -21,6 +21,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 * [Python](#python)
 * [React Native](#react-native)
 * [React](#react)
+* [Security](#security)
 * [Spring](#spring)
 * [TypeScript](#typescript)
 * [Visual Studio Code](#visual-studio-code)
@@ -102,6 +103,9 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Functional Components](react-native/functional-components.md)
 - [Get Width Or Height Of A Component](react-native/get-width-or-height-of-a-component.md)
 - [Remove Launch Screen White Flash](react-native/remove-launch-screen-white-flash.md)
+
+### Security
+- [Verify A Checksum](security/verify-a-checksum.md)
 
 ### Spring
 - [Custom Servlet Filter](spring/custom-servlet-filter.md)
