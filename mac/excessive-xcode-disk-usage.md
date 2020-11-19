@@ -5,6 +5,7 @@ If you are developing on a Mac you will find that Xcode uses a lot of disk space
 A quick way to recover disk space is to examine the contents of `~/Library/Developer/Xcode/iOS\ DeviceSupport/` 
 
 ```shell
+ls -la
 drwxr-xr-x   5 gregsmith  staff   160 13 Feb  2019 12.1.1 (16C50)
 drwxr-xr-x   5 gregsmith  staff   160 16 Feb  2019 12.1.2 (16C101)
 drwxr-xr-x   5 gregsmith  staff   160  7 Apr  2019 12.1.4 (16D57)
@@ -22,4 +23,6 @@ drwxr-xr-x   5 gregsmith  staff   160  1 Jun 08:37 13.4.1 (17E262)
 drwxr-xr-x   5 gregsmith  staff   160 27 Jun 18:58 13.5.1 (17F80)
 ```
 
-Delete directories for the iOS simulators that you are not using as build targets. If need be, you can always re-install the iOS simulators for targets you need at a later date.
+Delete directories for the iOS simulators that you are not using as build targets. 
+
+If required, you can re-install the iOS simulators for targets you need at a later date.
