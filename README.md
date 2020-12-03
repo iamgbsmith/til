@@ -71,6 +71,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Mac
 - [Bind To Active Directory](mac/bind-to-active-directory.md)
 - [Excessive Xcode Disk Usage](mac/excessive-xcode-disk-usage.md)
+- [Install Java](mac/install-java.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
 - [Run Unsigned Applications](mac/run-unsigned-applications.md)
 - [Reclaim Disk Space From Brew](mac/reclaim-diskpace-from-brew.md)
