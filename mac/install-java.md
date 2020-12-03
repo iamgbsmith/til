@@ -41,6 +41,6 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11+28, mixed mode)
 ### Important considerations
 
 * Always use LTS (Long Term Support) versions of Java as these will be supported for extended timeframes. LTS versions are most suitable for enterprise customers as they offer support for critical updates.
-* __Avoid using Oracle Java Binaries if you do not require commercial support.__
+* __Avoid using Oracle Java Binaries if you do not want to commercially license their JVM.__
 
 See [AdoptOpenJDK Prebuilt OpenJDK Binaries](https://adoptopenjdk.net) for more details.
