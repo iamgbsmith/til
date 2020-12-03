@@ -1,4 +1,4 @@
-# Install Java
+# Install Java On macOS
 
 Java no longer ships pre-installed on macOS. Rather than using `brew`, a better way to install Java on macOS is to download pre-built binaries from https://adoptopenjdk.net as this provides more flexibility with regards to Java versions and installation locations. 
 

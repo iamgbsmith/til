@@ -49,6 +49,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Java
 - [Add JAXB Dependencies](java/add-jaxb-dependencies.md)
+- [Install Java On macOS](java/install-java-on-macos.md)
 - [Java Licensing Policy](java/java-licensing-policy.md)
 - [Override Field Names In JSON Payloads](java/override-field-names-in-json-payloads.md)
 - [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
@@ -71,7 +72,6 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Mac
 - [Bind To Active Directory](mac/bind-to-active-directory.md)
 - [Excessive Xcode Disk Usage](mac/excessive-xcode-disk-usage.md)
-- [Install Java](mac/install-java.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
 - [Run Unsigned Applications](mac/run-unsigned-applications.md)
 - [Reclaim Disk Space From Brew](mac/reclaim-diskpace-from-brew.md)
