@@ -73,6 +73,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Bind To Active Directory](mac/bind-to-active-directory.md)
 - [Excessive Xcode Disk Usage](mac/excessive-xcode-disk-usage.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
+- [Responsive Design Mode In Safari](mac/responsive-design-mode-in-safari.md)
 - [Run Unsigned Applications](mac/run-unsigned-applications.md)
 - [Reclaim Disk Space From Brew](mac/reclaim-diskpace-from-brew.md)
 - [Take A Screenshot](mac/take-a-screenshot.md)
