@@ -25,6 +25,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 * [Spring](#spring)
 * [TypeScript](#typescript)
 * [Visual Studio Code](#visual-studio-code)
+* [Xcode](#xcode)
 
 ---
 
@@ -125,6 +126,8 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 ### Visual Studio Code
 - [Debug A Node Application](visual-studio-code/debug-a-node-application.md)
 
+### Xcode
+- [Hide The Dock Icon And Main Window](xcode/hide-the-dock-icon-and-main-window.md)
 ## About
 
 This collection was inspired by Josh Branchaud [jbranchaud/til](https://github.com/jbranchaud/til).
