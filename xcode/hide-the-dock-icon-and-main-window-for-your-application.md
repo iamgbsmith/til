@@ -1,4 +1,4 @@
-# Hide The Dock Icon And Main Window
+# Hide The Dock Icon And Main Window For Your Application
 
 You might want to hide the dock icon and main window when developing macOS menubar applications.
 

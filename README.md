@@ -128,6 +128,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 
 ### Xcode
 - [Hide The Dock Icon And Main Window](xcode/hide-the-dock-icon-and-main-window.md)
+- [Set Badge Icon In The Dock](xcode/set-badge-icon-in-the-dock.md)
 ## About
 
 This collection was inspired by Josh Branchaud [jbranchaud/til](https://github.com/jbranchaud/til).
