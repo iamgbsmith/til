@@ -23,6 +23,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 * [React](#react)
 * [Security](#security)
 * [Spring](#spring)
+* [Swift](#swift)
 * [TypeScript](#typescript)
 * [Visual Studio Code](#visual-studio-code)
 * [Xcode](#xcode)
@@ -117,6 +118,9 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [OAuth Token Endpoints](spring/oauth-token-endpoints.md)
 - [Spring Boot Application Profiles](spring/spring-boot-application-profiles.md)
 - [Validating An OAuth Token](spring/validating-an-oauth-token.md)
+
+### Swift
+- [Set Badge Icon In The Dock](swift/set-badge-icon-in-the-dock.md)
 ### TypeScript
 - [Basic Data Types](typescript/basic-data-types.md)
 - [Benefits Of Using TypeScript](typescript/benefits-of-using-typescript.md)
