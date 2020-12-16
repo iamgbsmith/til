@@ -12,4 +12,4 @@ Clear the badge icon by setting the value to an empty string.
 NSApp.dockTile.badgeLabel = "";
 ```
 
-Do not set the value in the string to a non-numeric value.
+Do not set the value in the string to a non-numeric value. Apple Human User Interface guidelines also suggest using badging to supplement notifications, not to denote critical information.
