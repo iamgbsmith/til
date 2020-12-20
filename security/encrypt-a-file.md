@@ -15,7 +15,7 @@ openssl enc -d -a -aes-256-gcm -in some-document-encrypted.enc -out some-documen
 Options supplied to the above commands:
 
 * `-aes-256-gcm` specifies the AES256 Galois/Counter Mode (GCM) algorithm
-* `-a` base64 encodes the encrypted file or assumes base64-encoded if decrypting
+* `-a` base64 encodes the encrypted file or specifies that it is base64 encoded when decrypting
 * `-d` decrypts a file
 * `-pass` specifies a password source. This argument can have various formats: 
   * env:var to read it from the environment variable $var
