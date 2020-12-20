@@ -111,6 +111,7 @@ This collection of __Today I Learned__ snippets is a reference for my future sel
 - [Remove Launch Screen White Flash](react-native/remove-launch-screen-white-flash.md)
 
 ### Security
+- [Encrypt A File](security/encrypt-a-file.md)
 - [Verify A Checksum](security/verify-a-checksum.md)
 
 ### Spring
