@@ -2,7 +2,7 @@
 
 ## Today I Learned
 
-Far too many times in my career I have done something in a hurry without capturing any detail for future reference. In those moments of haste, what I should have done was capture the learnings irrespective of how trivial they might seem so that when I needed to do the same thing again I wouldn't be scrambling for answers.
+Far too many times in my career I have done something in a hurry without capturing any detail for future reference. In those moments of haste, what I should have done was document the learnings irrespective of how trivial they might seem so that when I needed to do the same thing again I wouldn't be scrambling for answers.
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 

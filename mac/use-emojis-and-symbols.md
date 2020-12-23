@@ -2,7 +2,7 @@
 
 __Category: Mac__
 
-On macOS pressing `control + command + spacebar` shows the special character viewer allowing you to select from emojis and symbols.
+On macOS, pressing `control + command + spacebar` shows the special character viewer allowing you to select from emojis and symbols.
 
 You can switch from the compact view to the expanded view by pressing the icon in the upper right corner of the dialog.
 
