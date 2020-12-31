@@ -6,7 +6,7 @@ Far too many times in my career I have done something in a hurry without capturi
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_73 TILs and counting..._
+_74 TILs and counting..._
 
 ---
 
@@ -126,6 +126,7 @@ _73 TILs and counting..._
 
 ### Swift
 - [Set Badge Icon In The Dock](swift/set-badge-icon-in-the-dock.md)
+- [Sort An Array](swift/sort-an-array.md)
 ### TypeScript
 - [Basic Data Types](typescript/basic-data-types.md)
 - [Benefits Of Using TypeScript](typescript/benefits-of-using-typescript.md)
