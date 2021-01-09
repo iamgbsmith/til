@@ -1,5 +1,7 @@
 # Set Timezone
 
+__Category: Linux__
+
 Use the following command if you need to determine which timezones are supported by the OS:
 
 ```

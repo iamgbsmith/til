@@ -1,5 +1,7 @@
 # Take A Screenshot
 
+__Category: Mac__
+
 Screenshots of the desktop or windows can be taken using hotkeys.
 
 ### Screenshot the desktop

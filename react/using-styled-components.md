@@ -1,5 +1,7 @@
 # Using Styled Components
 
+__Category: React__
+
 styled-components utilise tagged template literals to style your components and remove the mapping between components and styles. This allows for creating a normal React component that has styles attached to it.
 
 ### Install styled-components packages

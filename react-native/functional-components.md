@@ -1,5 +1,7 @@
 # Functional Components
 
+__Category: React Native__
+
 There are two approaches to writing components in React and React Native:
 
 * Class Components (ES6)

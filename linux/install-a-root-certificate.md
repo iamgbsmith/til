@@ -1,5 +1,7 @@
 # Install A Root Certificate
 
+__Category: Linux__
+
 You may need to install a root certificate on your system in the following scenarios:
 
 * You are installing a self-signed certificate

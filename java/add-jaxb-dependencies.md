@@ -1,5 +1,7 @@
 # Add JAXB Dependencies
 
+__Category: Java__
+
 In Java versions higher than Java 8, JAXB dependencies for parsing JSON are no longer contained in the JDK/JRE. You must manually add them as a dependency to your project.
 
 ### Add to Gradle build file

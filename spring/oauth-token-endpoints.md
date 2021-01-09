@@ -1,5 +1,7 @@
 # OAuth Token Endpoints 
 
+__Category: Spring__
+
 Spring Security OAuth2 provides endpoints for authentication and authorization with OAuth.
 
 | Endpoint              | Functionality   |

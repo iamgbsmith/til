@@ -1,5 +1,7 @@
 # Container Will Not Start
 
+__Category: Docker__
+
 If a container won't start when using a Docker compose file, check the state of containers.
 
 ### Check image name

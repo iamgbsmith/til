@@ -1,5 +1,7 @@
 # Create A Swarm
 
+__Category: Docker__
+
 The steps outlined here will create a Docker Swarm Manager and Swarm Network ready to deploy services to.
 
 Initialise the Swarm Manager:

@@ -1,5 +1,7 @@
 # Install Docker On Ubuntu
 
+__Category: Docker__
+
 The process outlined here will install Docker on Ubuntu and configure a non-root user account with permissions required to run Docker containers.
 
 ### Install Docker

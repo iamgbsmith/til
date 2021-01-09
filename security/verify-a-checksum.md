@@ -1,5 +1,7 @@
 # Verify A Checksum
 
+__Category: Security__
+
 It is best practice from a security perspective to validate the integrity of a file before installation by comparing the checksum of it against one computed by a reliable source. 
 
 A checksum is a small-sized datum from a block of digital data for the purpose of detecting errors which may have been introduced during its transmission. Differences in values can also indicate malicious tampering or that the wrong file has been supplied.

@@ -1,5 +1,7 @@
 # Install Java On macOS
 
+__Category: Java__
+
 Java no longer ships pre-installed on macOS. Rather than using `brew`, a better way to install Java on macOS is to download pre-built binaries from https://adoptopenjdk.net as this provides more flexibility with regards to Java versions and installation locations. 
 
 The steps outlined here will install AdoptOpenJDK Java version 11 LTS (Long Term Support).

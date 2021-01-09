@@ -1,5 +1,7 @@
 # Local Storage and Session Storage
 
+__Category: HTML__
+
 Local and Session storage are provided by HTML5 Web Storage browser capabilities.
 
 ### When to use localStorage and sessionStorage

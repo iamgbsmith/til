@@ -1,5 +1,7 @@
 # Bind To Active Directory
 
+__Category: Mac__
+
 Integrate your Mac with Microsoft Active Directory (AD) using the process outlined below.
 
 ### Bind macOS to Active Directory

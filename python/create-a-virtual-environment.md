@@ -1,5 +1,7 @@
 # Create A Virtual Environment
 
+__Category: Python__
+
 Tools like `virtualenv` and `virtualenvwrapper` provide isolated Python environments which are cleaner than installing packages system-wide. Virtual environments prevent dependency conflicts and also let you install packages without root privileges.
 
 Create a new virtual environment by choosing a Python interpreter and making a `./venv` directory for it:

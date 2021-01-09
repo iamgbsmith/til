@@ -1,5 +1,7 @@
 # Spring Boot Application Profiles
 
+__Category: Spring__
+
 Profiles allow you to specify different configuration values for Spring Boot applications depending on the environment they are being run in. For example: development, testing or production. 
 
 It is assumed that application property or yaml files use the naming convention application-dev.properties or application-dev.yml (where dev could be subsituted for test, prod, or other).

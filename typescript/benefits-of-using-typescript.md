@@ -1,5 +1,7 @@
 # Benefits Of Using TypeScript
 
+__Category: TypeScript__
+
 TypeScript from Microsoft is a typed superset of JavaScript that compiles to plain JavaScript. The key benefits of using TypeScript are:
 
 * Type safety - static types can be added to JavaScript which allows for errors to be caught earlier in the development process when code is being written. This lowers potential bug count and application support costs.

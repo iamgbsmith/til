@@ -1,5 +1,7 @@
 # Determine Table And Index Sizes
 
+__Category: Postgres__
+
 Determine the size of tables and indexes in Postgres by running the following query:
 
 ```sql

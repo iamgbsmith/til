@@ -1,5 +1,7 @@
 # Validating An OAuth Token
 
+__Category: Spring__
+
 Spring Security OAuth2 provides an endpoint to validate a JWT token. The JWT should be an access token as an **attempt to validate a refresh token will result in "Token was not recognised" being returned.**
 
 `https://server:host/context-root/oauth/check_token?token=`

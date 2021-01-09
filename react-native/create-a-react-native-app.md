@@ -1,5 +1,7 @@
 # Create A React Native App
 
+__Category: React Native__
+
 Create a React Native app from the command line as follows:
 
 ```shell

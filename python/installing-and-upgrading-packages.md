@@ -1,5 +1,7 @@
 # Installing And Upgrading Packages
 
+__Category: Python__
+
 Python packages can be installed using `pip`.
 
 For example, to install the `requests` package:

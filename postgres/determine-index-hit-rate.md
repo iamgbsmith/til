@@ -1,5 +1,7 @@
 # Determine Index Hit Rate
 
+__Category: Postgres__
+
 Postgres indexes should be tuned to ensure the highest chance of acheiving a direct hit. Hitting an in-memory index is manifestly faster than having to perform a sequential scan across a spinning disk.
 
 ### Index effectiveness for all user created tables in all schemas

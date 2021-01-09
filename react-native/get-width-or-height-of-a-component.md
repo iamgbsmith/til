@@ -1,5 +1,7 @@
 # Get Width Or Height Of A Component
 
+__Category: React Native__
+
 React Native provides the ability to get the width of the screen using `Dimensions.get('screen').width` and window using `Dimensions.get('window').width` methods. Height can be obtained using `.height`.
 
 `Dimensions` does not provide the ability to get the width or height of an individual component however it is possible to get these values using the `onLayout` callback. 

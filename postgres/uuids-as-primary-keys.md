@@ -1,5 +1,7 @@
 # UUIDs As Primary Keys
 
+__Category: Postgres__
+
 Postgres supports Universally Unique Identifier (UUID) objects for primary keys using one of several standard algorithms. UUIDs are a good choice for primary keys for the following reasons: 
 
 * They reduce the chance of an insecure direct object reference in APIs as the primary key for objects is harder to guess.

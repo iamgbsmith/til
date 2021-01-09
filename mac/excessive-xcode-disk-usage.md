@@ -1,5 +1,7 @@
 # Excessive Xcode Disk Usage
 
+__Category: Mac__
+
 If you are developing on a Mac you will find that Xcode uses a lot of disk space for intermediate build information, project indexes and iOS simulators. It is not unusual for more than 60GB of simulators to be installed on your Mac with each one taking between 2.5GB and 3.5GB.
 
 A quick way to recover disk space is to examine the contents of `~/Library/Developer/Xcode/iOS\ DeviceSupport/` 

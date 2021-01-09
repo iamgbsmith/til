@@ -1,5 +1,7 @@
 # Terminate A Hanging Query
 
+__Category: Postgres__
+
 Long running queries in Postgres can affect database performance and cause application bottlenecks. Typically, these types of queries are poorly written, untuned, and work across large datasets.
 
 To determine how long active queries have been running Postgres, execute the following command:

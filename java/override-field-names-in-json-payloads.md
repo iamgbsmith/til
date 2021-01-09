@@ -1,5 +1,7 @@
 # Override Field Names In JSON Payloads
 
+__Category: Java__
+
 Jackson will attempt to map the payload field to corresponding member variables of the same name in the target class when serialising and deserialising JSON payloads.
 
 Assume a JSON payload of:

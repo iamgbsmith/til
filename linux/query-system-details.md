@@ -1,5 +1,7 @@
 # Query System Details
 
+__Category: Linux__
+
 Various details regarding a Linux system can be obtained from the command line.
 
 ### Get Linux Version

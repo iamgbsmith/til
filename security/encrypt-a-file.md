@@ -1,5 +1,7 @@
 # Encrypt A File
 
+__Category: Security__
+
 Encrypt a file using OpenSSL on Linux or Mac. When prompted for a password, enter a strong passphrase.
 
 ```shell

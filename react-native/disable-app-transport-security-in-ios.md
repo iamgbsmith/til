@@ -1,5 +1,7 @@
 # Disable App Transport Security In iOS
 
+__Category: React Native__
+
 _This TIL also applies to applications developed using Swift._
 
 For security reasons, Apple iOS applications use App Transport Security (ATS) which requires the use of HTTPS instead of HTTP for calls to remote endpoints. By default, calls over HTTP will fail. 

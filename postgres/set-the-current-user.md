@@ -1,5 +1,7 @@
 # Set The Current User
 
+__Category: Postgres__
+
 Connections in Postgres are established using an account which can spawn sessions to run DDL or DML queries. 
 
 To set the the name of the application which has established a session with Postgres, run the following command:

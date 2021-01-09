@@ -1,5 +1,7 @@
 # Node Project Setup
 
+__Category: TypeScript__
+
 TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 The steps here will setup a Node project using yarn and TypeScript then start an Express server on port 3000. The application will watch for changes in TypeScript code to trigger a TypeScript compilation then use nodemon to automatically reload JavaScript code.

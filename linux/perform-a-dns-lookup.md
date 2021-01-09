@@ -1,5 +1,7 @@
 # Perform A DNS Lookup
 
+__Category: Linux__
+
 Linux/Unix/macOS provide the ability to lookup server details from the command line using the `host` command.
 
 ### Find the IP address associated with a domain name

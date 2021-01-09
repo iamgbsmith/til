@@ -1,5 +1,7 @@
 # Backup A Database
 
+__Category: Postgres__
+
 `pg_dump` extracts a single PostgreSQL database into a script or archive file.
 
 Extract a database to the file system using `pg_dump` with the following command:

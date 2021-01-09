@@ -1,5 +1,7 @@
 # Grep Find In Files
 
+__Category: Linux__
+
 You can search for a specific string in files recursively using `grep`.
 
 ### Example 1

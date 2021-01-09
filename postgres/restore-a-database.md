@@ -1,5 +1,7 @@
 # Restore A Database
 
+__Category: Postgres__
+
 `pg_restore` restores a PostgreSQL database from an archive file created by `pg_dump` in one of the non-plain-text formats.
 
 Restore a database from the file system using `pg_restore` with the following command:

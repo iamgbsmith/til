@@ -1,5 +1,7 @@
 # Reduce Boilerplate Code With Lombok
 
+__Category: Java__
+
 Project Lombok is a library that can be used to significantly reduce the amount of boilerplate code written for Java classes. Lombok does this by using annotations added to the Java class for which common methods are needed including getters, setters, constructors and other utility methods.
 
 Add the following dependencies to your Gradle build file.

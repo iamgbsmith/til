@@ -1,5 +1,7 @@
 # Immutability With Immer
 
+__Category: JavaScript__
+
 [Immer](https://github.com/immerjs/immer) is a library that facilitates easier state management in JavaScript. It helps you to create the next immutable state tree by simply modifying the current tree. Immer works by applying all your changes to a temporary draftState, which is a proxy of the currentState. Once all your mutations are completed, Immer will produce the nextState based on the mutations to the draft state.
 
 If using Immer in a React project, add to your package dependencies as follows:

@@ -1,5 +1,7 @@
 # Set Badge Icon In The Dock
 
+__Category: Swift__
+
 Set the badge icon for applications running in the dock on macOS in Swift code as follows:
 
 ```swift

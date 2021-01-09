@@ -1,5 +1,7 @@
 # Thread Dumps On Linux
 
+__Category: Java__
+
 Java thread dumps are useful to inspect the internal state of the JVM and determine whether any threads are deadlocked or spiking the CPU. A thread dump can be performed at the command line as follows:
 
 Get the process ID:

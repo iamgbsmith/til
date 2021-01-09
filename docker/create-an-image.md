@@ -1,5 +1,7 @@
 # Create An Image
 
+__Category: Docker__
+
 With a Dockerfile you can create a Docker image using the following command:
 
 ```shell

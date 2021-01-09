@@ -1,5 +1,7 @@
 # Manage Sensitive Data With Secrets
 
+__Category: Docker__
+
 Secrets allow the management of sensisitive data in a Docker Swarm deployment. This can include a blob of data such as an SSL Certificate, SSH private key, a password or any other data that should not be stored unencrypted. Secrets can be up to 500 kb in size.
 
 Secrets are encrypted during transit and at rest in a Docker Swarm. A secret is only accessible to those services which have been granted explicit access to it, and only while those service tasks are running.

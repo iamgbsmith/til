@@ -1,5 +1,7 @@
 # Run Unit Tests Faster
 
+__Category: Java__
+
 By default, JUnit tests are run sequentially in a single thread. 
 
 Using an experimental feature, JUnit 5.3 provides the ability to run tests in parallel to speed up test execution. Parallelism will be equal to the number of available processors/cores.

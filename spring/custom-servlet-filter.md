@@ -1,5 +1,7 @@
 # Custom Servlet Filter
 
+__Category: Spring__
+
 Spring custom servlet filters can be used to intercept HTTP requests and perform actions against those requests or decorate a response. For example, a custom servlet filter could log the request method, URI and remote address then continue the filter chain processing.
 
 ```java

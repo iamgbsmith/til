@@ -1,5 +1,7 @@
 # Remove Launch Screen White Flash
 
+__Category: React Native__
+
 iOS apps developed with React Native will momentarily flash a white screen when launching while the bridge is initialising. This can be fixed by creating a custom launch screen and showing it only for as long as required when the app starts.
 
 __Note:__ As announced at WWDC19, starting April 2020, apps submitted to the App Store must use an Xcode storyboard to provide the app’s launch screen and must have an interface that supports any display size.

@@ -1,5 +1,7 @@
 # Connecting pgAdmin Over SSH
 
+__Category: Postgres__
+
 I struck a permissions problem connecting to a remote Postgres instance using pgAdmin. For security reasons, configuration in pg_hba.conf was restricting the IP address for incoming connections preventing me from directly accessing the server from my local machine because it wasn't whitelisted.
 
 The solution was to create a tunnel over SSH specifying the local port to use when binding to the Postgres port at the remote address. Connections were established using an account on the database server.

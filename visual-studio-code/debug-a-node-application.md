@@ -1,5 +1,7 @@
 # Debug A Node Application
 
+__Category: Visual Studio Code__
+
 Visual Studio Code provides the ability to debug a Node application. To do this, open a terminal in VSCode and launch the application as follows (substituting `server.js` for the name of your application entrypoint):
 
 ```

@@ -1,5 +1,7 @@
 # Java Licensing Policy
 
+__Category: Java__
+
 *This article was written around the time Oracle moved to a new licensing model for Java 9 in 2017. It has been revised for 2020 around the same time that [AdoptOpenJDK was transferred to the Eclipse Foundation and renamed to Eclipse Adoptium.](https://blog.adoptopenjdk.net/2020/06/adoptopenjdk-to-join-the-eclipse-foundation/) It is not legal advice and you should consult a lawyer if in doubt.*
 
 ## Background

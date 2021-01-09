@@ -1,5 +1,7 @@
 # Show Free Disk Space
 
+__Category: Linux__
+
 You can show how much disk space is free on all mounted file systems by using the `df` command.
 
 Use `df` with the argument `-h` to show output in "human-readable" format.

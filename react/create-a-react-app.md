@@ -1,5 +1,7 @@
 # Create A React App
 
+__Category: React__
+
 Create a React app from the command line using the TypeScript template as follows:
 
 ```shell

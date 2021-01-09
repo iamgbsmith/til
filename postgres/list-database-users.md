@@ -1,5 +1,7 @@
 # List Database Users
 
+__Category: Postgres__
+
 List users in a Postgres database from the `psql` interface using the `\du` command:
 
 ```sql

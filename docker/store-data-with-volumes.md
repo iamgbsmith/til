@@ -1,5 +1,7 @@
 # Store Data With Volumes
 
+__Category: Docker__
+
 Volumes are the preferred way to persist data in Docker containers and services as they allow you to back up, restore, or migrate data from one Docker host to another.
 
 The approach outlined here creates a volume which is used in a Swarm deployment.

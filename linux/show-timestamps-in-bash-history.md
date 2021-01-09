@@ -1,5 +1,7 @@
 # Show Timestamps In Bash History
 
+__Category: Linux__
+
 By default, the output from `history` does not show a timestamp when commands were run in bash.
 
 To enable timestamps in history for the logged in user, update `~./bashrc` as follows:
