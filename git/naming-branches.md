@@ -1,5 +1,7 @@
 # Naming Branches
 
+__Category: Git__
+
 Typically, branches in Git are named according to the type of work being performed in the branch. 
 
 The branch name:

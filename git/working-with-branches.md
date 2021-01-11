@@ -1,5 +1,7 @@
 # Working With Branches
 
+__Category: Git__
+
 A branch in Git is a lightweight movable pointer to a commit. The default branch name in Git is master.
 
 ### List all branches

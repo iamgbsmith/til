@@ -1,5 +1,7 @@
 # Undoing Changes
 
+__Category: Git__
+
 Before changes are committed to the repository history, they live in the staging index and the working directory. 
 
 If you have made changes locally and need to remove these from your local working copy, issue the following command: 
