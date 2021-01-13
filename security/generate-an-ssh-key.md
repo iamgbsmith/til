@@ -38,14 +38,14 @@ At the prompt, type a secure passphrase.
 Start the ssh-agent in the background:
 
 ```
-$ eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)"
 > Agent pid 34117
 ```
 
-Check to see if your ~/.ssh/config file exists in the default location.
+Check to see if `~/.ssh/config` exists in the default location.
 
 ```
-$ open ~/.ssh/config
+open ~/.ssh/config
 > The file /Users/you/.ssh/config does not exist.
 ```
 
@@ -55,7 +55,7 @@ If the file doesn't exist, create it:
 touch ~/.ssh/config
 ```
 
-Add the key to the SSH agent:
+Edit `~/.ssh/config` and add the following:
 
 ```
 Host *
