@@ -2,11 +2,11 @@
 
 ## Today I Learned
 
-Far too many times in my career I have done something in a hurry without capturing any detail for future reference. In those moments of haste, what I should have done was document the learnings irrespective of how trivial they might seem so that when I needed to do the same thing again I wouldn't be scrambling for answers.
+There have been numerous occassions when I have done something in a hurry without capturing any detail for future reference. In those moments of haste, what I should have done was document the learnings irrespective of how trivial they might seem so that when I needed to do the same thing again I wouldn't be scrambling for answers.
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_75 TILs and counting..._
+_76 TILs and counting..._
 
 ---
 
@@ -46,6 +46,7 @@ _75 TILs and counting..._
 - [Change Default Init Branch Name](git/change-default-init-branch-name.md)
 - [Naming Branches](git/naming-branches.md)
 - [Improve Productivity Using Aliases](git/improve-productivity-using-aliases.md)
+- [Setup A Repository](git/setup-a-repository)
 - [Working With Branches](git/working-with-branches.md)
 - [Undoing Changes](git/undoing-changes.md)
 
