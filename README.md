@@ -46,7 +46,7 @@ _76 TILs and counting..._
 - [Change Default Init Branch Name](git/change-default-init-branch-name.md)
 - [Naming Branches](git/naming-branches.md)
 - [Improve Productivity Using Aliases](git/improve-productivity-using-aliases.md)
-- [Setup A Repository](git/setup-a-repository)
+- [Setup A Repository](git/setup-a-repository.md)
 - [Working With Branches](git/working-with-branches.md)
 - [Undoing Changes](git/undoing-changes.md)
 
