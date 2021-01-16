@@ -13,7 +13,6 @@ let outdoorSensor = TemperatureSensor()
 var outdoorTemperature: Int = 0
 
 func someMethod() {
-    
     outdoorSensor.initialize(callback: { (temperature : Int) -> Void in
         self.outdoorTemperature = temperature
         if (self.outdoorTemperature > 0) {
