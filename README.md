@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_77 TILs and counting..._
+_78 TILs and counting..._
 
 ---
 
@@ -78,6 +78,7 @@ _77 TILs and counting..._
 
 ### Mac
 - [Bind To Active Directory](mac/bind-to-active-directory.md)
+- [Copy To Your Clipboard From The Command Line](mac/copy-to-your-clipboard-from-the-command-line.md)
 - [Excessive Xcode Disk Usage](mac/excessive-xcode-disk-usage.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
 - [Responsive Design Mode In Safari](mac/responsive-design-mode-in-safari.md)
