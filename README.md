@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_78 TILs and counting..._
+_79 TILs and counting..._
 
 ---
 
@@ -142,6 +142,7 @@ _78 TILs and counting..._
 
 ### Xcode
 - [Hide An Application Dock Icon And Main Window](xcode/hide-an-application-dock-icon-and-main-window.md)
+- [Record iOS Simulator](xcode/record-ios-simulator.md)
 
 ## About
 
