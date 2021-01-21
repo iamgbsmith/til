@@ -1,5 +1,7 @@
 # Record iOS Simulator
 
+__Category: Xcode__
+
 You can record video in an iOS simulator from the command line.
 
 List all devices:
