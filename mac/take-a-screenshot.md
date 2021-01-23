@@ -14,7 +14,7 @@ Hold down `shift + command + 4` then drag the mouse cursor over the section you 
 
 ### Screenshot a window
 
-Hold down `shift + command + 3` then press the `space` bar. Click on the window you want to capture.
+Hold down `shift + command + 4` then press the `space` bar. Click on the window you want to capture.
 
 ### Changing the location where screenshots are saved
 
