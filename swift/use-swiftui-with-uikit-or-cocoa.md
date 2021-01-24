@@ -4,7 +4,7 @@ __Category: Swift__
 
 When developing Swift applications that use storyboards, it is possible to incorporate SwiftUI views with a `UIViewController` (UIKit for iOS) or `NSViewController` (Cocoa for macOS) by wrapping the view in either a `UIHostingController` or `NSHostingController`.
 
-The example here is for a Swift app running on maOS with a SwiftUI view called `DashboardView`
+The example here is for a Swift app running on maOS with a SwiftUI view called `DashboardView`.
 
 ### Create a view controller
 
