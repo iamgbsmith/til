@@ -64,6 +64,6 @@ curl http://localhost:3000/cars
 
 Output:
 
-```shell
+```json
 [{"car":"BMW M3 Competition"},{"car":"Honda Civic Type R"},{"car":"Ford Mustang GT"},{"car":"Porsche 911 GT3"},{"car":"Volkswagen Golf GTI Clubsport"}]
 ```
