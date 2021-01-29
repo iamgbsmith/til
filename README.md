@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_83 TILs and counting..._
+_84 TILs and counting..._
 
 ---
 
@@ -133,6 +133,7 @@ _83 TILs and counting..._
 
 ### Swift
 - [Create A Callback Function](swift/create-a-callback-function.md)
+- [Format A Date String](swift/format-a-date-string.md)
 - [Set Badge Icon In The Dock](swift/set-badge-icon-in-the-dock.md)
 - [Sort An Array](swift/sort-an-array.md)
 - [Use SwiftUI With UIKit Or Cocoa](swift/use-swiftui-with-uikit-or-cocoa.md)
