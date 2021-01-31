@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_85 TILs and counting..._
+_86 TILs and counting..._
 
 ---
 
@@ -44,6 +44,7 @@ _85 TILs and counting..._
 
 ### Git
 - [Change Default Init Branch Name](git/change-default-init-branch-name.md)
+- [Configure Git Settings](git/configure-git-settings.md)
 - [Naming Branches](git/naming-branches.md)
 - [Improve Productivity Using Aliases](git/improve-productivity-using-aliases.md)
 - [Setup A Repository](git/setup-a-repository.md)
@@ -156,6 +157,6 @@ This collection was inspired by Josh Branchaud [jbranchaud/til](https://github.c
 
 ## License
 
-&copy; 2020 Greg Smith
+&copy; 2020 - 2021 Greg Smith
 
 This repository is licensed under the MIT license. See `LICENSE` for details.
