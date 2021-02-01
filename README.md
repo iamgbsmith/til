@@ -124,8 +124,8 @@ _86 TILs and counting..._
 ### Security
 - [Encrypt A File](security/encrypt-a-file.md)
 - [Generate An SSH Key](security/generate-an-ssh-key.md)
+- [SSH Key Algorithms](security/ssh-key-algorithms.md)
 - [Verify A Checksum](security/verify-a-checksum.md)
-
 ### Spring
 - [Custom Servlet Filter](spring/custom-servlet-filter.md)
 - [Listen For Authentication Events](spring/listen-for-authentication-events.md)
