@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_87 TILs and counting..._
+_88 TILs and counting..._
 
 ---
 
@@ -107,6 +107,7 @@ _87 TILs and counting..._
 - [Installing And Upgrading Packages](python/installing-and-upgrading-packages.md)
 
 ### React
+- [Change Page Title](react/change-page-title.md)
 - [Clean Yarn Cache](react/clean-yarn-cache.md)
 - [Create A React App](react/create-a-react-app.md)
 - [Using Styled Components](react/using-styled-components.md)
