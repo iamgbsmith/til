@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_88 TILs and counting..._
+_89 TILs and counting..._
 
 ---
 
@@ -123,6 +123,7 @@ _88 TILs and counting..._
 - [Run Bundler And Simulator In VSCode](react-native/run-bundler-and-simulator-in-vscode.md)
 
 ### Security
+- [Check SSL Certificate Expiry Date](security/check-ssl-certificate-expiry-date.md)
 - [Encrypt A File](security/encrypt-a-file.md)
 - [Generate An SSH Key](security/generate-an-ssh-key.md)
 - [SSH Key Algorithms](security/ssh-key-algorithms.md)
