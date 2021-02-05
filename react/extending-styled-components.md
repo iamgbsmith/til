@@ -2,7 +2,7 @@
 
 __Category: React__
 
-Extended a styled component can reduce the amount of boilerplate code needing to be written. 
+Extending a styled component can reduce the amount of boilerplate code needing to be written. 
 
 You can also override styles in the extending styled component.
 
