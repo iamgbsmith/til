@@ -110,7 +110,7 @@ _90 TILs and counting..._
 - [Change Page Title](react/change-page-title.md)
 - [Clean Yarn Cache](react/clean-yarn-cache.md)
 - [Create A React App](react/create-a-react-app.md)
-- [Extending Styled Components](extending-styled-components.md)
+- [Extending Styled Components](react/extending-styled-components.md)
 - [Using Styled Components](react/using-styled-components.md)
 
 ### React Native
