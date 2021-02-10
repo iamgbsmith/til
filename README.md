@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_93 TILs and counting..._
+_94 TILs and counting..._
 
 ---
 
@@ -69,6 +69,7 @@ _93 TILs and counting..._
 - [Thread Dumps On Linux](java/thread-dumps-on-linux.md)
 
 ### JavaScript
+- [Filter A JSON Array](javascript/filter-a-json-array.md)
 - [Immutability With Immer](javascript/immutability-with-immer.md)
 - [Create A Simple REST Server Using Node](javascript/create-a-simple-rest-server-using-node.md)
 
