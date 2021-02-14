@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_97 TILs and counting..._
+_98 TILs and counting..._
 
 ---
 
@@ -44,6 +44,7 @@ _97 TILs and counting..._
 - [Store Data With Volumes](docker/store-data-with-volumes.md)
 
 ### Gatsby
+- [Change Favicon](gatsby/change-favicon.md)
 - [Create A Gatsby Site](gatsby/create-a-gatsby-site.md)
 - [Track Usage With Google Analytics](gatsby/track-usage-with-google-analytics.md)
 ### Git
