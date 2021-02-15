@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_98 TILs and counting..._
+_99 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _98 TILs and counting..._
 * [Python](#python)
 * [React Native](#react-native)
 * [React](#react)
+* [Redis](#redis)
 * [Security](#security)
 * [Spring](#spring)
 * [Swift](#swift)
@@ -131,6 +132,9 @@ _98 TILs and counting..._
 - [Get Width Or Height Of A Component](react-native/get-width-or-height-of-a-component.md)
 - [Remove Launch Screen White Flash](react-native/remove-launch-screen-white-flash.md)
 - [Run Bundler And Simulator In VSCode](react-native/run-bundler-and-simulator-in-vscode.md)
+
+### Redis
+- [Get Server Info](redis/get-server-info.md)
 
 ### Security
 - [Check SSL Certificate Expiry Date](security/check-ssl-certificate-expiry-date.md)
