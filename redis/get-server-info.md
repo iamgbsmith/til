@@ -4,6 +4,14 @@ __Category: Redis__
 
 Details about a Redis server including version and uptime can be obtained using the `INFO server` command. 
 
+Start the Redis command line interface:
+
+```shell
+redis-cli
+```
+
+Query the Redis server:
+
 ```shell
 127.0.0.1:6379> INFO server
 # Server
