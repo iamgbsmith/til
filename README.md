@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_102 TILs and counting..._
+_103 TILs and counting..._
 
 ---
 
@@ -78,6 +78,7 @@ _102 TILs and counting..._
 - [Create A Simple REST Server Using Node](javascript/create-a-simple-rest-server-using-node.md)
 
 ### Linux
+- [Display Environment Variables](linux/display-environment-variables.md)
 - [Grep Find In Files](linux/grep-find-in-files.md)
 - [Install A Root Certificate](linux/install-a-root-certificate.md)
 - [Perform A DNS Lookup](linux/perform-a-dns-lookup.md)
