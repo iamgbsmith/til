@@ -41,7 +41,7 @@ _103 TILs and counting..._
 - [Install Docker On Ubuntu](docker/install-docker-on-ubuntu.md)
 - [Manage Sensitive Data With Secrets](docker/manage-sensitive-data-with-secrets.md)
 - [Placement Constraints With Swarm](docker/placement-constraints-with-swarm.md)
-- [NGINX Network Resolver](docker/nginx-network-resolver.md)
+- [Nginx Network Resolver](docker/nginx-network-resolver.md)
 - [Store Data With Volumes](docker/store-data-with-volumes.md)
 
 ### Gatsby
