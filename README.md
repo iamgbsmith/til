@@ -151,7 +151,7 @@ _103 TILs and counting..._
 - [Listen For Authentication Events](spring/listen-for-authentication-events.md)
 - [OAuth Token Endpoints](spring/oauth-token-endpoints.md)
 - [Spring Boot Application Profiles](spring/spring-boot-application-profiles.md)
-- [Spring Boot Custom Startup Banner](spring/spring-boot-custom-startup-banner.md)
+- [Custom Spring Boot Startup Banner](spring/custom-spring-boot-startup-banner.md)
 - [Validating An OAuth Token](spring/validating-an-oauth-token.md)
 
 ### Swift
