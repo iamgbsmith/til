@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_104 TILs and counting..._
+_105 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _104 TILs and counting..._
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
+* [Nginx](#nginx)
 * [Postgres](#postgres)
 * [Python](#python)
 * [React Native](#react-native)
@@ -103,6 +104,8 @@ _104 TILs and counting..._
 - [Take A Screenshot](mac/take-a-screenshot.md)
 - [Use Emojis And Symbols](mac/use-emojis-and-symbols.md)
 
+### Nginx
+- [Hide Version Information](nginx/hide-version-information.md)
 ### Postgres
 - [Backup A Database](postgres/backup-a-database.md)
 - [Connecting pgAdmin Over SSH](postgres/connecting-pgadmin-over-ssh.md)
