@@ -4,7 +4,7 @@ __Category: Nginx__
 
 It is good security practice to remove web server version information by modifying the HTTP response header. Obfuscating details will help prevent bad actors from using known exploits for specific versions of a web server that could be vulnerable to attack. 
 
-To prevent Nginx version information being display in HTTP Response headers edit the NGINX configuration file `/etc/nginx/nginx.conf` to disable server tokens. 
+To prevent Nginx version information being display in HTTP Response headers edit the configuration file `/etc/nginx/nginx.conf` to disable server tokens. 
 
 Under the HTTP Options and ## lines, add a new line: 
 
