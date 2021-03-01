@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_106 TILs and counting..._
+_107 TILs and counting..._
 
 ---
 
@@ -21,6 +21,7 @@ _106 TILs and counting..._
 * [Linux](#linux)
 * [Mac](#mac)
 * [Nginx](#nginx)
+* [Nodejs](#nodejs)
 * [Postgres](#postgres)
 * [Python](#python)
 * [React Native](#react-native)
@@ -77,7 +78,6 @@ _106 TILs and counting..._
 ### JavaScript
 - [Filter A JSON Array](javascript/filter-a-json-array.md)
 - [Immutability With Immer](javascript/immutability-with-immer.md)
-- [Create A Simple REST Server Using Node](javascript/create-a-simple-rest-server-using-node.md)
 
 ### Linux
 - [Display Environment Variables](linux/display-environment-variables.md)
@@ -107,6 +107,11 @@ _106 TILs and counting..._
 
 ### Nginx
 - [Hide Version Information](nginx/hide-version-information.md)
+
+### Nodejs
+- [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
+- [Using Node Version Manager](nodejs/using-node-version-manager.md)
+
 ### Postgres
 - [Backup A Database](postgres/backup-a-database.md)
 - [Connecting pgAdmin Over SSH](postgres/connecting-pgadmin-over-ssh.md)

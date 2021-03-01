@@ -1,8 +1,8 @@
-# Create A Simple REST Server Using Node
+# Create A Simple REST Server
 
-__Category: JavaScript__
+__Category: Nodejs__
 
-You can create a simple Node REST server using minimal code for the purposes of serving JSON. This example assumes you have installed Node.js and Yarn.
+You can create a simple Node.js REST server using minimal code for the purposes of serving JSON. This example assumes you have installed Node.js and Yarn.
 
 Create a `package.json` file with the following:
 
