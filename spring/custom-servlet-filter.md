@@ -11,11 +11,11 @@ public class RequestResponseLoggingFilter extends GenericFilterBean {
 
     @Override
     public void doFilter (ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
-        HttpServletRequest req = (HttpServletRequest) request;
-        HttpServletResponse res = (HttpServletResponse) response;
-        LOGGER.info("Logging Request {} : {} from endpoint {}", req.getMethod(), req.getRequestURI(), req.getRemoteAddr());
+        HttpServletRequest httpServletRequest = (HttpServletRequest) request;
+        HttpServletResponse httpServletResponse = (HttpServletResponse) response;
+        LOGGER.info("Logging Request {} : {} from endpoint {}", httpServletRequest.getMethod(), httpServletRequest.getRequestURI(), httpServletRequest.getRemoteAddr());
         chain.doFilter(request, response);
-        LOGGER.info("Logging Response :{}", res.getContentType());
+        LOGGER.info("Logging Response :{}", httpServletResponse.getContentType());
     }
 
 }
