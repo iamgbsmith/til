@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_110 TILs and counting..._
+_111 TILs and counting..._
 
 ---
 
@@ -158,6 +158,7 @@ _110 TILs and counting..._
 - [SSH Key Algorithms](security/ssh-key-algorithms.md)
 - [Verify A Checksum](security/verify-a-checksum.md)
 ### Spring
+- [Custom HTTP Response Headers](spring/custom-http-response-headers.md)
 - [Custom Servlet Filter](spring/custom-servlet-filter.md)
 - [Enable CORS Support](spring/enable-cors-support.md)
 - [Listen For Authentication Events](spring/listen-for-authentication-events.md)
