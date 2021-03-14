@@ -2,7 +2,7 @@
 
 __Category: Spring__
 
-Custom HTTP response headers can be added using a custom servlet filter in the filter chain.
+Custom HTTP response headers can be added using a custom servlet filter.
 
 ```java
 public class CustomHeaderFilter extends GenericFilterBean {
