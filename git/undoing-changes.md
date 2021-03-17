@@ -11,7 +11,7 @@ The command to use depends on whether the changes are committed or uncommitted.
 
 ### Undo all changes in a private branch
 
-For example, to remove all changes on a private branch that are uncommitted, use the `git reset` command. If you want to retain any files that were created on the branch use the `--soft` option (__do not use the `--hard` option unless you want to delete all changes in the working directory__):
+To remove all changes on a private branch that are uncommitted, use the `git reset` command. If you want to retain any files that were created on the branch use the `--soft` option (__do not use the `--hard` option unless you want to delete all changes in the working directory__):
 
 ```shell
 git reset --soft
