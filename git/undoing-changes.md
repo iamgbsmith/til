@@ -2,14 +2,43 @@
 
 __Category: Git__
 
-Before changes are committed to the repository history, they live in the staging index and the working directory. 
+The `git reset` and `git revert` can be used to undo changes in a repository. The former command allows you to manipulate either commits or individual files.
 
-If you have made changes locally and need to remove these from your local working copy, issue the following command: 
+It is important to consider that before changes are committed to the repository history, they live in the staging index and the working directory. 
+## Which command should you use?
+
+The command to use depends on whether the changes are committed or uncommitted.
+
+### Undo all changes in a private branch
+
+For example, to remove all changes on a private branch that are uncommitted, use the `git reset` command. If you want to retain any files that were created on the branch use the `--soft` option (__do not use the `--hard` option unless you want to delete all changes in the working directory__):
 
 ```shell
-git reset
+git reset --soft
 ```
 
-This will have the effect of removing changes which were comitted to the local repository but not pushed to the remote repository. 
+### Undo changes to a specific file in a private branch
 
-Any files that were created on the branch will remain on the file system.
+To abandon changes on a file in a private branch, specify the file/path. 
+
+To reset a specific file called `index.html` to the most recent previous version:
+
+```shell
+git reset index.html
+```
+
+The following command will fetch the version of `index.html` in the third-to-last commit and stage it for the next commit:
+
+```shell
+git reset HEAD~3 index.html
+```
+
+### Undo changes in a public commit
+
+Reverting undoes a commit by creating a new commit. It is a safe way to undo changes because it does not re-write the commit history.
+
+For example, the following command will determine changes contained in the second to last commit, create a new commit undoing those changes, and add the new commit onto the existing project for the current branch.
+
+```shell
+git revert HEAD~2
+```
