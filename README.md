@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_115 TILs and counting..._
+_116 TILs and counting..._
 
 ---
 
@@ -123,6 +123,7 @@ _115 TILs and counting..._
 - [Determine Table And Index Sizes](postgres/determine-table-and-index-sizes.md)
 - [Get The Current User](postgres/get-the-current-user.md)
 - [List Database Users](postgres/list-database-users.md)
+- [List Databases And Tables Using PSQL](postgres/list-databases-and-tables-using-psql.md)
 - [Restore A Database](postgres/restore-a-database.md)
 - [Set The Current User](postgres/set-the-current-user.md)
 - [Terminate A Hanging Query](postgres/terminate-a-hanging-query.md)
