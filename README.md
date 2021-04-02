@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_117 TILs and counting..._
+_118 TILs and counting..._
 
 ---
 
@@ -98,6 +98,7 @@ _117 TILs and counting..._
 - [Encrypt A Zip File](mac/encrypt-a-zip-file.md)
 - [Encrypt Your Disk](mac/encrypt-your-disk.md)
 - [Excessive Xcode Disk Usage](mac/excessive-xcode-disk-usage.md)
+- [Install Command Line Tools](mac/install-command-line-tools.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
 - [Loop Through Photos](mac/loop-through-photos.md)
 - [Reorder Menubar Items](mac/reorder-menubar-items.md)
