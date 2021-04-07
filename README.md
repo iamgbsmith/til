@@ -116,7 +116,7 @@ _120 TILs and counting..._
 ### Nodejs
 - [Check For Outdated Dependencies](nodejs/check-for-outdated-dependencies.md)
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
-- [Sample Git Ignore File For Nodejs Project](nodejs/sample-git-ignore-for-a-nodejs-project.md)
+- [Sample Git Ignore For A Nodejs Project](nodejs/sample-git-ignore-for-a-nodejs-project.md)
 - [Specifying A Node Version](nodejs/specifying-a-node-version.md)
 - [Using Node Version Manager](nodejs/using-node-version-manager.md)
 
