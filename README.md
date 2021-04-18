@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_123 TILs and counting..._
+_124 TILs and counting..._
 
 ---
 
@@ -54,6 +54,7 @@ _123 TILs and counting..._
 - [Deploying To Netlify](gatsby/deploying-to-netlify.md)
 - [Track Outbound Links](gatsby/track-outbound-links.md)
 - [Track Usage With Google Analytics](gatsby/track-usage-with-google-analytics.md)
+- [Using Custom Fonts](gatsby/using-custom-fonts.md)
 ### Git
 - [Add An SSH Key To GitHub](git/add-an-ssh-key-to-github.md)
 - [Change Default Init Branch Name](git/change-default-init-branch-name.md)
