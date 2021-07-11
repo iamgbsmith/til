@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_124 TILs and counting..._
+_125 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _124 TILs and counting..._
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
+* [MQTT](#mqtt)
 * [Nginx](#nginx)
 * [Nodejs](#nodejs)
 * [Postgres](#postgres)
@@ -114,6 +115,8 @@ _124 TILs and counting..._
 - [Take A Screenshot](mac/take-a-screenshot.md)
 - [Use Emojis And Symbols](mac/use-emojis-and-symbols.md)
 
+### MQTT
+- [Quality Of Service Levels](mqtt/quality-of-service-levels.md)
 ### Nginx
 - [Hide Version Information](nginx/hide-version-information.md)
 
