@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_127 TILs and counting..._
+_128 TILs and counting..._
 
 ---
 
@@ -57,6 +57,7 @@ _127 TILs and counting..._
 - [Change Favicon](gatsby/change-favicon.md)
 - [Create A Gatsby Site](gatsby/create-a-gatsby-site.md)
 - [Deploying To Netlify](gatsby/deploying-to-netlify.md)
+- [Make Content Crawlable](gatsby/make-content-crawlable.md)
 - [Track Outbound Links](gatsby/track-outbound-links.md)
 - [Track Usage With Google Analytics](gatsby/track-usage-with-google-analytics.md)
 - [Using Custom Fonts](gatsby/using-custom-fonts.md)
