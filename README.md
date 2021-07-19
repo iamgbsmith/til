@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_128 TILs and counting..._
+_129 TILs and counting..._
 
 ---
 
@@ -130,6 +130,7 @@ _128 TILs and counting..._
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
 - [Sample Git Ignore For A Nodejs Project](nodejs/sample-git-ignore-for-a-nodejs-project.md)
 - [Specifying A Node Version](nodejs/specifying-a-node-version.md)
+- [Upgrading Package Dependencies](nodejs/upgrading-package-dependencies.md)
 - [Using Node Version Manager](nodejs/using-node-version-manager.md)
 
 ### Postgres
