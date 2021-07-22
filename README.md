@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_130 TILs and counting..._
+_131 TILs and counting..._
 
 ---
 
@@ -92,6 +92,7 @@ _130 TILs and counting..._
 - [Immutability With Immer](javascript/immutability-with-immer.md)
 
 ### Linux
+- [Curl Showing HTTP Headers](linux/curl-showing-http-headers.md)
 - [Display Environment Variables](linux/display-environment-variables.md)
 - [Grep Find In Files](linux/grep-find-in-files.md)
 - [Install A Root Certificate](linux/install-a-root-certificate.md)
