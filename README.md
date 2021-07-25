@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_131 TILs and counting..._
+_132 TILs and counting..._
 
 ---
 
@@ -16,6 +16,7 @@ _131 TILs and counting..._
 * [Docker](#docker)
 * [Gatsby](#gatsby)
 * [Git](#git)
+* [Gradle](#gradle)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -71,6 +72,9 @@ _131 TILs and counting..._
 - [Setup A Repository](git/setup-a-repository.md)
 - [Working With Branches](git/working-with-branches.md)
 - [Undoing Changes](git/undoing-changes.md)
+
+### Gradle
+- [Install Gradle On MacOS](gradle/install-gradle-on-macos.md)
 
 ### HTML
 - [Determine Browser Capabilities](html/determine-browser-capabilities.md)
