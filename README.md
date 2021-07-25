@@ -75,6 +75,7 @@ _132 TILs and counting..._
 
 ### Gradle
 - [Install Gradle On MacOS](gradle/install-gradle-on-macos.md)
+- [Skip Tests During Builds](gradle/skip-tests-during-builds.md)
 
 ### HTML
 - [Determine Browser Capabilities](html/determine-browser-capabilities.md)
