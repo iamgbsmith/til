@@ -1,6 +1,6 @@
 # Enable HTTP Strict Transport Security
 
-__Category: NGINX__
+__Category: Nginx__
 
 HTTP Strict Transport Security (HSTS) is a web security policy mechanism that helps to protect websites against Man-In-The-Middle (MITM) attacks such as protocol downgrade attacks and cookie hijacking. It should be enabled on all production sites. 
 
