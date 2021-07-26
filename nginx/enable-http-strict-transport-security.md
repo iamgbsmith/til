@@ -22,6 +22,7 @@ http {
 
     [etc...]
 
+    # Add HSTS header
     add_header Strict-Transport-Security "max-age=31536000; includeSubdomains;" always;
 
     [etc...]
@@ -42,7 +43,7 @@ server
     # Add perfect forward secrecy
     ssl_prefer_server_ciphers on;
 
-    # Add HSTS
+    # Add HSTS header
     add_header Strict-Transport-Security "max-age=31536000; includeSubdomains" always;
 
     [etc...]
