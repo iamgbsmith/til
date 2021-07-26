@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_133 TILs and counting..._
+_134 TILs and counting..._
 
 ---
 
@@ -130,6 +130,7 @@ _133 TILs and counting..._
 ### MQTT
 - [Quality Of Service Levels](mqtt/quality-of-service-levels.md)
 ### Nginx
+- [Enable HTTP Strict Transport Security](nginx/enable-http-strict-transport-security.md)
 - [Hide Version Information](nginx/hide-version-information.md)
 
 ### Nodejs
