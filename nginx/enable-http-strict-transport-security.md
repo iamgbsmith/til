@@ -13,8 +13,6 @@ This will apply to all virtual servers.
 ```
 http 
 {
-
-    # Basic Settings
     tcp_nopush on;
     tcp_nodelay on;
     types_hash_max_size 2048;
