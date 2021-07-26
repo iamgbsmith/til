@@ -11,7 +11,8 @@ HSTS can be enabled at either the `http` block for all virtual servers handled b
 This will apply to all virtual servers.
 
 ```
-http {
+http 
+{
 
     # Basic Settings
     tcp_nopush on;
