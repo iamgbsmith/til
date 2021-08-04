@@ -102,6 +102,7 @@ _138 TILs and counting..._
 - [Grep Find In Files](linux/grep-find-in-files.md)
 - [Install A Root Certificate](linux/install-a-root-certificate.md)
 - [Perform A DNS Lookup](linux/perform-a-dns-lookup.md)
+- [Print From The Command Line](linux/print-from-the-command-line.md)
 - [Query System Details](linux/query-system-details.md)
 - [Run Commands In The Background](linux/run-commands-in-the-background.md)
 - [Set Timezone](linux/set-timezone.md)
