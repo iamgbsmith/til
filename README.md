@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_139 TILs and counting..._
+_140 TILs and counting..._
 
 ---
 
@@ -197,6 +197,7 @@ _139 TILs and counting..._
 - [Custom HTTP Response Headers](spring/custom-http-response-headers.md)
 - [Custom Servlet Filter](spring/custom-servlet-filter.md)
 - [Enable CORS Support](spring/enable-cors-support.md)
+- [Generate A QR Code](spring/generate-a-qr-code.md)
 - [Listen For Authentication Events](spring/listen-for-authentication-events.md)
 - [OAuth Token Endpoints](spring/oauth-token-endpoints.md)
 - [Spring Boot Application Profiles](spring/spring-boot-application-profiles.md)
