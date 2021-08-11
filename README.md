@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_143 TILs and counting..._
+_144 TILs and counting..._
 
 ---
 
@@ -88,6 +88,7 @@ _143 TILs and counting..._
 - [Import A Certificate Into The KeyStore](java/import-a-certificate-into-the-keystore.md)
 - [Install Java On macOS](java/install-java-on-macos.md)
 - [Java Licensing Policy](java/java-licensing-policy.md)
+- [List Certificates In The Keystore](java/list-certificates-in-the-keystore.md)
 - [Override Field Names In JSON Payloads](java/override-field-names-in-json-payloads.md)
 - [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
 - [Run Unit Tests Faster](java/run-unit-tests-faster.md)
