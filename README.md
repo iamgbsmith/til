@@ -34,7 +34,7 @@ _148 TILs and counting..._
 * [Spring](#spring)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-* [Visual Studio Code](#visual-studio-code)
+* [VS Code](#vs-code)
 * [Xcode](#xcode)
 
 ---
@@ -223,8 +223,9 @@ _148 TILs and counting..._
 - [Benefits Of Using TypeScript](typescript/benefits-of-using-typescript.md)
 - [Node Project Setup](typescript/node-project-setup.md)
 
-### Visual Studio Code
-- [Debug A Node Application](visual-studio-code/debug-a-node-application.md)
+### VS Code
+- [Debug A Node Application](vs-code/debug-a-node-application.md)
+- [Launch VS Code From The Command Line](vs-code/launch-vscode-from-the-command-line.md)
 
 ### Xcode
 - [Hide An Application Dock Icon And Main Window](xcode/hide-an-application-dock-icon-and-main-window.md)
