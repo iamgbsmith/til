@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledege sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_150 TILs and counting..._
+_151 TILs and counting..._
 
 ---
 
@@ -106,6 +106,7 @@ _150 TILs and counting..._
 - [Get Weather Information From The Command Line](linux/get-weather-information-from-the-command-line.md)
 - [Grep Find In Files](linux/grep-find-in-files.md)
 - [Install A Root Certificate](linux/install-a-root-certificate.md)
+- [Install Raspberry Pi OS](linux/install-raspberry-pi-os.md)
 - [Perform A DNS Lookup](linux/perform-a-dns-lookup.md)
 - [Print From The Command Line](linux/print-from-the-command-line.md)
 - [Query System Details](linux/query-system-details.md)
