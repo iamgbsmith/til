@@ -223,7 +223,7 @@ _153 TILs and counting..._
 - [Sort An Array](swift/sort-an-array.md)
 - [Use SwiftUI With UIKit Or Cocoa](swift/use-swiftui-with-uikit-or-cocoa.md)
 ### TypeScript
-- [Basic Data Types](typescript/basic-data-types.md)
+- [Basic Types](typescript/basic-types.md)
 - [Benefits Of Using TypeScript](typescript/benefits-of-using-typescript.md)
 - [Node Project Setup](typescript/node-project-setup.md)
 

@@ -1,8 +1,8 @@
-# Basic Data Types
+# Basic Types
 
 __Category: TypeScript__
 
-TypeScript basic data types are are used in interfaces and type definitions.
+TypeScript basic types are are used in interfaces and type definitions.
 
 | Data Type            | Example Value/Description   |
 | -------------------- |-----------------| 
