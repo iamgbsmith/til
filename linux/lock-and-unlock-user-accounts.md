@@ -14,7 +14,7 @@ To lock a user account you can use the -L option with the following command:
 sudo usermod -L accountname
 ```
 
-To lock a user account and prevent SSH access specify an expiry date in the past with `--expiredate`:
+To lock a user account and prevent SSH access specify an expire date in the past with `--expiredate`:
 
 ```shell
 sudo usermod -L --expiredate 1970-01-02 accountname
@@ -28,7 +28,7 @@ To unlock a user account you can use the -U option with the following command:
 sudo usermod -U accountname
 ```
 
-To unlock a user account and allow SSH access clear the expired date:
+To unlock a user account and allow SSH access clear the expire date:
 
 ```shell
 sudo usermod -U --expiredate '' accountname
