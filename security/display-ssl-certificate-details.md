@@ -15,70 +15,72 @@ Certificate:
     Data:
         Version: 3 (0x2)
         Serial Number:
-            03:77:ed:dc:fa:f8:be:34:ba:23:3c:7c:2b:9a:31:7f
+            06:9b:0e:d3:10:cc:a5:16:90:04:5a:57:cd:fc:a6:fc
     Signature Algorithm: sha256WithRSAEncryption
         Issuer: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA
         Validity
-            Not Before: Feb 10 00:00:00 2021 GMT
-            Not After : May 10 23:59:59 2021 GMT
+            Not Before: Sep  9 00:00:00 2021 GMT
+            Not After : Dec  8 23:59:59 2021 GMT
         Subject: C=US, ST=California, L=Menlo Park, O=Facebook, Inc., CN=*.facebook.com
         Subject Public Key Info:
             Public Key Algorithm: id-ecPublicKey
                 Public-Key: (256 bit)
-                pub:
-                    04:43:82:04:65:9a:86:61:6f:53:bf:48:a1:8a:8a:
-                    7f:76:be:d1:e8:89:32:ac:a0:68:61:3c:71:5b:18:
-                    73:9d:d7:4e:41:e5:bf:3b:51:44:5c:6d:36:d8:25:
-                    39:01:68:cd:f1:64:34:66:00:0d:c0:ed:ab:5e:59:
-                    b0:8d:7c:5b:73
+                pub: 
+                    04:c4:14:16:6f:2c:45:20:d3:bf:a6:0a:97:44:ab:
+                    40:96:49:08:43:65:1b:d9:a2:44:22:d7:7c:0f:0b:
+                    90:2c:6a:33:c1:e0:bc:8a:95:58:ec:5e:8b:8b:10:
+                    26:79:be:82:80:df:21:84:01:fa:68:80:75:7f:c5:
+                    36:1d:fe:ee:cd
                 ASN1 OID: prime256v1
                 NIST CURVE: P-256
         X509v3 extensions:
-            X509v3 Authority Key Identifier:
+            X509v3 Authority Key Identifier: 
                 keyid:51:68:FF:90:AF:02:07:75:3C:CC:D9:65:64:62:A2:12:B8:59:72:3B
- 
-            X509v3 Subject Key Identifier:
-                A1:DE:5B:01:7E:24:95:35:8A:6B:D8:F1:A2:D8:DE:6C:F2:7F:D0:72
-            X509v3 Subject Alternative Name:
+
+            X509v3 Subject Key Identifier: 
+                71:3C:25:1D:87:8A:91:E7:2C:F1:1F:CC:96:AC:6B:44:A6:26:C4:9D
+            X509v3 Subject Alternative Name: 
                 DNS:*.facebook.com, DNS:*.facebook.net, DNS:*.fbcdn.net, DNS:*.fbsbx.com, DNS:*.m.facebook.com, DNS:*.messenger.com, DNS:*.xx.fbcdn.net, DNS:*.xy.fbcdn.net, DNS:*.xz.fbcdn.net, DNS:facebook.com, DNS:messenger.com
             X509v3 Key Usage: critical
                 Digital Signature
-            X509v3 Extended Key Usage:
+            X509v3 Extended Key Usage: 
                 TLS Web Server Authentication, TLS Web Client Authentication
-            X509v3 CRL Distribution Points:
- 
+            X509v3 CRL Distribution Points: 
+
                 Full Name:
                   URI:http://crl3.digicert.com/sha2-ha-server-g6.crl
- 
+
                 Full Name:
                   URI:http://crl4.digicert.com/sha2-ha-server-g6.crl
- 
-            X509v3 Certificate Policies:
+
+            X509v3 Certificate Policies: 
                 Policy: 2.23.140.1.2.2
                   CPS: http://www.digicert.com/CPS
- 
-            Authority Information Access:
+
+            Authority Information Access: 
                 OCSP - URI:http://ocsp.digicert.com
                 CA Issuers - URI:http://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt
- 
+
             X509v3 Basic Constraints: critical
                 CA:FALSE
-            1.3.6.1.4.1.11129.2.4.2:
-.g.a.3..@.......U....!..t.(.'.I^r9 5jk.mY..e...-........w.\.C....ED.^..V..7...G..s..^........w.........H0F.!..X...d..17...6..Y......<....i.$..!...w......g.j}Y./..?...f4Mb..+..c
+            1.3.6.1.4.1.11129.2.4.2: 
+                ...j.h.v..\./.w0".T..0.V..M..3.../ ..N.d....{..|......G0E.!......'.G.8.m.}.Do.j8AT..q.(.K.... ~~.=V.H.1..
+.M6..
+...a..,4.g...4.v.\.C....ED.^..V..7...G..s..^........{..|2.....G0E.!....D..8...T.r..H.iX.P....&..d.&.. $...m. g.%.ye....?.K.l...#jiUu...v......rd.........ij.{Kj..8.G........{..|d.....G0E.!......%.u&.......$7Q...#BH..P..... L(........"./S.?....[..+,O.h s.v
     Signature Algorithm: sha256WithRSAEncryption
-         6a:f3:8f:ad:44:76:ae:a3:7f:80:56:51:3e:03:3b:0d:7b:2e:
-         40:63:e0:36:4f:ba:d1:10:6e:94:d3:82:02:ae:11:f5:cf:b1:
-         c5:79:8d:83:e5:08:11:e1:e6:b7:6d:4e:b7:30:7b:4a:c6:0a:
-         31:ff:70:9d:a3:f0:94:38:79:d1:48:89:6e:d3:18:e3:96:8d:
-         84:ed:0d:8a:ae:2d:52:70:bb:43:cc:43:af:f8:ba:76:43:a1:
-         25:34:ac:24:d9:6b:66:56:e4:ed:fc:77:ea:9a:8e:3f:95:b6:
-         75:4b:7a:9c:17:a6:b8:d7:5c:0d:70:0e:a9:9d:5f:77:03:f6:
-         e5:5a:19:31:3c:fc:0f:92:e5:79:3f:f3:05:5e:49:78:d6:cb:
-         2b:14:24:17:10:d3:17:bb:40:2a:ae:df:22:91:ea:71:83:b8:
-         de:89:24:f8:2c:00:49:58:c3:57:63:4f:f7:88:22:13:de:03:
-         8c:28:df:2c:c9:80:7e:12:74:05:d6:27:4e:18:63:34:41:2a:
-         ec:ad:0c:d7:78:5e:c4:70:31:81:f1:77:20:2e:9f:40:38:78:
-         f3:a3:7d:2f:a9:bc:8c:0a:9f:24:48:12:29:24:83:07:18:9e:
-         5d:f5:89:23:0b:27:eb:ab:0d:f1:58:20:43:51:f5:42:e0:5e:
-         7e:73:0c:f1
+         4b:34:06:a5:17:92:fb:c6:be:ef:23:2c:d5:ee:f7:76:16:04:
+         cf:2b:65:db:46:b9:6f:e0:8f:58:e7:8d:07:6a:8e:f2:76:a7:
+         28:26:f7:bb:79:ca:e9:c1:2c:f6:45:85:cb:b6:11:ba:cf:0e:
+         77:75:fb:e3:86:92:1b:1f:01:9c:bd:e2:eb:bf:d4:0b:18:b1:
+         f1:78:c7:b1:bb:77:60:85:29:5d:de:00:39:49:35:47:01:0f:
+         b9:7d:0d:fb:ec:05:d6:3d:78:0c:14:8f:58:b9:20:38:36:65:
+         91:2c:53:a0:2c:9b:3c:1d:c5:64:d0:80:cf:81:9f:9a:a6:0a:
+         30:e8:05:7f:20:3d:57:e9:ab:bb:50:0f:7c:3f:f3:78:3c:1c:
+         25:6c:27:ff:cd:9f:18:c2:3b:27:05:7b:2f:9c:e5:ec:a9:29:
+         b4:ef:ad:52:0f:42:9f:da:91:2a:b6:f6:bb:61:45:9e:e0:54:
+         c0:67:b2:e4:d2:9f:91:2c:93:d5:f4:c2:15:5d:cd:06:72:0c:
+         9e:a5:44:6f:84:60:f8:fb:32:b1:5f:d3:92:de:99:8b:fd:99:
+         77:e3:e7:a4:cf:2b:74:c6:4a:24:af:f0:8b:9a:3d:20:eb:fc:
+         60:29:4d:ba:e8:a4:db:b2:21:96:bf:f9:67:4d:e0:e1:e6:fd:
+         16:35:08:99
 ```
