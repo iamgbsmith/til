@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_171 TILs and counting..._
+_172 TILs and counting..._
 
 ---
 
@@ -152,6 +152,7 @@ _171 TILs and counting..._
 - [Validate Configuration](nginx/validate-configuration.md)
 
 ### Nodejs
+- [Build For Production](nodejs/build-for-production.md)
 - [Check For Outdated Dependencies](nodejs/check-for-outdated-dependencies.md)
 - [Compile To An Executable](nodejs/compile-to-an-executable.md)
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
