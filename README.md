@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_177 TILs and counting..._
+_178 TILs and counting..._
 
 ---
 
@@ -180,6 +180,7 @@ _177 TILs and counting..._
 - [Show Data Directory](postgres/show-data-directory.md)
 - [Store Passwords Securely](postgres/store-passwords-securely.md)
 - [Terminate A Hanging Query](postgres/terminate-a-hanging-query.md)
+- [Use Expanded Display In PSQL](postgres/use-expanded-display-in-psql.md)
 - [UUIDs As Primary Keys](postgres/uuids-as-primary-keys.md)
 
 ### Python
