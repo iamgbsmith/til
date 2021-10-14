@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_176 TILs and counting..._
+_177 TILs and counting..._
 
 ---
 
@@ -82,6 +82,7 @@ _176 TILs and counting..._
 
 ### Gradle
 - [Ensure All JUnit Tests Are Running](gradle/ensure-all-junit-tests-are-running.md)
+- [Execute Multi-Project Builds](gradle/execute-multi-project-builds.md)
 - [Install Gradle On MacOS](gradle/install-gradle-on-macos.md)
 - [Skip Tests During Builds](gradle/skip-tests-during-builds.md)
 
