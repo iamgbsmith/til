@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_178 TILs and counting..._
+_179 TILs and counting..._
 
 ---
 
@@ -178,6 +178,7 @@ _178 TILs and counting..._
 - [Set The Current User](postgres/set-the-current-user.md)
 - [Show Config File Location](postgres/show-config-file-location.md)
 - [Show Data Directory](postgres/show-data-directory.md)
+- [Show Installed Extensions](postgres/show-installed-extensions.md)
 - [Store Passwords Securely](postgres/store-passwords-securely.md)
 - [Terminate A Hanging Query](postgres/terminate-a-hanging-query.md)
 - [Use Expanded Display In PSQL](postgres/use-expanded-display-in-psql.md)
