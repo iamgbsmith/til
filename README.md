@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_180 TILs and counting..._
+_181 TILs and counting..._
 
 ---
 
@@ -143,6 +143,7 @@ _180 TILs and counting..._
 - [Reclaim Disk Space From Brew](mac/reclaim-diskpace-from-brew.md)
 - [Send Message From The Command Line](mac/send-message-from-the-command-line.md)
 - [Show Hidden Display Resolutions](mac/show-hidden-display-resolutions.md)
+- [Show Metadata Attributes For A File](mac/show-metadata-attributes-for-a-file.md)
 - [Take A Screenshot](mac/take-a-screenshot.md)
 - [Use Emojis And Symbols](mac/use-emojis-and-symbols.md)
 
