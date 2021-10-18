@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_179 TILs and counting..._
+_180 TILs and counting..._
 
 ---
 
@@ -208,6 +208,7 @@ _179 TILs and counting..._
 - [Run Bundler And Simulator In VSCode](react-native/run-bundler-and-simulator-in-vscode.md)
 
 ### Redis
+- [Configure Data Snapshotting](redis/configure-data-snapshotting.md)
 - [Get Server Info](redis/get-server-info.md)
 
 ### Security
