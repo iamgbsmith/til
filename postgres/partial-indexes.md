@@ -2,7 +2,7 @@
 
 __Category: Postgres__
 
-A partial index is an index built over a subset of a table. Partial indexes allow you to create indexes with a predicate (filter / where clause) defined by a conditional expression and are typically smaller resulting in fast reads and fast writes.
+A partial index is an index built over a subset of a table. Partial indexes allow you to create indexes with a predicate (filter / where clause) defined by a conditional expression, and they are typically smaller resulting in faster reads and writes.
 
 For example, to create a partial index include a `WHERE` clause in the index creation statement:
 
