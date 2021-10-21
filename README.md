@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_182 TILs and counting..._
+_183 TILs and counting..._
 
 ---
 
@@ -148,6 +148,7 @@ _182 TILs and counting..._
 - [Use Emojis And Symbols](mac/use-emojis-and-symbols.md)
 
 ### MQTT
+- [EMQX Container Healthcheck](mqtt/emqx-container-healthcheck.md)
 - [Quality Of Service Levels](mqtt/quality-of-service-levels.md)
 ### Nginx
 - [Enable HTTP Strict Transport Security](nginx/enable-http-strict-transport-security.md)
