@@ -8,7 +8,7 @@ Out-of-the-box, the `beam.smp` process in EMQ X can cause CPU spikes up to 100% 
 
 A more performant way of checking the container health for the EMQ X broker is to call the `/status` endpoint using curl.
 
-When building the EMQ container ensure the curl dependency is included:
+When building the EMQ X container ensure the curl dependency is included:
 
 ```shell
 # add run deps, never remove - ADD curl for healthcheck
