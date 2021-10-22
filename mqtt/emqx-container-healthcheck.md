@@ -20,7 +20,7 @@ When building the EMQ X container ensure the curl dependency is included:
     curl \
 ```
 
-If you are incorporating the healtcheck into the container, include the following in the Dockerfile:
+If you are incorporating the healthcheck into the container, include the following in the Dockerfile:
 
 ```shell
 HEALTHCHECK --interval=1m --timeout=10s --retries=3 CMD curl -f http://localhost:8080/status
