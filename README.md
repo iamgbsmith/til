@@ -6,13 +6,14 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_186 TILs and counting..._
+_187 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [AWS](#aws)
+* [Blockchain](#blockchain)
 * [Docker](#docker)
 * [Gatsby](#gatsby)
 * [Git](#git)
@@ -47,6 +48,9 @@ _186 TILs and counting..._
 - [S3 Configure Bucket Object Expiry](aws/s3-configure-bucket-object-expiry.md)
 - [S3 Storage Classes](aws/s3-storage-classes.md)
 - [Well-Architected Framework](aws/well-architected-framework.md)
+
+### Blockchain
+- [What Is IPFS](blockchain/what-is-ipfs.md)
 
 ### Docker
 - [Container Will Not Start](docker/container-will-not-start.md)
