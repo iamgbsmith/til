@@ -6,7 +6,7 @@ Interplanetary File System (IPFS) is a public, distributed, peer-to-peer network
 
 ### IPFS Characteristics
 
-* IPFS addresses files using a cryptographic hash called a Content Identifier (CID). By default, the hashing algorithm is SHA-256. If a file changes, the address (CID) to that file will change. This differs from the traditional web which uses HREF location based addresing.
+* IPFS addresses files using a cryptographic hash called a Content Identifier (CID). By default, the hashing algorithm is SHA-256. If a file changes, the address (CID) to that file will change. This differs from the traditional web which uses HREF location based addressing.
 * Content cannot be removed from IPFS if a network participant chooses to make it available, irrespective of whether that person is the original author or not. 
 * Nodes advertise that they have CIDs available for other nodes to use through publicly viewable distributed hash tables (DHTs).
 * Content that needs to be available more permanently can be "pinned" which saves it locally and makes it available on the IPFS network until a decision is made to unpin it.
