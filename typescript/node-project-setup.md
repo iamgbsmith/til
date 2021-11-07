@@ -18,7 +18,7 @@ yarn init
 
 Install TypeScript dev dependency
 ```
-yarn install typescript --dev
+yarn add -D typescript
 ```
 
 Initialise TypeScript
@@ -28,12 +28,12 @@ npx tsc --init
 
 Install other dev dependencies
 ```
-yarn add rimraf nodemon npm-run-all --dev
+yarn add -D rimraf nodemon npm-run-all
 ```
 
 Install Express
 ```
-yarn add express @types/express
+yarn add -D express @types/express
 ```
 
 Configure `package.json`
