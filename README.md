@@ -173,6 +173,7 @@ _191 TILs and counting..._
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
 - [Optimise For Performance](nodejs/optimise-for-performance.md)
 - [Sample Git Ignore For A Nodejs Project](nodejs/sample-git-ignore-for-a-nodejs-project.md)
+- [Setup A Nodejs Project With TypeScript](nodejs/setup-a-nodejs-project-with-typescript.md)
 - [Specifying A Node Version](nodejs/specifying-a-node-version.md)
 - [Upgrading Package Dependencies](nodejs/upgrading-package-dependencies.md)
 - [Using Node Version Manager](nodejs/using-node-version-manager.md)
@@ -262,7 +263,6 @@ _191 TILs and counting..._
 - [Composing Types](typescript/composing-types.md)
 - [Custom Types](typescript/custom-types.md)
 - [Benefits Of Using TypeScript](typescript/benefits-of-using-typescript.md)
-- [Node Project Setup](typescript/node-project-setup.md)
 
 ### VS Code
 - [Debug A Node Application](vs-code/debug-a-node-application.md)
