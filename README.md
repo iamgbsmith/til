@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_192 TILs and counting..._
+_193 TILs and counting..._
 
 ---
 
@@ -176,6 +176,7 @@ _192 TILs and counting..._
 - [Setup A Nodejs Project With TypeScript](nodejs/setup-a-nodejs-project-with-typescript.md)
 - [Specifying A Node Version](nodejs/specifying-a-node-version.md)
 - [Upgrading Package Dependencies](nodejs/upgrading-package-dependencies.md)
+- [Update Global Packages With Yarn](nodejs/update-global-packages-with-yarn.md)
 - [Using Node Version Manager](nodejs/using-node-version-manager.md)
 
 ### Postgres
