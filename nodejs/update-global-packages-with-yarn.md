@@ -2,7 +2,7 @@
 
 __Category: Nodejs__
 
-You can selectively update global packages with `yarn`.
+You can update global packages with `yarn`.
 
 List global packages:
 
@@ -18,4 +18,4 @@ yarn global upgrade-interactive
 
 Move the cursor up and down, selecting items using the space bar.
 
-Press enter to update the selected packages. 
+Press enter to update packages. 
