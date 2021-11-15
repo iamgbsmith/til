@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_193 TILs and counting..._
+_194 TILs and counting..._
 
 ---
 
@@ -143,6 +143,7 @@ _193 TILs and counting..._
 - [Install Command Line Tools](mac/install-command-line-tools.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
 - [Loop Through Photos](mac/loop-through-photos.md)
+- [Manage Cluttered Desktops](mac/manage-cluttered-desktops.md)
 - [Password Protect A PDF](mac/password-protect-a-pdf.md)
 - [Print From The Command Line](mac/print-from-the-command-line.md)
 - [Reorder Menubar Items](mac/reorder-menubar-items.md)
