@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_197 TILs and counting..._
+_198 TILs and counting..._
 
 ---
 
@@ -74,6 +74,7 @@ _197 TILs and counting..._
 - [Track Outbound Links](gatsby/track-outbound-links.md)
 - [Track Usage With Google Analytics](gatsby/track-usage-with-google-analytics.md)
 - [Using Custom Fonts](gatsby/using-custom-fonts.md)
+
 ### Git
 - [Add An SSH Key To GitHub](git/add-an-ssh-key-to-github.md)
 - [Change Default Init Branch Name](git/change-default-init-branch-name.md)
@@ -163,6 +164,7 @@ _197 TILs and counting..._
 ### MQTT
 - [EMQX Container Healthcheck](mqtt/emqx-container-healthcheck.md)
 - [Quality Of Service Levels](mqtt/quality-of-service-levels.md)
+
 ### Nginx
 - [Enable HTTP Strict Transport Security](nginx/enable-http-strict-transport-security.md)
 - [Improve Website Performance Using GZIP](nginx/improve-website-performance-using-gzip.md)
@@ -277,6 +279,7 @@ _197 TILs and counting..._
 
 ### Windows
 - [Configure SSH Agent To Automatically Start](windows/configure-ssh-agent-to-automatically-start.md)
+- [Install WSL](windows/install-wsl.md)
 - [Open An Elevated Command Prompt](windows/open-an-elevated-command-prompt.md)
 
 ### Xcode
