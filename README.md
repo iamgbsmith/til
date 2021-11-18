@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_195 TILs and counting..._
+_196 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _195 TILs and counting..._
 * [Swift](#swift)
 * [TypeScript](#typescript)
 * [VS Code](#vs-code)
+* [Windows](#windows)
 * [Xcode](#xcode)
 
 ---
@@ -242,6 +243,7 @@ _195 TILs and counting..._
 - [SSH Key Algorithms](security/ssh-key-algorithms.md)
 - [Three Principles Of Information Security](security/three-principles-of-information-security.md)
 - [Verify A Checksum](security/verify-a-checksum.md)
+
 ### Spring
 - [Custom HTTP Response Headers](spring/custom-http-response-headers.md)
 - [Custom Servlet Filter](spring/custom-servlet-filter.md)
@@ -261,6 +263,7 @@ _195 TILs and counting..._
 - [Set Badge Icon In The Dock](swift/set-badge-icon-in-the-dock.md)
 - [Sort An Array](swift/sort-an-array.md)
 - [Use SwiftUI With UIKit Or Cocoa](swift/use-swiftui-with-uikit-or-cocoa.md)
+
 ### TypeScript
 - [Basic Types](typescript/basic-types.md)
 - [Composing Types](typescript/composing-types.md)
@@ -271,6 +274,9 @@ _195 TILs and counting..._
 ### VS Code
 - [Debug A Node Application](vs-code/debug-a-node-application.md)
 - [Launch VS Code From The Command Line](vs-code/launch-vscode-from-the-command-line.md)
+
+### Windows
+- [Configure SSH Agent To Automatically Start](windows/configure-ssh-agent-to-automatically-start.md)
 
 ### Xcode
 - [Ad Hoc iOS App Distribution](xcode/ad-hoc-ios-app-distribution.md)
