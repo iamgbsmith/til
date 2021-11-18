@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_196 TILs and counting..._
+_197 TILs and counting..._
 
 ---
 
@@ -277,6 +277,7 @@ _196 TILs and counting..._
 
 ### Windows
 - [Configure SSH Agent To Automatically Start](windows/configure-ssh-agent-to-automatically-start.md)
+- [Open An Elevated Command Prompt](windows/open-an-elevated-command-prompt.md)
 
 ### Xcode
 - [Ad Hoc iOS App Distribution](xcode/ad-hoc-ios-app-distribution.md)
