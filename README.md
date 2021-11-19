@@ -281,7 +281,7 @@ _199 TILs and counting..._
 - [Configure SSH Agent To Automatically Start](windows/configure-ssh-agent-to-automatically-start.md)
 - [Install WSL](windows/install-wsl.md)
 - [Open An Elevated Command Prompt](windows/open-an-elevated-command-prompt.md)
-- [Show Command History In PowerShell](windows/command-history-in-powershell.md)
+- [Show Command History In PowerShell](windows/show-command-history-in-powershell.md)
 
 ### Xcode
 - [Ad Hoc iOS App Distribution](xcode/ad-hoc-ios-app-distribution.md)
