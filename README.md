@@ -278,10 +278,10 @@ _199 TILs and counting..._
 - [Launch VS Code From The Command Line](vs-code/launch-vscode-from-the-command-line.md)
 
 ### Windows
-- [Command History In PowerShell](windows/command-history-in-powershell.md)
 - [Configure SSH Agent To Automatically Start](windows/configure-ssh-agent-to-automatically-start.md)
 - [Install WSL](windows/install-wsl.md)
 - [Open An Elevated Command Prompt](windows/open-an-elevated-command-prompt.md)
+- [Show Command History In PowerShell](windows/command-history-in-powershell.md)
 
 ### Xcode
 - [Ad Hoc iOS App Distribution](xcode/ad-hoc-ios-app-distribution.md)
