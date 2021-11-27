@@ -25,7 +25,7 @@ Entries should follow the format:
 For example, run a shell script command every 45 minutes:
 
 ```shell
-*/45 * * * * bash /data/check-mail.scpt
+*/45 * * * * bash /data/check-mail.sh
 ```
 
 Run a shell script every day at 2:30pm:
