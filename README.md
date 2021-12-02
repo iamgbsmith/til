@@ -294,7 +294,7 @@ _206 TILs and counting..._
 - [Add A Simulator Device](xcode/add-a-simulator-device.md)
 - [Change Region For A Simulator Device](xcode/change-region-for-a-simulator-device.md)
 - [Create A Custom URL Scheme](xcode/create-a-custom-url-scheme.md)
-- [Fix Refresh Key Mapping In iOS Simulator](xcode/fix-refresh-key-mapping-in-ios-simulator.md)
+- [Change Refresh Key Mapping In iOS Simulator](xcode/change-refresh-key-mapping-in-ios-simulator.md)
 - [Hide An Application Dock Icon And Main Window](xcode/hide-an-application-dock-icon-and-main-window.md)
 - [Record iOS Simulator](xcode/record-ios-simulator.md)
 - [Setup MITMProxy For A Simulator Device](xcode/setup-mitmproxy-for-a-simulator-device.md)

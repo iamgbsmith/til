@@ -1,4 +1,4 @@
-# Fix Refresh Key Mapping In iOS Simulator
+# Change Refresh Key Mapping In iOS Simulator
 
 __Category: Xcode__
 
