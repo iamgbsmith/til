@@ -1,8 +1,8 @@
 # Fix Refresh Key Mapping In iOS Simulator
 
-__Category: React Native__
+__Category: Xcode__
 
-Xcode 12.5 has taken the refresh (`command + R`) keyboard mapping for the iOS Simulator meaning it will start recording a video instead of reloading the app.
+Xcode 12.5 has taken the refresh (`command + R`) keyboard mapping for the iOS Simulator meaning it will start recording a video instead of reloading the app. Changing this mapping is useful for when developing React Native applications.
 
 Re-map the refresh command to record videos using a new keyboard shortcut as follows:
 
