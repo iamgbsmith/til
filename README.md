@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_205 TILs and counting..._
+_206 TILs and counting..._
 
 ---
 
@@ -224,6 +224,7 @@ _205 TILs and counting..._
 - [Application Will Not Start](react-native/application-will-not-start.md)
 - [Create A React Native App](react-native/create-a-react-native-app.md)
 - [Disable App Transport Security In iOS](react-native/disable-app-transport-security-in-ios.md)
+- [Fix Refresh Key Mapping In iOS Simulator](react-native/fix-refresh-key-mapping-in-ios-simulator.md)
 - [Functional Components](react-native/functional-components.md)
 - [Get Width Or Height Of A Component](react-native/get-width-or-height-of-a-component.md)
 - [Remove Launch Screen White Flash](react-native/remove-launch-screen-white-flash.md)
