@@ -37,15 +37,16 @@ var app = express();app.listen(3000, () => {
 
 app.get('/cars', (req, res, next) => {
   res.json([
-    {'car': 'BMW M3 Competition'}, 
-    {'car': 'Honda Civic Type R'}, 
-    {'car': 'Ford Mustang GT'}, 
-    {'car': 'Porsche 911 GT3'}, 
-    {'car': 'Volkswagen Golf GTI Clubsport'}
+    {'id': '1', 'type': 'BMW M3 Competition'}, 
+    {'id': '2', 'type': 'Honda Civic Type R'}, 
+    {'id': '3', 'type': 'Ford Mustang GT'}, 
+    {'id': '4', 'type': 'Porsche 911 GT3'}, 
+    {'id': '5', 'type': 'Volkswagen Golf GTI Clubsport'}
   ]);
 });
 
-var app = express();app.listen(3000, () => {
+var app = express();
+app.listen(3000, () => {
   console.log('Server running on port 3000');
 });
 ```
@@ -65,5 +66,5 @@ curl http://localhost:3000/cars
 Output:
 
 ```json
-[{"car":"BMW M3 Competition"},{"car":"Honda Civic Type R"},{"car":"Ford Mustang GT"},{"car":"Porsche 911 GT3"},{"car":"Volkswagen Golf GTI Clubsport"}]
+[{"id":"1","type":"BMW M3 Competition"},{"id":"2","type":"Honda Civic Type R"},{"id":"3","type":"Ford Mustang GT"},{"id":"4","type":"Porsche 911 GT3"},{"id":"5","type":"Volkswagen Golf GTI Clubsport"}]
 ```
