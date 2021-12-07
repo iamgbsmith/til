@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_207 TILs and counting..._
+_208 TILs and counting..._
 
 ---
 
@@ -26,6 +26,7 @@ _207 TILs and counting..._
 * [MQTT](#mqtt)
 * [Nginx](#nginx)
 * [Nodejs](#nodejs)
+* [Office](#office)
 * [Postgres](#postgres)
 * [Python](#python)
 * [React Native](#react-native)
@@ -185,6 +186,9 @@ _207 TILs and counting..._
 - [Upgrading Package Dependencies](nodejs/upgrading-package-dependencies.md)
 - [Update Global Packages With Yarn](nodejs/update-global-packages-with-yarn.md)
 - [Using Node Version Manager](nodejs/using-node-version-manager.md)
+
+### Office
+- [Password Protect An Excel Workbook](office/password-protect-an-excel-workbook.md)
 
 ### Postgres
 - [Backup A Database](postgres/backup-a-database.md)
