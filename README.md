@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_208 TILs and counting..._
+_209 TILs and counting..._
 
 ---
 
@@ -188,6 +188,7 @@ _208 TILs and counting..._
 - [Using Node Version Manager](nodejs/using-node-version-manager.md)
 
 ### Office
+- [Automatically Record Teams Meetings](office/automatically-record-teams-meetings.md)
 - [Password Protect An Excel Workbook](office/password-protect-an-excel-workbook.md)
 
 ### Postgres
