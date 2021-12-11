@@ -22,6 +22,3 @@ You can perform security assessments or penetration tests against AWS infrastruc
 * Amazon Elastic Beanstalk environments
 
 See [AWS Customer Support Policy for Penetration Testing](https://aws.amazon.com/security/penetration-testing/) for more details.
-
-
-
