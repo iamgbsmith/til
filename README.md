@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_209 TILs and counting..._
+_210 TILs and counting..._
 
 ---
 
@@ -54,6 +54,7 @@ _209 TILs and counting..._
 ### Blockchain
 - [Setup An IPFS Node](blockchain/setup-an-ipfs-node.md)
 - [What Is IPFS](blockchain/what-is-ipfs.md)
+- [What Is Web3js](blockchain/what-is-web3js.md)
 
 ### Docker
 - [Container Will Not Start](docker/container-will-not-start.md)
