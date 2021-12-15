@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_212 TILs and counting..._
+_213 TILs and counting..._
 
 ---
 
@@ -297,6 +297,7 @@ _212 TILs and counting..._
 - [Open An Elevated Command Prompt](windows/open-an-elevated-command-prompt.md)
 - [Show Command History In PowerShell](windows/show-command-history-in-powershell.md)
 - [Take A Screenshot](windows/take-a-screenshot.md)
+- [Upgrade PowerShell](windows/upgrade-powershell.md)
 
 ### Xcode
 - [Ad Hoc iOS App Distribution](xcode/ad-hoc-ios-app-distribution.md)
@@ -306,7 +307,7 @@ _212 TILs and counting..._
 - [Change Refresh Key Mapping In iOS Simulator](xcode/change-refresh-key-mapping-in-ios-simulator.md)
 - [Hide An Application Dock Icon And Main Window](xcode/hide-an-application-dock-icon-and-main-window.md)
 - [Record iOS Simulator](xcode/record-ios-simulator.md)
-- [Setup MITMProxy For A Simulator Device](xcode/setup-mitmproxy-for-a-simulator-device.md)
+- [Upgrade PowerShell](xcode/setup-mitmproxy-for-a-simulator-device.md)
 
 ## About
 
