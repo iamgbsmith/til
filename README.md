@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_214 TILs and counting..._
+_215 TILs and counting..._
 
 ---
 
@@ -192,6 +192,7 @@ _214 TILs and counting..._
 
 ### Office
 - [Automatically Record Teams Meetings](office/automatically-record-teams-meetings.md)
+- [End Meetings Early In Outlook](office/end-meetings-early-in-outlook.md)
 - [Password Protect An Excel Workbook](office/password-protect-an-excel-workbook.md)
 
 ### Postgres
