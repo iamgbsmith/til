@@ -10,7 +10,7 @@ From the Outlook menu, open File -> Options -> Calendar.
 
 Select the option "Shorten appointments and meetings" and ensure "End early" is selected.
 
-By default, meetings of less than one hour will end 5 minutes early. Meetings of more than one our will end 10 minutes early.
+By default, meetings of less than one hour will end 5 minutes early. Meetings of more than one hour will end 10 minutes early.
 
 Change these values as required.
 
