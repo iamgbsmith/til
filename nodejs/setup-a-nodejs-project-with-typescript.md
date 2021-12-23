@@ -43,7 +43,7 @@ Configure `package.json`
     "build": "tsc",
     "watch:build": "tsc --watch",
     "watch:server": "nodemon './dist/index.js' --watch './dist'",
-    "start": "npm-run-all clean build --parallel watch:build watch:server --print-label",
+    "start": "npm-run-all clean build --parallel watch:build watch:server --print-label"
 }
 ```
 
