@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_215 TILs and counting..._
+_216 TILs and counting..._
 
 ---
 
@@ -150,6 +150,7 @@ _215 TILs and counting..._
 - [Format A USB Disk From The Command Line](mac/format-a-usb-disk-from-the-command-line.md)
 - [Get Computer Name](mac/get-computer-name.md)
 - [Install Command Line Tools](mac/install-command-line-tools.md)
+- [Jump To A Location In Finder](mac/jump-to-a-location-in-finder.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
 - [Loop Through Photos](mac/loop-through-photos.md)
 - [Manage Cluttered Desktops](mac/manage-cluttered-desktops.md)
