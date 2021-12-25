@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_216 TILs and counting..._
+_217 TILs and counting..._
 
 ---
 
@@ -184,6 +184,7 @@ _216 TILs and counting..._
 - [Compile To An Executable](nodejs/compile-to-an-executable.md)
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
 - [Optimise For Performance](nodejs/optimise-for-performance.md)
+- [Read Text File Line By Line](nodejs/read-text-file-line-by-line.md)
 - [Sample Git Ignore For A Nodejs Project](nodejs/sample-git-ignore-for-a-nodejs-project.md)
 - [Setup A Nodejs Project With TypeScript](nodejs/setup-a-nodejs-project-with-typescript.md)
 - [Specifying A Node Version](nodejs/specifying-a-node-version.md)
