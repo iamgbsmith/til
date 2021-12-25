@@ -311,7 +311,7 @@ _217 TILs and counting..._
 - [Change Refresh Key Mapping In iOS Simulator](xcode/change-refresh-key-mapping-in-ios-simulator.md)
 - [Hide An Application Dock Icon And Main Window](xcode/hide-an-application-dock-icon-and-main-window.md)
 - [Record iOS Simulator](xcode/record-ios-simulator.md)
-- [Upgrade PowerShell](xcode/setup-mitmproxy-for-a-simulator-device.md)
+- [Setup MITMProxy For A Simulator Device](xcode/setup-mitmproxy-for-a-simulator-device.md)
 
 ## About
 
