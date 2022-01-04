@@ -320,6 +320,6 @@ This collection was inspired by Josh Branchaud [jbranchaud/til](https://github.c
 
 ## License
 
-&copy; 2020 - 2021 Greg Smith
+&copy; 2020 - 2022 Greg Smith
 
 This repository is licensed under the MIT license. See `LICENSE` for details.
