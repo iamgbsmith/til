@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_218 TILs and counting..._
+_219 TILs and counting..._
 
 ---
 
@@ -300,6 +300,7 @@ _218 TILs and counting..._
 - [Forward Traffic Over Netsh](windows/forward-traffic-over-netsh.md)
 - [Install WSL](windows/install-wsl.md)
 - [Open An Elevated Command Prompt](windows/open-an-elevated-command-prompt.md)
+- [Send An HTTP Request Using PowerShell](windows/send-an-http-request-using-powershell.md)
 - [Show Command History In PowerShell](windows/show-command-history-in-powershell.md)
 - [Take A Screenshot](windows/take-a-screenshot.md)
 - [Upgrade PowerShell](windows/upgrade-powershell.md)
