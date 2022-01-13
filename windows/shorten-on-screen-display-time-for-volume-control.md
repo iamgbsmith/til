@@ -8,4 +8,4 @@ To reduce this timeout, open system Settings -> Ease of Access display settings.
 
 Scroll down and change the value of "Show notifications for" to 5 seconds.
 
-This setting will also potentially reduce the time for diplaying other system notifications on screen allowing you to focus more easily.
+This setting will also potentially reduce the time for displaying other system notifications on screen, allowing you to focus more easily.
