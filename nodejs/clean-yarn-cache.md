@@ -1,6 +1,6 @@
 # Clean Yarn Cache
 
-__Category: React__
+__Category: Nodejs__
 
 Yarn stores every package in a global cache in your user directory on the file system. Over time, this directory will grow to gigabytes in size and may need to be purged to reclaim disk space.
 
