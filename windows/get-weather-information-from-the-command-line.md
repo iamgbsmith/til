@@ -16,4 +16,10 @@ If you omit the location you will get the report for your current location based
 (Invoke-WebRequest https://wttr.in).Content
 ```
 
+Alternatively, use the shorthand method `irm` (Invoke REST Method):
+
+```command
+irm https://wttr.in/London
+```
+
 See [chubin/wttr.in](https://github.com/chubin/wttr.in) for more details.
