@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_226 TILs and counting..._
+_227 TILs and counting..._
 
 ---
 
@@ -319,6 +319,7 @@ _226 TILs and counting..._
 - [Create A Custom URL Scheme](xcode/create-a-custom-url-scheme.md)
 - [Change Refresh Key Mapping In iOS Simulator](xcode/change-refresh-key-mapping-in-ios-simulator.md)
 - [Hide An Application Dock Icon And Main Window](xcode/hide-an-application-dock-icon-and-main-window.md)
+- [Install Xcode Manually](xcode/install-xcode-manually.md)
 - [Record iOS Simulator](xcode/record-ios-simulator.md)
 - [Setup MITMProxy For A Simulator Device](xcode/setup-mitmproxy-for-a-simulator-device.md)
 
