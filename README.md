@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_228 TILs and counting..._
+_229 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _228 TILs and counting..._
 * [Security](#security)
 * [Spring](#spring)
 * [Swift](#swift)
+* [Terraform](#terraform)
 * [TypeScript](#typescript)
 * [VS Code](#vs-code)
 * [Windows](#windows)
@@ -285,6 +286,9 @@ _228 TILs and counting..._
 - [Set Badge Icon In The Dock](swift/set-badge-icon-in-the-dock.md)
 - [Sort An Array](swift/sort-an-array.md)
 - [Use SwiftUI With UIKit Or Cocoa](swift/use-swiftui-with-uikit-or-cocoa.md)
+
+### Terraform
+- [Show Status Of Resources](terraform/show-status-of-resources.md)
 
 ### TypeScript
 - [Basic Types](typescript/basic-types.md)
