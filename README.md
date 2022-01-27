@@ -190,7 +190,7 @@ _229 TILs and counting..._
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
 - [Install Yarn](nodejs/install-yarn.md)
 - [Optimise For Performance](nodejs/optimise-for-performance.md)
-- [Read Text File Line By Line](nodejs/read-text-file-line-by-line.md)
+- [Read A Text File Line By Line](nodejs/read-a-text-file-line-by-line.md)
 - [Sample Git Ignore For A Nodejs Project](nodejs/sample-git-ignore-for-a-nodejs-project.md)
 - [Setup A Nodejs Project With TypeScript](nodejs/setup-a-nodejs-project-with-typescript.md)
 - [Specifying A Node Version](nodejs/specifying-a-node-version.md)
