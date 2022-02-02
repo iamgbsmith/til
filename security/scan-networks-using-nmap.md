@@ -24,19 +24,19 @@ Scan devices on a subnet:
 nmap 192.168.1.1/24
 ```
 
-Perform a stealth scan against a host (this will be slower because the scan does not complete a 3-way handshake):
+Perform a stealth scan against a target host (this will be slower because the scan does not complete a 3-way handshake):
 
 ```shell
 nmap 192.168.1.1 -sS
 ```
 
-Fingerprint hosts (using a hyphen to specify a range), showing OS version and a list of services and versions where detectable: 
+Fingerprint target hosts (using a hyphen to specify a range), showing OS version and a list of services and versions where detectable: 
 
 ```shell
 nmap 192.168.1.1-60 -sV
 ```
 
-Perform an aggressive scan, showing OS version, a list of services and versions where detectable, and traceroute information:
+Perform an aggressive scan against a target host, showing OS version, a list of services and versions where detectable, and traceroute information:
 
 ```shell
 nmap 192.168.1.1 -A
