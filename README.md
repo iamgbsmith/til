@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_230 TILs and counting..._
+_231 TILs and counting..._
 
 ---
 
@@ -255,6 +255,7 @@ _230 TILs and counting..._
 ### Security
 - [Add An SSH Key](security/add-an-ssh-key.md)
 - [Check SSL Certificate Expiry Date](security/check-ssl-certificate-expiry-date.md)
+- [Detect Open Ports Using Nmap](security/detect-open-ports-using-nmap.md)
 - [Display LDAP SSL Certificate Details](security/display-ldap-ssl-certificate-details.md)
 - [Display SSL Certificate Details](security/display-ssl-certificate-details.md)
 - [Encrypt A File](security/encrypt-a-file.md)
