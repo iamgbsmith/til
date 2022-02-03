@@ -16,7 +16,7 @@ Set your identity that will be associated with each history marker:
 
 ```shell
 git config --global user.name "Billy Bragg"
-git config --global user.name billybragg@orbiks.com
+git config --global user.email billybragg@orbiks.com
 ```
 
 Set automatic command line colours to allow for easy reviewing.
