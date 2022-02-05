@@ -31,4 +31,4 @@ Ensures that an organisation meets security objectives for visibility, auditabil
 
 Helps to enable, run, use, operate, and recover IT workloads to the level agreed upon with business stakeholders. This perspective helps stakeholders define current operating procedures and identify the process changes and training needed to implement successful cloud adoption.
 
-See [AWS Cloud Adoption Framework](https://aws.amazon.com/professional-services/CAF/) for more details.
+c

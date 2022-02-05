@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_232 TILs and counting..._
+_233 TILs and counting..._
 
 ---
 
@@ -235,6 +235,7 @@ _232 TILs and counting..._
 - [Change Page Title](react/change-page-title.md)
 - [Create A React App](react/create-a-react-app.md)
 - [Extending Styled Components](react/extending-styled-components.md)
+- [State Management With Recoil](react/state-management-with-recoil.md)
 - [Using SetInterval In React](react/using-setinterval-in-react.md)
 - [Using Styled Components](react/using-styled-components.md)
 
