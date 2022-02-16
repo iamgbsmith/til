@@ -5,7 +5,17 @@ __Category: JavaScript__
 Assuming an array of values:
 
 ```javascript
-const manufacturers = ['Aston Martin', 'Audi', 'BMW', 'Jaguar', 'McLaren', 'Mercedes-Benz', 'Porsche', 'Renault', 'Volkswagen'];
+const manufacturers = [
+  'Aston Martin', 
+  'Audi', 
+  'BMW', 
+  'Jaguar', 
+  'McLaren', 
+  'Mercedes-Benz', 
+  'Porsche', 
+  'Renault', 
+  'Volkswagen'
+];
 ```
 
 You can obtain a random value from the array as follows:
