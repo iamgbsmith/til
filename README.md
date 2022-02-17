@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_239 TILs and counting..._
+_240 TILs and counting..._
 
 ---
 
@@ -45,6 +45,7 @@ _239 TILs and counting..._
 
 ### AWS
 - [Cloud Adoption Framework](aws/cloud-adoption-framework.md)
+- [Cloud Migration Strategies](aws/cloud-migration-strategies.md)
 - [CloudFront Request Geo Restrictions](aws/cloudfront-request-geo-restrictions.md)
 - [Penetration Testing On AWS](aws/penetration-testing-on-aws.md)
 - [S3 Bucket Naming Conventions](aws/s3-bucket-naming-conventions.md)
