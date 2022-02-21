@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_241 TILs and counting..._
+_242 TILs and counting..._
 
 ---
 
@@ -240,6 +240,7 @@ _241 TILs and counting..._
 
 ### React
 - [Change Page Title](react/change-page-title.md)
+- [Conditional CSS In Styled Components](react/conditional-css-in-styled-components.md)
 - [Create A React App](react/create-a-react-app.md)
 - [Displaying Child List Elements](react/displaying-child-list-elements.md)
 - [Extending Styled Components](react/extending-styled-components.md)
