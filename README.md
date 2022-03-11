@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_249 TILs and counting..._
+_250 TILs and counting..._
 
 ---
 
@@ -313,6 +313,7 @@ _249 TILs and counting..._
 - [Basic Types](typescript/basic-types.md)
 - [Composing Types](typescript/composing-types.md)
 - [Constants In TypeScript](typescript/constants-in-typescript.md)
+- [Convert From A Type To String](typescript/convert-from-a-type-to-string.md)
 - [Custom Types](typescript/custom-types.md)
 - [Benefits Of Using TypeScript](typescript/benefits-of-using-typescript.md)
 - [Install TypeScript Compiler Globally](typescript/install-typescript-compiler-globally.md)
