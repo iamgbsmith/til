@@ -14,7 +14,7 @@ From the menu select File -> Export Select Images. From the dialog select `Optio
 
 Press `Choose` and wait for the image format conversion to complete.
 
-### To resize image format
+### To resize images
 
 Open a collection of images using Preview.
 
