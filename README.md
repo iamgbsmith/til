@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_251 TILs and counting..._
+_252 TILs and counting..._
 
 ---
 
@@ -154,6 +154,7 @@ _251 TILs and counting..._
 ### Mac
 - [Automate Applications Using AppleScript](mac/automate-applications-using-applescript.md)
 - [Bind To Active Directory](mac/bind-to-active-directory.md)
+- [Bulk Convert Image Format And Size](mac/bulk-convert-image-format-and-size.md)
 - [Copy To Your Clipboard From The Command Line](mac/copy-to-your-clipboard-from-the-command-line.md)
 - [Create A Bootable USB Installer For MacOS](mac/create-a-bootable-usb-installer-for-macos.md)
 - [Encrypt A Zip File](mac/encrypt-a-zip-file.md)
