@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_253 TILs and counting..._
+_254 TILs and counting..._
 
 ---
 
@@ -106,6 +106,7 @@ _253 TILs and counting..._
 - [Skip Tests During Builds](gradle/skip-tests-during-builds.md)
 
 ### HTML
+- [Address Bar And Mobile Viewport Sizing](html/address-bar-and-mobile-viewport-sizing.md)
 - [Communicate Between Browser Contexts](html/communicate-between-browser-contexts.md)
 - [Determine Browser Capabilities](html/determine-browser-capabilities.md)
 - [Local Storage and Session Storage](html/local-storage-and-session-storage.md)
