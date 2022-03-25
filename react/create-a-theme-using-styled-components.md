@@ -72,10 +72,10 @@ import Metrics from './components/metrics';
 import { darkModeAtom } from './atoms/darkModeAtom';
 import { GlobalStyles } from './styles/globalStyles';
 import { lightTheme, darkTheme } from './styles/theme';
-import { useRecoilState } from 'recoil';
+import { useRecoilValue } from 'recoil';
 
 const Dashboard:React.FC = () => {
-  const [darkMode] = useRecoilState(darkModeAtom);
+  const darkMode = useRecoilValue(darkModeAtom);
   
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
