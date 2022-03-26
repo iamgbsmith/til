@@ -28,7 +28,7 @@ Update a specific package:
 brew upgrade [package_name]
 ```
 
-Update all packages as follows:
+Update all packages:
 
 ```shell
 brew upgrade
