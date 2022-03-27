@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_256 TILs and counting..._
+_257 TILs and counting..._
 
 ---
 
@@ -193,6 +193,7 @@ _256 TILs and counting..._
 - [Enable HTTP Strict Transport Security](nginx/enable-http-strict-transport-security.md)
 - [Improve Website Performance Using GZIP](nginx/improve-website-performance-using-gzip.md)
 - [Hide Version Information](nginx/hide-version-information.md)
+- [Monitor Nginx Service Status](nginx/monitor-nginx-service-status.md)
 - [Validate Configuration](nginx/validate-configuration.md)
 
 ### Nodejs
