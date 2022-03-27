@@ -12,12 +12,17 @@ Create a `package.json` file with the following:
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "express": "^4.17.1"
   },
   "scripts": {
     "start": "node app.js"
   }
 }
+```
+
+Add the latest version of express as a dependency:
+
+```shell
+yarn add express
 ```
 
 Create the application entrypoint file:
@@ -31,9 +36,7 @@ In the `app.js` file add the following, with an `app.get()` method for each REST
 ```javascript
 var express = require('express');
 
-var app = express();app.listen(3000, () => {
-  console.log('Server running on port 3000');
-});
+var app = express();
 
 app.get('/cars', (req, res, next) => {
   res.json([
@@ -45,7 +48,6 @@ app.get('/cars', (req, res, next) => {
   ]);
 });
 
-var app = express();
 app.listen(3000, () => {
   console.log('Server running on port 3000');
 });
