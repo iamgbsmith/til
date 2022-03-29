@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_258 TILs and counting..._
+_259 TILs and counting..._
 
 ---
 
@@ -356,6 +356,7 @@ _258 TILs and counting..._
 - [Install Xcode Manually](xcode/install-xcode-manually.md)
 - [Record iOS Simulator](xcode/record-ios-simulator.md)
 - [Setup MITMProxy For A Simulator Device](xcode/setup-mitmproxy-for-a-simulator-device.md)
+- [Show Web Inspector For A Simulator Device](xcode/show-web-inspector-for-a-simulator-device.md)
 
 ## About
 
