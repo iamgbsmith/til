@@ -22,4 +22,10 @@ To upgrade all packages matching a specific name:
 yarn upgrade --pattern gatsby --latest
 ```
 
+To upgrade packages interactively to the latest version:
+
+```shell
+yarn upgrade-interactive --latest
+```
+
 See https://classic.yarnpkg.com/en/docs/cli/upgrade/
