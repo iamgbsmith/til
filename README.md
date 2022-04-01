@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_260 TILs and counting..._
+_261 TILs and counting..._
 
 ---
 
@@ -247,6 +247,7 @@ _260 TILs and counting..._
 - [Installing And Upgrading Packages](python/installing-and-upgrading-packages.md)
 
 ### React
+- [Add Custom Fonts To Styled Components](react/add-custom-fonts-to-styled-components.md)
 - [Change Page Title](react/change-page-title.md)
 - [Conditional CSS In Styled Components](react/conditional-css-in-styled-components.md)
 - [Create A React App](react/create-a-react-app.md)
@@ -254,6 +255,7 @@ _260 TILs and counting..._
 - [Displaying Child List Elements](react/displaying-child-list-elements.md)
 - [Extending Styled Components](react/extending-styled-components.md)
 - [Get Width Or Height Of Window](react/get-width-or-height-of-window.md)
+- [Handle Side Effects In Recoil Atoms](react/handle-side-effects-in-recoil-atoms.md)
 - [Listen For Keyboard Events](react/listen-for-keyboard-events.md)
 - [Render An SVG](react/render-an-svg.md)
 - [Render Unicode Characters](react/render-unicode-characters.md)
