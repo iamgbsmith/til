@@ -4,7 +4,9 @@ __Category: React__
 
 Atom effects are an API in Recoil for handling side-effects in atoms. For example, you can use a side effect to log when a change is made to application state or you can use a side effect to update a value in local storage.
 
-Assume you have a value for your application that you need to log a change for and persist to local storage, add a side effect to your atom in the `effects` block with an `onSet` method as follows:
+Assume you have a value in an atom that you need to log a change for and persist to local storage when the atom state is updated. 
+
+This can be done by adding a side effect to your atom in the `effects` block with an `onSet` method as follows:
 
 ```javascript
 import { atom } from 'recoil';
