@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_267 TILs and counting..._
+_268 TILs and counting..._
 
 ---
 
@@ -58,6 +58,7 @@ _267 TILs and counting..._
 - [Get An Ethereum Account Balance](blockchain/get-an-ethereum-account-balance.md)
 - [Get Current Ethereum Gas Price](blockchain/get-current-ethereum-gas-price.md)
 - [Setup An IPFS Node](blockchain/setup-an-ipfs-node.md)
+- [The Blockchain Trilemma](blockchain/the-blockchain-trilemma.md)
 - [What Is IPFS](blockchain/what-is-ipfs.md)
 - [What Is Ganache](blockchain/what-is-ganache.md)
 - [What Is Web3js](blockchain/what-is-web3js.md)
