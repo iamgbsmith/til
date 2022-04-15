@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_268 TILs and counting..._
+_269 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _268 TILs and counting..._
 * [React](#react)
 * [Redis](#redis)
 * [Security](#security)
+* [Solidity](#solidity)
 * [Spring](#spring)
 * [Swift](#swift)
 * [Terraform](#terraform)
@@ -302,6 +303,9 @@ _268 TILs and counting..._
 - [Three Principles Of Information Security](security/three-principles-of-information-security.md)
 - [Understanding CVSS Scores](security/understanding-cvss-scores.md)
 - [Verify A Checksum](security/verify-a-checksum.md)
+
+### Solidity
+- [Function Modifiers](solidity/function-modifiers.md)
 
 ### Spring
 - [Custom HTTP Response Headers](spring/custom-http-response-headers.md)
