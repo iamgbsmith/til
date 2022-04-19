@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_270 TILs and counting..._
+_271 TILs and counting..._
 
 ---
 
@@ -268,6 +268,7 @@ _270 TILs and counting..._
 - [Render An SVG](react/render-an-svg.md)
 - [Render Unicode Characters](react/render-unicode-characters.md)
 - [Reset Recoil State](react/reset-recoil-state.md)
+- [Specify Supported Browsers](react/specify-supported-browsers.md)
 - [State Management With Recoil](react/state-management-with-recoil.md)
 - [Using SetInterval In React](react/using-setinterval-in-react.md)
 - [Using Styled Components](react/using-styled-components.md)
