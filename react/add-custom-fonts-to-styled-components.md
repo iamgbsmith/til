@@ -61,3 +61,27 @@ If you want all components to use the font add the following to global styles:
   font-family: 'Roboto Condensed', ...
 }
 ```
+
+In a high-level React component, render the `<FontStyles/>`:
+
+```javascript
+import React from 'react';
+
+import { ThemeProvider } from 'styled-components';
+import { GlobalStyles } from '../../styles/globalStyles';
+import { FontStyles } from '../../styles/fontStyles';
+import Main from '../Main';
+
+const App:React.FC = () => {  
+
+  return (
+    <>
+      <GlobalStyles/>
+      <FontStyles/>
+      <Main/>
+    </>
+  );
+}
+
+export default App;
+```
