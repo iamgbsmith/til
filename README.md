@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_274 TILs and counting..._
+_275 TILs and counting..._
 
 ---
 
@@ -229,6 +229,7 @@ _274 TILs and counting..._
 - [Keyboard Shortcuts For Teams](office/keyboard-shortcuts-for-teams.md)
 - [Outlook Email Search Filters](office/outlook-email-search-filters.md)
 - [Password Protect An Excel Workbook](office/password-protect-an-excel-workbook.md)
+- [Delayed Sending Of Email Messages In Outlook](office/delay-sending-of-email-messages-in-outlook.md)
 
 ### Postgres
 - [Backup A Database](postgres/backup-a-database.md)
