@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_275 TILs and counting..._
+_276 TILs and counting..._
 
 ---
 
@@ -189,6 +189,7 @@ _275 TILs and counting..._
 - [Show Hidden Display Resolutions](mac/show-hidden-display-resolutions.md)
 - [Show Hidden Files In Finder](mac/show-hidden-files-in-finder.md)
 - [Show Metadata Attributes For A File](mac/show-metadata-attributes-for-a-file.md)
+- [Show Recent Finder Locations](mac/show-recent-finder-locations.md)
 - [Take A Screenshot](mac/take-a-screenshot.md)
 - [Update Brew Packages](mac/update-brew-packages.md)
 - [Use Emojis And Symbols](mac/use-emojis-and-symbols.md)
