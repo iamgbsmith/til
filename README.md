@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_279 TILs and counting..._
+_280 TILs and counting..._
 
 ---
 
@@ -194,6 +194,7 @@ _279 TILs and counting..._
 - [Take A Screenshot](mac/take-a-screenshot.md)
 - [Update Brew Packages](mac/update-brew-packages.md)
 - [Use Emojis And Symbols](mac/use-emojis-and-symbols.md)
+- [Use Two Applications Side By Side](mac/use-two-applications-side-by-side.md)
 - [Write IMG File To SD Card From The Command Line](mac/write-img-file-to-sd-card-from-the-command-line.md)
 
 ### MQTT
