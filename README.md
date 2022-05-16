@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_283 TILs and counting..._
+_284 TILs and counting..._
 
 ---
 
@@ -307,6 +307,7 @@ _283 TILs and counting..._
 - [Detect Open Ports Using Nmap](security/detect-open-ports-using-nmap.md)
 - [Display LDAP SSL Certificate Details](security/display-ldap-ssl-certificate-details.md)
 - [Display SSL Certificate Details](security/display-ssl-certificate-details.md)
+- [Enable Email Privacy Protection On iOS](security/enable-email-privacy-protection-on-ios.md)
 - [Encrypt A File](security/encrypt-a-file.md)
 - [Generate An SSH Key](security/generate-an-ssh-key.md)
 - [List GPG Keys](security/list-gpg-keys.md)
