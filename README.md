@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_285 TILs and counting..._
+_286 TILs and counting..._
 
 ---
 
@@ -54,6 +54,7 @@ _285 TILs and counting..._
 - [S3 Deleting Buckets and Objects](aws/s3-deleting-buckets-and-objects.md)
 - [S3 Object Expiry](aws/s3-object-expiry.md)
 - [S3 Storage Classes](aws/s3-storage-classes.md)
+- [S3 Working With Buckets](aws/s3-working-with-buckets.md)
 - [Well-Architected Framework](aws/well-architected-framework.md)
 
 ### Blockchain
