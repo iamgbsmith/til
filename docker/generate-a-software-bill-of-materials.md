@@ -1,4 +1,4 @@
-# Generate A Software Bill of Materials
+# Generate A Software Bill Of Materials
 
 __Category: Docker__
 
