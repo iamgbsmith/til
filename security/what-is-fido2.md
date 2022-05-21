@@ -4,9 +4,9 @@ __Category: Security__
 
 FIDO2 (Fast Identity Online) extends FIDO U2F to provide support for passwordless and multi-factor authentication.
 
-It combines the capabilities of Web Authentication (WebAuthn) with Client-To-Authenticator-Protocol (CTAP) to bring FIDO2 to devices browsers. 
+It combines the capabilities of Web Authentication (WebAuthn) with Client-To-Authenticator-Protocol (CTAP) to bring FIDO2 to devices and browsers. 
 
-FIDO2 enables more methods of authentication to be verified by a physical security key such as a [Yubikey](https://www.yubico.com/products/security-key/) or using built-in platform authenticators such a fingerprint readers and web cameras.
+FIDO2 enables authentication methods to be verified by a physical security key such as a [Yubikey](https://www.yubico.com/products/security-key/) or using built-in platform authenticators such a fingerprint readers and web cameras.
 
 Implementations and supported platforms include:
 
