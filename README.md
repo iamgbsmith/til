@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_288 TILs and counting..._
+_289 TILs and counting..._
 
 ---
 
@@ -118,6 +118,7 @@ _288 TILs and counting..._
 - [Address Bar And Mobile Viewport Sizing](html/address-bar-and-mobile-viewport-sizing.md)
 - [Communicate Between Browser Contexts](html/communicate-between-browser-contexts.md)
 - [Determine Browser Capabilities](html/determine-browser-capabilities.md)
+- [Enable Experimental Browser Features](html/enable-experimental-browser-features.md)
 - [Local Storage and Session Storage](html/local-storage-and-session-storage.md)
 - [Numeric Font Weights](html/numeric-font-weights.md)
 - [Using JSON Data With Local Storage](html/using-json-data-with-local-storage.md)
