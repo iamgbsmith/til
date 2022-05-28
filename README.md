@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_291 TILs and counting..._
+_292 TILs and counting..._
 
 ---
 
@@ -304,6 +304,7 @@ _291 TILs and counting..._
 ### Redis
 - [Configure Data Snapshotting](redis/configure-data-snapshotting.md)
 - [Get Server Info](redis/get-server-info.md)
+- [Working With Keys](redis/working-with-keys.md)
 
 ### Security
 - [Add An SSH Key](security/add-an-ssh-key.md)
