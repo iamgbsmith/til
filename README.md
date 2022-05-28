@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_292 TILs and counting..._
+_293 TILs and counting..._
 
 ---
 
@@ -293,6 +293,7 @@ _292 TILs and counting..._
 - [Application Crashes](react-native/application-crashes.md)
 - [Application Will Not Start](react-native/application-will-not-start.md)
 - [Create A React Native App](react-native/create-a-react-native-app.md)
+- [Create A React Native For MacOS App](react-native/create-a-react-native-for-macos-app.md)
 - [Disable App Transport Security In iOS](react-native/disable-app-transport-security-in-ios.md)
 - [Functional Components](react-native/functional-components.md)
 - [Get Unique Device Identifier](react-native/get-unique-device-identifier.md)
