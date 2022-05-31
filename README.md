@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_294 TILs and counting..._
+_295 TILs and counting..._
 
 ---
 
@@ -171,6 +171,7 @@ _294 TILs and counting..._
 - [Bulk Convert Image Format And Size](mac/bulk-convert-image-format-and-size.md)
 - [Bulk Rename Files](mac/bulk-rename-files.md)
 - [Clear Safari Cache For A Specific Website](mac/clear-safari-cache-for-a-specific-website.md)
+- [Convert A Video To A GIF](mac/convert-a-video-to-a-gif.md)
 - [Copy To Your Clipboard From The Command Line](mac/copy-to-your-clipboard-from-the-command-line.md)
 - [Create A Bootable USB Installer For MacOS](mac/create-a-bootable-usb-installer-for-macos.md)
 - [Encrypt A Zip File](mac/encrypt-a-zip-file.md)
