@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_296 TILs and counting..._
+_297 TILs and counting..._
 
 ---
 
@@ -74,6 +74,7 @@ _296 TILs and counting..._
 - [Create An Image](docker/create-an-image.md)
 - [Delete Unused Containers](docker/delete-unused-containers.md)
 - [Docker Desktop Licensing And Pricing](docker/docker-desktop-licensing-and-pricing.md)
+- [Execute Commands In A Running Container](docker/execute-commands-in-a-running-container.md)
 - [Exposing Ports](docker/exposing-ports.md)
 - [Generate A Software Bill of Materials](docker/generate-a-software-bill-of-materials.md)
 - [Install Docker On Ubuntu](docker/install-docker-on-ubuntu.md)
