@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_301 TILs and counting..._
+_302 TILs and counting..._
 
 ---
 
@@ -124,6 +124,7 @@ _301 TILs and counting..._
 - [Local Storage and Session Storage](html/local-storage-and-session-storage.md)
 - [Numeric Font Weights](html/numeric-font-weights.md)
 - [Using JSON Data With Local Storage](html/using-json-data-with-local-storage.md)
+- [View Browser Network Requests](html/view-browser-network-requests.md)
 
 ### Java
 - [Add JAXB Dependencies](java/add-jaxb-dependencies.md)
