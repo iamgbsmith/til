@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_302 TILs and counting..._
+_303 TILs and counting..._
 
 ---
 
@@ -82,6 +82,7 @@ _302 TILs and counting..._
 - [Manage Sensitive Data With Secrets](docker/manage-sensitive-data-with-secrets.md)
 - [Placement Constraints With Swarm](docker/placement-constraints-with-swarm.md)
 - [Nginx Network Resolver](docker/nginx-network-resolver.md)
+- [Start And Stop A Container](docker/start-and-stop-a-container.md)
 - [Store Data With Volumes](docker/store-data-with-volumes.md)
 
 ### Gatsby
