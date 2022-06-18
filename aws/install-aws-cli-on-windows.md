@@ -20,4 +20,4 @@ Confirm the version:
 aws --version
 ```
 
-See https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+See [Installing or updating the latest version of the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) for more details.
