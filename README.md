@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_306 TILs and counting..._
+_307 TILs and counting..._
 
 ---
 
@@ -14,6 +14,7 @@ _306 TILs and counting..._
 
 * [AWS](#aws)
 * [Blockchain](#blockchain)
+* [DevOps](#devops)
 * [Docker](#docker)
 * [Gatsby](#gatsby)
 * [Git](#git)
@@ -69,6 +70,9 @@ _306 TILs and counting..._
 - [What Is IPFS](blockchain/what-is-ipfs.md)
 - [What Is Ganache](blockchain/what-is-ganache.md)
 - [What Is Web3js](blockchain/what-is-web3js.md)
+
+### DevOps
+- [Install And Start LocalStack](devops/install-and-start-localstack.md)
 
 ### Docker
 - [Container Will Not Start](docker/container-will-not-start.md)
