@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_307 TILs and counting..._
+_308 TILs and counting..._
 
 ---
 
@@ -386,6 +386,7 @@ _307 TILs and counting..._
 ### Windows
 - [Airpods Volume Is Too Loud On Teams](windows/airpods-volume-is-too-loud-on-teams.md)
 - [Configure SSH Agent To Automatically Start](windows/configure-ssh-agent-to-automatically-start.md)
+- [Count Characters Lines and Words In A File](windows/count-characters-words-and-lines-in-a-file.md)
 - [Create An Empty File Using PowerShell](windows/create-an-empty-file-using-powershell.md)
 - [Display Service Status Using PowerShell](windows/display-service-status-using-powershell.md)
 - [Enable Focus Assist](windows/enable-focus-assist.md)
