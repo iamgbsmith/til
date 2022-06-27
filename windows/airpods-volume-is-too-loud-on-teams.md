@@ -2,7 +2,7 @@
 
 __Category: Windows__
 
-By defauit, Microsoft Windows will play Teams sound through Airpods at maximum volume.
+By default, Microsoft Windows will play Teams sound through Airpods at maximum volume.
 
 You can lower volume using the Volume Mixer.
 
