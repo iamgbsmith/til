@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_312 TILs and counting..._
+_313 TILs and counting..._
 
 ---
 
@@ -72,7 +72,7 @@ _312 TILs and counting..._
 - [What Is Web3js](blockchain/what-is-web3js.md)
 
 ### DevOps
-- [Connect To Localstack Using AWS CLI](devops/connect-to-localstack-using-aws-cli.md)
+- [Connect To LocalStack Using AWS CLI](devops/connect-to-localstack-using-aws-cli.md)
 - [Install And Start LocalStack](devops/install-and-start-localstack.md)
 
 ### Docker
@@ -183,6 +183,7 @@ _312 TILs and counting..._
 - [Bulk Rename Files](mac/bulk-rename-files.md)
 - [Clear Safari Cache For A Specific Website](mac/clear-safari-cache-for-a-specific-website.md)
 - [Convert A Video To A GIF](mac/convert-a-video-to-a-gif.md)
+- [Convert HEIC Images To Another Format](mac/convert-heic-images-to-another-format.md)
 - [Copy To Your Clipboard From The Command Line](mac/copy-to-your-clipboard-from-the-command-line.md)
 - [Create A Bootable USB Installer For MacOS](mac/create-a-bootable-usb-installer-for-macos.md)
 - [Encrypt A Zip File](mac/encrypt-a-zip-file.md)
