@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_315 TILs and counting..._
+_316 TILs and counting..._
 
 ---
 
@@ -127,6 +127,7 @@ _315 TILs and counting..._
 ### HTML
 - [Address Bar And Mobile Viewport Sizing](html/address-bar-and-mobile-viewport-sizing.md)
 - [Communicate Between Browser Contexts](html/communicate-between-browser-contexts.md)
+- [Detect Dark Mode For A Browser](html/detect-dark-mode-for-a-browser.md)
 - [Determine Browser Capabilities](html/determine-browser-capabilities.md)
 - [Enable Experimental Browser Features](html/enable-experimental-browser-features.md)
 - [Local Storage and Session Storage](html/local-storage-and-session-storage.md)
