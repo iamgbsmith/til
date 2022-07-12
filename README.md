@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_316 TILs and counting..._
+_317 TILs and counting..._
 
 ---
 
@@ -301,6 +301,7 @@ _316 TILs and counting..._
 - [Get Width Or Height Of Window](react/get-width-or-height-of-window.md)
 - [Handle Side Effects In Recoil Atoms](react/handle-side-effects-in-recoil-atoms.md)
 - [Listen For Keyboard Events](react/listen-for-keyboard-events.md)
+- [Programatically Transfer Focus](react/programatically-transfer-focus.md)
 - [Render An SVG](react/render-an-svg.md)
 - [Render Unicode Characters](react/render-unicode-characters.md)
 - [Reset Recoil State](react/reset-recoil-state.md)
