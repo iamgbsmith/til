@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_319 TILs and counting..._
+_320 TILs and counting..._
 
 ---
 
@@ -409,6 +409,7 @@ _319 TILs and counting..._
 - [Shorten Display Time For On Screen Volume Control](windows/shorten-on-screen-display-time-for-volume-control.md)
 - [Show Command History In PowerShell](windows/show-command-history-in-powershell.md)
 - [Take A Screenshot](windows/take-a-screenshot.md)
+- [Unlock Windows Using Facial Recognition](windows/unlock-windows-using-facial-recognition.md)
 - [Upgrade PowerShell](windows/upgrade-powershell.md)
 - [Use An Apple Magic Mouse With Windows](windows/use-an-apple-magic-mouse-with-windows.md)
 
