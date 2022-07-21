@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_320 TILs and counting..._
+_321 TILs and counting..._
 
 ---
 
@@ -61,6 +61,7 @@ _320 TILs and counting..._
 - [S3 Storage Classes](aws/s3-storage-classes.md)
 - [S3 Working With Buckets](aws/s3-working-with-buckets.md)
 - [Well-Architected Framework](aws/well-architected-framework.md)
+- [What Is OpenSearch](aws/what-is-opensearch.md)
 
 ### Blockchain
 - [Get An Ethereum Account Balance](blockchain/get-an-ethereum-account-balance.md)
