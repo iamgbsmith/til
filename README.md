@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_321 TILs and counting..._
+_322 TILs and counting..._
 
 ---
 
@@ -293,6 +293,7 @@ _321 TILs and counting..._
 ### React
 - [Add Custom Fonts To Styled Components](react/add-custom-fonts-to-styled-components.md)
 - [Add Polyfill Modules For Webpack](react/add-polyfill-modules-for-webpack.md)
+- [Build For Production](react/build-for-production.md)
 - [Change Page Title](react/change-page-title.md)
 - [Conditional CSS In Styled Components](react/conditional-css-in-styled-components.md)
 - [Create A React App](react/create-a-react-app.md)
