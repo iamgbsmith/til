@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_322 TILs and counting..._
+_323 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _322 TILs and counting..._
 * [Git](#git)
 * [Gradle](#gradle)
 * [HTML](#html)
+* [Integration](#integration)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
@@ -136,6 +137,9 @@ _322 TILs and counting..._
 - [Numeric Font Weights](html/numeric-font-weights.md)
 - [Using JSON Data With Local Storage](html/using-json-data-with-local-storage.md)
 - [View Browser Network Requests](html/view-browser-network-requests.md)
+
+### Integration
+- [Generate REST API Documentation With Redoc](integration/generate-rest-api-documentation-with-redoc.md)
 
 ### Java
 - [Add JAXB Dependencies](java/add-jaxb-dependencies.md)
