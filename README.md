@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_323 TILs and counting..._
+_324 TILs and counting..._
 
 ---
 
@@ -351,6 +351,7 @@ _323 TILs and counting..._
 - [Generate An SSH Key](security/generate-an-ssh-key.md)
 - [List GPG Keys](security/list-gpg-keys.md)
 - [List SSH Keys](security/list-ssh-keys.md)
+- [OAuth 2.1 Grant Types](security/oauth-2.1-grant-types.md)
 - [Scan Networks Using Nmap](security/scan-networks-using-nmap.md)
 - [Search An LDAP Server](security/search-an-ldap-server.md)
 - [SSH Key Algorithms](security/ssh-key-algorithms.md)
