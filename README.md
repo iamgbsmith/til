@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_324 TILs and counting..._
+_325 TILs and counting..._
 
 ---
 
@@ -359,6 +359,7 @@ _324 TILs and counting..._
 - [Understanding CVSS Scores](security/understanding-cvss-scores.md)
 - [Verify A Checksum](security/verify-a-checksum.md)
 - [What is FIDO2](security/what-is-fido2.md)
+- [What is PKCE](security/what-is-pkce.md)
 
 ### Solidity
 - [Function Modifiers](solidity/function-modifiers.md)
