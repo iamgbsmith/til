@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_325 TILs and counting..._
+_326 TILs and counting..._
 
 ---
 
@@ -76,6 +76,7 @@ _325 TILs and counting..._
 ### DevOps
 - [Connect To LocalStack Using AWS CLI](devops/connect-to-localstack-using-aws-cli.md)
 - [Install And Start LocalStack](devops/install-and-start-localstack.md)
+- [Install Prometheus Using Docker](devops/install-prometheus-using-docker.md)
 
 ### Docker
 - [Container Will Not Start](docker/container-will-not-start.md)
