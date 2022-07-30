@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_326 TILs and counting..._
+_327 TILs and counting..._
 
 ---
 
@@ -290,6 +290,7 @@ _326 TILs and counting..._
 - [Terminate A Hanging Query](postgres/terminate-a-hanging-query.md)
 - [Use Expanded Display In PSQL](postgres/use-expanded-display-in-psql.md)
 - [UUIDs As Primary Keys](postgres/uuids-as-primary-keys.md)
+- [What Is Row Level Security](postgres/what-is-row-level-security.md)
 
 ### Python
 - [Create A Virtual Environment](python/create-a-virtual-environment.md)
