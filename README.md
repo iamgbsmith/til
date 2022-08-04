@@ -272,7 +272,7 @@ _330 TILs and counting..._
 
 ### Postgres
 - [Backup A Database](postgres/backup-a-database.md)
-- [Connecting pgAdmin Over SSH](postgres/connecting-pgadmin-over-ssh.md)
+- [Connect To pgAdmin Over SSH](postgres/connect-to-pgadmin-over-ssh.md)
 - [Determine Index Hit Rate](postgres/determine-index-hit-rate.md)
 - [Determine Table And Index Sizes](postgres/determine-table-and-index-sizes.md)
 - [Export From A Table Or Query To CSV](postgres/export-from-a-table-or-query-to-csv.md)

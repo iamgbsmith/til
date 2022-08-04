@@ -1,4 +1,4 @@
-# Connecting pgAdmin Over SSH
+# Connect To pgAdmin Over SSH
 
 __Category: Postgres__
 
@@ -16,4 +16,4 @@ Welcome to Ubuntu 18.04.1 LTS
 
 In the above example, traffic is being tunnelled to my local machine on port 1111 from the remote machine address port 5432. I used 1111 locally since I’m also running PG and port 5432 was unavailable.
 
-After that, in pgAdmin I created a connection to the server on localhost:1111 using the appropriate credentials and I could run queries against the remote database server.
+After that, in pgAdmin I created a connection to the server on localhost:1111 using the appropriate credentials and could run queries against the remote database server.
