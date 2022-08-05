@@ -35,7 +35,6 @@ _331 TILs and counting..._
 * [React](#react)
 * [Redis](#redis)
 * [Security](#security)
-* [Solidity](#solidity)
 * [Spring](#spring)
 * [Swift](#swift)
 * [Terraform](#terraform)
@@ -68,6 +67,7 @@ _331 TILs and counting..._
 - [Get An Ethereum Account Balance](blockchain/get-an-ethereum-account-balance.md)
 - [Get Current Ethereum Gas Price](blockchain/get-current-ethereum-gas-price.md)
 - [Setup An IPFS Node](blockchain/setup-an-ipfs-node.md)
+- [Solidity Function Modifiers](blockchain/solidity-function-modifiers.md)
 - [The Blockchain Trilemma](blockchain/the-blockchain-trilemma.md)
 - [What Is IPFS](blockchain/what-is-ipfs.md)
 - [What Is Ganache](blockchain/what-is-ganache.md)
@@ -366,9 +366,6 @@ _331 TILs and counting..._
 - [Verify A Checksum](security/verify-a-checksum.md)
 - [What is FIDO2](security/what-is-fido2.md)
 - [What is PKCE](security/what-is-pkce.md)
-
-### Solidity
-- [Function Modifiers](solidity/function-modifiers.md)
 
 ### Spring
 - [Custom HTTP Response Headers](spring/custom-http-response-headers.md)

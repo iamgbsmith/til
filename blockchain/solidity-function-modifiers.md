@@ -1,6 +1,6 @@
-# Function Modifiers
+# Solidity Function Modifiers
 
-__Category: Solidity__
+__Category: Blockchain__
 
 Function modifiers can be used to change the behaviour of Solidity functions in a declarative way, such as checking a condition before a function executes.
 
