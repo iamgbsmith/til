@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_331 TILs and counting..._
+_332 TILs and counting..._
 
 ---
 
@@ -276,6 +276,7 @@ _331 TILs and counting..._
 - [Create A User Or Role](postgres/create-a-user-or-role.md)
 - [Determine Index Hit Rate](postgres/determine-index-hit-rate.md)
 - [Determine Table And Index Sizes](postgres/determine-table-and-index-sizes.md)
+- [Enable Row Level Security](postgres/enable-row-level-security.md)
 - [Export From A Table Or Query To CSV](postgres/export-from-a-table-or-query-to-csv.md)
 - [Get The Current User](postgres/get-the-current-user.md)
 - [Hash Join Versus Merge Join](postgres/hash-join-versus-merge-join.md)
