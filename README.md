@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_333 TILs and counting..._
+_334 TILs and counting..._
 
 ---
 
@@ -76,6 +76,7 @@ _333 TILs and counting..._
 ### DevOps
 - [Add A Data Source To Grafana](devops/add-a-data-source-to-grafana.md)
 - [Connect To LocalStack Using AWS CLI](devops/connect-to-localstack-using-aws-cli.md)
+- [Deploy A React App To GitHub Pages](devops/deploy-a-react-app-to-github-pages.md)
 - [Install And Start LocalStack](devops/install-and-start-localstack.md)
 - [Install Grafana Using Docker](devops/install-grafana-using-docker.md)
 - [Install Prometheus Using Docker](devops/install-prometheus-using-docker.md)
