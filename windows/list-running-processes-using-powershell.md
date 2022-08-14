@@ -19,11 +19,11 @@ Get-Process teams
 To list running instances of Microsoft Teams and Word (process names are case insensitive):
 
 ```
-ps teams,winword
+Get-Process teams,winword
 ```
 
 To show name, product version and the vendor for a running process follow it with the `Select-Object` pipe:
 
 ```
-Get-Process teams | Select-Object name,productversion,company
+Get-Process teams | Select-Object name,productversion,company teams
 ```
