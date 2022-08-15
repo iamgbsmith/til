@@ -157,7 +157,7 @@ _336 TILs and counting..._
 - [Override Field Names In JSON Payloads](java/override-field-names-in-json-payloads.md)
 - [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
 - [Run Unit Tests Faster](java/run-unit-tests-faster.md)
-- [Thread Dumps On Linux](java/thread-dumps-on-linux.md)
+- [JVM Thread Dumps On Linux](java/jvm-thread-dumps-on-linux.md)
 
 ### JavaScript
 - [Calculate Seconds Between Dates](javascript/calculate-seconds-between-dates.md)
