@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_336 TILs and counting..._
+_337 TILs and counting..._
 
 ---
 
@@ -158,6 +158,7 @@ _336 TILs and counting..._
 - [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
 - [Run Unit Tests Faster](java/run-unit-tests-faster.md)
 - [JVM Thread Dumps On Linux](java/jvm-thread-dumps-on-linux.md)
+- [JVM Thread Dumps On Windows](java/jvm-thread-dumps-on-windows.md)
 
 ### JavaScript
 - [Calculate Seconds Between Dates](javascript/calculate-seconds-between-dates.md)
