@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_338 TILs and counting..._
+_339 TILs and counting..._
 
 ---
 
@@ -346,6 +346,7 @@ _338 TILs and counting..._
 - [What Is Hermes](react-native/what-is-hermes.md)
 
 ### Redis
+- [Basic Pub Sub With Redis](redis/basic-pub-sub-with-redis.md)
 - [Configure Data Snapshotting](redis/configure-data-snapshotting.md)
 - [Expire A Key](redis/expire-a-key.md)
 - [Get Server Info](redis/get-server-info.md)
