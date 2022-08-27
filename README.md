@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_342 TILs and counting..._
+_343 TILs and counting..._
 
 ---
 
@@ -314,6 +314,7 @@ _342 TILs and counting..._
 - [Conditional CSS In Styled Components](react/conditional-css-in-styled-components.md)
 - [Conditional Rendering In Components](react/conditional-rendering-in-components.md)
 - [Create A React App](react/create-a-react-app.md)
+- [Create A React App Using Vite](react/create-a-react-app-using-vite.md)
 - [Create A React Progressive Web App](react/create-a-react-progressive-web-app.md)
 - [Create A Theme Using Styled Components](react/create-a-theme-using-styled-components.md)
 - [Displaying Child List Elements](react/displaying-child-list-elements.md)
