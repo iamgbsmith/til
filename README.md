@@ -93,6 +93,7 @@ _344 TILs and counting..._
 - [Install Docker On Ubuntu](docker/install-docker-on-ubuntu.md)
 - [Log In To Docker Hub From The Command Line](docker/log-in-to-docker-hub-from-the-command-line.md)
 - [Manage Sensitive Data With Secrets](docker/manage-sensitive-data-with-secrets.md)
+- [Pause And Unpause A Container](docker/pause-and-unpause-a-container.md)
 - [Placement Constraints With Swarm](docker/placement-constraints-with-swarm.md)
 - [Nginx Network Resolver](docker/nginx-network-resolver.md)
 - [Show Version For An Ubuntu Docker Image](docker/show-version-for-an-ubuntu-docker-image.md)
