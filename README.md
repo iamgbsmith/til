@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_345 TILs and counting..._
+_346 TILs and counting..._
 
 ---
 
@@ -176,6 +176,7 @@ _345 TILs and counting..._
 
 ### Kubernetes
 - [Lifecycle Of A Kubernetes Pod](kubernetes/lifecycle-of-a-kubernetes-pod.md)
+- [Windows Workloads In Kubernetes](kubernetes/microsoft-workloads-in-kubernetes.md)
 
 ### Linux
 - [Curl Showing HTTP Headers](linux/curl-showing-http-headers.md)
