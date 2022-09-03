@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_346 TILs and counting..._
+_347 TILs and counting..._
 
 ---
 
@@ -175,6 +175,7 @@ _346 TILs and counting..._
 - [Iterate An Array](javascript/iterate-an-array.md)
 
 ### Kubernetes
+- [Container States In Kubernetes](kubernetes/container-states-in-kubernetes.md)
 - [Lifecycle Of A Kubernetes Pod](kubernetes/lifecycle-of-a-kubernetes-pod.md)
 - [Windows Workloads In Kubernetes](kubernetes/microsoft-workloads-in-kubernetes.md)
 
