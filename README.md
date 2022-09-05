@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_349 TILs and counting..._
+_350 TILs and counting..._
 
 ---
 
@@ -435,6 +435,7 @@ _349 TILs and counting..._
 - [Find Which Process Is Using A Port](windows/find-which-process-is-using-a-port.md)
 - [Forward Traffic Over Netsh](windows/forward-traffic-over-netsh.md)
 - [Get Weather Information From The Command Line](windows/get-weather-information-from-the-command-line.md)
+- [Install OpenSSH On Windows](windows/install-open-ssh-on-windows.md)
 - [Install WSL](windows/install-wsl.md)
 - [List Running Processes Using PowerShell](windows/list-running-processes-using-powershell.md)
 - [Move A Window Or Dialog Using The Cursor](windows/move-a-window-or-dialog-using-the-cursor.md)
