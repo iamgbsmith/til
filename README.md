@@ -179,7 +179,7 @@ _351 TILs and counting..._
 - [Control Plane Services](kubernetes/control-plane-services.md)
 - [Lifecycle Of A Kubernetes Pod](kubernetes/lifecycle-of-a-kubernetes-pod.md)
 - [Supported Kubernetes Container Runtimes](kubernetes/supported-kubernetes-container-runtimes.md)
-- [Windows Workloads In Kubernetes](kubernetes/microsoft-workloads-in-kubernetes.md)
+- [Windows Workloads In Kubernetes](kubernetes/windows-workloads-in-kubernetes.md)
 
 ### Linux
 - [Curl Showing HTTP Headers](linux/curl-showing-http-headers.md)
