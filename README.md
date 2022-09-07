@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_351 TILs and counting..._
+_352 TILs and counting..._
 
 ---
 
@@ -178,6 +178,7 @@ _351 TILs and counting..._
 - [Container States In Kubernetes](kubernetes/container-states-in-kubernetes.md)
 - [Control Plane Services](kubernetes/control-plane-services.md)
 - [Lifecycle Of A Kubernetes Pod](kubernetes/lifecycle-of-a-kubernetes-pod.md)
+- [Services That Run On A Kubernetes Node](kubernetes/services-that-run-on-a-kubernetes-node.md)
 - [Supported Kubernetes Container Runtimes](kubernetes/supported-kubernetes-container-runtimes.md)
 - [Windows Workloads In Kubernetes](kubernetes/windows-workloads-in-kubernetes.md)
 
