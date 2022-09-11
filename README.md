@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing any detail
 
 This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
 
-_353 TILs and counting..._
+_354 TILs and counting..._
 
 ---
 
@@ -315,6 +315,7 @@ _353 TILs and counting..._
 - [What Is Row Level Security](postgres/what-is-row-level-security.md)
 
 ### Python
+- [Create A REST API Using Flask Restful](python/create-a-rest-api-using-flask-restful.md)
 - [Create A Virtual Environment](python/create-a-virtual-environment.md)
 - [Installing And Upgrading Packages](python/installing-and-upgrading-packages.md)
 
