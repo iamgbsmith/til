@@ -2,11 +2,11 @@
 
 ## Today I Learned
 
-On many occassions I have done something in a hurry without capturing any detail for future reference. In those moments of haste, what I should have done was document the learnings irrespective of how trivial they might seem so that when I needed to do the same thing again I wouldn't be scrambling for answers.
+On many occassions I have done something in a hurry without capturing my learnings for future reference.
 
-This collection of __Today I Learned__ snippets is a reference for my future self and a way for me to improve discipline with regards to documentation and knowledge sharing. It also details tools or techniques I have used in the past and would like to share with others.
+This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_354 TILs and counting..._
+_355 TILs and counting..._
 
 ---
 
@@ -191,6 +191,7 @@ _354 TILs and counting..._
 - [Grep Find In Files](linux/grep-find-in-files.md)
 - [Install A Root Certificate](linux/install-a-root-certificate.md)
 - [Install Raspberry Pi OS](linux/install-raspberry-pi-os.md)
+- [Install Snap On Linux](linux/install-snap-on-linux.md)
 - [Install Ubuntu Linux Updates](linux/install-ubuntu-linux-updates.md)
 - [Lock And Unlock User Accounts](linux/lock-and-unlock-user-accounts.md)
 - [Password Maintenance](linux/password-maintenance.md)
