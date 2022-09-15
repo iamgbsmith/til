@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_355 TILs and counting..._
+_356 TILs and counting..._
 
 ---
 
@@ -413,6 +413,7 @@ _355 TILs and counting..._
 - [Use SwiftUI With UIKit Or Cocoa](swift/use-swiftui-with-uikit-or-cocoa.md)
 
 ### Terraform
+- [Install Terraform On MacOS](terraform/install-terraform-on-macos.md)
 - [Show Status Of Resources](terraform/show-status-of-resources.md)
 
 ### TypeScript
