@@ -413,7 +413,7 @@ _356 TILs and counting..._
 - [Use SwiftUI With UIKit Or Cocoa](swift/use-swiftui-with-uikit-or-cocoa.md)
 
 ### Terraform
-- [Install Terraform On MacOS](terraform/install-terraform-on-macos.md)
+- [Install Terraform On macOS](terraform/install-terraform-on-macos.md)
 - [Show Status Of Resources](terraform/show-status-of-resources.md)
 
 ### TypeScript
