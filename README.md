@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_358 TILs and counting..._
+_359 TILs and counting..._
 
 ---
 
@@ -185,6 +185,7 @@ _358 TILs and counting..._
 
 ### Linux
 - [Curl Showing HTTP Headers](linux/curl-showing-http-headers.md)
+- [Disable GUI Desktop On Raspberry Pi OS](linux/disable-gui-desktop-on-raspberry-pi.md)
 - [Display Environment Variables](linux/display-environment-variables.md)
 - [Forward Traffic Over An SSH Tunnel](linux/forward-traffic-over-an-ssh-tunnel.md)
 - [Get The Time It Takes To Run A Command](linux/get-the-time-it-takes-to-run-a-command.md)
