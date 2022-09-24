@@ -6,13 +6,14 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_361 TILs and counting..._
+_362 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [AWS](#aws)
+* [Azure](#azure)
 * [Blockchain](#blockchain)
 * [DevOps](#devops)
 * [Docker](#docker)
@@ -63,6 +64,9 @@ _361 TILs and counting..._
 - [S3 Working With Buckets](aws/s3-working-with-buckets.md)
 - [Well-Architected Framework](aws/well-architected-framework.md)
 - [What Is OpenSearch](aws/what-is-opensearch.md)
+
+### Azure
+- [What Is Azure ExpressRoute](azure/what-is-azure-expressroute.md)
 
 ### Blockchain
 - [Get An Ethereum Account Balance](blockchain/get-an-ethereum-account-balance.md)
