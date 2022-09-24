@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_360 TILs and counting..._
+_361 TILs and counting..._
 
 ---
 
@@ -362,6 +362,7 @@ _360 TILs and counting..._
 - [Get Width Or Height Of A Component](react-native/get-width-or-height-of-a-component.md)
 - [Get Width Or Height Of Device Window](react-native/get-width-or-height-of-device-window.md)
 - [Remove Launch Screen White Flash](react-native/remove-launch-screen-white-flash.md)
+- [Render An SVG](react-native/render-an-svg.md)
 - [Request Device Permissions](react-native/request-device-permissions.md)
 - [Run Bundler And Simulator In VSCode](react-native/run-bundler-and-simulator-in-vscode.md)
 - [What Is Hermes](react-native/what-is-hermes.md)
