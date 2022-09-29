@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_364 TILs and counting..._
+_367 TILs and counting..._
 
 ---
 
@@ -169,6 +169,7 @@ _364 TILs and counting..._
 
 ### JavaScript
 - [Calculate Seconds Between Dates](javascript/calculate-seconds-between-dates.md)
+- [Encode Or Decode A Base64 String](javascript/encode-or-decode-a-base64-string.md)
 - [Filter A JSON Array](javascript/filter-a-json-array.md)
 - [Generate A UUID](javascript/generate-a-uuid.md)
 - [Get Index For A JSON Array Item](javascript/get-index-for-a-json-array-item.md)
