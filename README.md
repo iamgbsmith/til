@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_368 TILs and counting..._
+_369 TILs and counting..._
 
 ---
 
@@ -276,6 +276,7 @@ _368 TILs and counting..._
 - [Create A Simple HTTP Server](nodejs/create-a-simple-http-server.md)
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
 - [Install Yarn](nodejs/install-yarn.md)
+- [Log HTTP Requests In Express Using Pino](nodejs/log-http-requests-in-express-using-pino.md)
 - [Optimise For Performance](nodejs/optimise-for-performance.md)
 - [Read A Text File Line By Line](nodejs/read-a-text-file-line-by-line.md)
 - [Run Multiple Commands Concurrently](nodejs/run-multiple-commands-concurrently.md)
