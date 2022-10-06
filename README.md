@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_369 TILs and counting..._
+_370 TILs and counting..._
 
 ---
 
@@ -380,6 +380,7 @@ _369 TILs and counting..._
 - [Configure Data Snapshotting](redis/configure-data-snapshotting.md)
 - [Expire A Key](redis/expire-a-key.md)
 - [Get Server Info](redis/get-server-info.md)
+- [Measure Redis Latency](redis/measure-redis-latency.md)
 - [Pattern Matching Pub Sub With Redis](redis/pattern-matching-pub-sub-with-redis.md)
 - [Working With Keys](redis/working-with-keys.md)
 
