@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_370 TILs and counting..._
+_371 TILs and counting..._
 
 ---
 
@@ -206,6 +206,7 @@ _370 TILs and counting..._
 - [Perform A DNS Lookup](linux/perform-a-dns-lookup.md)
 - [Print From The Command Line](linux/print-from-the-command-line.md)
 - [Query System Details](linux/query-system-details.md)
+- [Run A Command Every N Seconds](linux/run-a-command-every-n-seconds.md)
 - [Run Commands In The Background](linux/run-commands-in-the-background.md)
 - [Schedule Jobs With Crontab](linux/schedule-jobs-with-crontab.md)
 - [Set Timezone](linux/set-timezone.md)
