@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_371 TILs and counting..._
+_372 TILs and counting..._
 
 ---
 
@@ -210,6 +210,7 @@ _371 TILs and counting..._
 - [Run Commands In The Background](linux/run-commands-in-the-background.md)
 - [Schedule Jobs With Crontab](linux/schedule-jobs-with-crontab.md)
 - [Set Timezone](linux/set-timezone.md)
+- [Show CPU Load](linux/show-cpu-load.md)
 - [Show Free Disk Space](linux/show-free-disk-space.md)
 - [Show Timestamps In Bash History](linux/show-timestamps-in-bash-history.md)
 - [What Is Snap](linux/what-is-snap.md)
