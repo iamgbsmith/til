@@ -445,7 +445,7 @@ _373 TILs and counting..._
 ### VS Code
 - [Debug A Node Application](vs-code/debug-a-node-application.md)
 - [Launch VS Code From The Command Line](vs-code/launch-vscode-from-the-command-line.md)
-- [Run VS Code In A Browser](vs-code/run-vs-code-in-a-browser.md)
+- [Use VS Code In A Browser](vs-code/run-vs-code-in-a-browser.md)
 
 ### Windows
 - [Airpods Volume Is Too Loud On Teams](windows/airpods-volume-is-too-loud-on-teams.md)

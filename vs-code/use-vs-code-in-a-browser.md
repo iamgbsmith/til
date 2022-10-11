@@ -1,8 +1,8 @@
-# Run VS Code In A Browser
+# Use VS Code In A Browser
 
 __Category: VS Code__
 
-You can run VS Code in a browser by opening https://vscode.dev
+You can use an online version of VS Code by opening https://vscode.dev
 
 To enable easier loading of GitHub repos, add the VS Code extension to Chrome or Edge.
 
