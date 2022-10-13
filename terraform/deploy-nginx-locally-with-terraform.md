@@ -6,7 +6,7 @@ This TIL will deploy Nginx locally in Docker using Terraform.
 
 Create a file called `main.tf` with the following content:
 
-```json
+```text
 terraform {
   required_providers {
     docker = {
