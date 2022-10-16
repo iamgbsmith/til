@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_376 TILs and counting..._
+_377 TILs and counting..._
 
 ---
 
@@ -146,6 +146,7 @@ _376 TILs and counting..._
 - [Communicate Between Browser Contexts](html/communicate-between-browser-contexts.md)
 - [Detect Dark Mode For A Browser](html/detect-dark-mode-for-a-browser.md)
 - [Determine Browser Capabilities](html/determine-browser-capabilities.md)
+- [Edit Text In A Rendered Web Page](html/edit-text-in-a-rendered-web-page.md)
 - [Enable Experimental Browser Features](html/enable-experimental-browser-features.md)
 - [Local Storage and Session Storage](html/local-storage-and-session-storage.md)
 - [Numeric Font Weights](html/numeric-font-weights.md)
