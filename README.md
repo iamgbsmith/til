@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_377 TILs and counting..._
+_378 TILs and counting..._
 
 ---
 
@@ -66,6 +66,7 @@ _377 TILs and counting..._
 - [What Is OpenSearch](aws/what-is-opensearch.md)
 
 ### Azure
+- [Azure Storage Types](azure/azure-storage-types.md)
 - [What Is Azure ExpressRoute](azure/what-is-azure-expressroute.md)
 - [What Is Azure Static Web Apps](azure/what-is-azure-static-web-apps.md)
 
