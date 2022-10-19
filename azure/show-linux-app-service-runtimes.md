@@ -6,7 +6,7 @@ App Service provides Linux hosting and container support. Supported languages in
 
 If the runtime required by your application is not supported with built-in images you can deploy a custom container.
 
-To show the current list of languages and their supported Linux runtimes on App Service using the following command:
+You can show the current list of languages and their supported Linux runtimes on App Service with the following command:
 
 ```shell
 az webapp list-runtimes --os-type linux
