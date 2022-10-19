@@ -68,7 +68,7 @@ _380 TILs and counting..._
 ### Azure
 - [Azure Storage Types](azure/azure-storage-types.md)
 - [What Is Azure Static Web Apps](azure/what-is-azure-static-web-apps.md)
-- [Show Linux App Service Runtimes](azure/show-linux-app-service-runtimes.md)
+- [Show App Service Linux Runtimes](azure/show-app-service-linux-runtimes.md)
 - [What Is Azure ExpressRoute](azure/what-is-azure-expressroute.md)
 - [What Is Azure Static Web Apps](azure/what-is-azure-static-web-apps.md)
 
