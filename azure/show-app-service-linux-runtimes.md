@@ -1,4 +1,4 @@
-# Show Linux App Service Runtimes
+# Show App Linux Service Runtimes
 
 __Category: Azure__
 
