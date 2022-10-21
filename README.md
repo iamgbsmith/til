@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_380 TILs and counting..._
+_381 TILs and counting..._
 
 ---
 
@@ -453,6 +453,7 @@ _380 TILs and counting..._
 - [Numeric Font Weights](web/numeric-font-weights.md)
 - [Using JSON Data With Local Storage](web/using-json-data-with-local-storage.md)
 - [View Browser Network Requests](web/view-browser-network-requests.md)
+- [What Are Core Web Vitals](web/what-are-core-web-vitals.md)
 
 ### Windows
 - [Airpods Volume Is Too Loud On Teams](windows/airpods-volume-is-too-loud-on-teams.md)
