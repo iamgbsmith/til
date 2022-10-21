@@ -1,6 +1,6 @@
 # Using JSON Data With Local Storage
 
-__Category: HTML__
+__Category: Web__
 
 You might need to store and load JSON data from local storage. For example, if you application is a Progressive Web App and does not require a server backend.
 

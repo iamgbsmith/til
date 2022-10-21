@@ -1,6 +1,6 @@
 # Detect Dark Mode For A Browser
 
-__Category: HTML__
+__Category: Web__
 
 You can query whether a host operating system is using dark mode using the following JavaScript:
 

@@ -1,8 +1,8 @@
 # Enable Experimental Browser Features
 
-This TIL shows how to enable experimental features on desktop browsers.
+__Category: Web__
 
-__Category: HTML__
+This TIL shows how to enable experimental features on desktop browsers.
 
 Web browsers provide experimental features which can be enabled for the purposes of testing leading-edge applications or providing feedback.
 

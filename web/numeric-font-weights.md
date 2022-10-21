@@ -1,6 +1,6 @@
 # Numeric Font Weights
 
-__Category: HTML__
+__Category: Web__
 
 The value for `font-weight` can be specified using a name, such as thin, light, medium, or bold. Alternatively, fonts have a numeric value that can be any number between 1 and 1000. 
 

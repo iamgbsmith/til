@@ -1,6 +1,6 @@
 # Communicate Between Browser Contexts
 
-__Category: HTML__
+__Category: Web__
 
 The Broadcast Channel API allows basic communication between browser contexts on the same machine such as windows, tabs, frames, or iFrames and workers on the same origin using a `BroadcastChannel` object. It provides an event bus capability for browser applications.
 

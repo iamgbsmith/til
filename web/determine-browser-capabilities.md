@@ -1,6 +1,6 @@
 # Determine Browser Capabilities
 
-__Category: HTML__
+__Category: Web__
 
 Modern internet browsers have near-equal capabilities but some browsers can have functional gaps on mobile devices or desktops. 
 

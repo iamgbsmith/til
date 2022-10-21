@@ -1,6 +1,6 @@
 # View Browser Network Requests
 
-__Category: HTML__
+__Category: Web__
 
 Network requests sent by a browser can be analysed using developer tools. This TIL assumes the use of Firefox.
 

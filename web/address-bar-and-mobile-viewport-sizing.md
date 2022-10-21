@@ -1,6 +1,6 @@
 # Address Bar And Mobile Viewport Sizing
 
-__Category: HTML__
+__Category: Web__
 
 Mobile devices present challenges with setting the correct viewport height. Specifying a value of 100% on iOS can result in the address bar covering page content, requiring the user to scroll up or down. Furthermore, it is difficult to hide the address bar using code unless deploying as a Progressive Web Applicaton (PWA).
 

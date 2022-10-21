@@ -20,7 +20,6 @@ _380 TILs and counting..._
 * [Gatsby](#gatsby)
 * [Git](#git)
 * [Gradle](#gradle)
-* [HTML](#html)
 * [Integration](#integration)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -42,6 +41,7 @@ _380 TILs and counting..._
 * [Terraform](#terraform)
 * [TypeScript](#typescript)
 * [VS Code](#vs-code)
+* [Web](#web)
 * [Windows](#windows)
 * [Xcode](#xcode)
 
@@ -143,18 +143,6 @@ _380 TILs and counting..._
 - [Install Gradle On MacOS](gradle/install-gradle-on-macos.md)
 - [List Project Dependencies](gradle/list-project-dependencies.md)
 - [Skip Tests During Builds](gradle/skip-tests-during-builds.md)
-
-### HTML
-- [Address Bar And Mobile Viewport Sizing](html/address-bar-and-mobile-viewport-sizing.md)
-- [Communicate Between Browser Contexts](html/communicate-between-browser-contexts.md)
-- [Detect Dark Mode For A Browser](html/detect-dark-mode-for-a-browser.md)
-- [Determine Browser Capabilities](html/determine-browser-capabilities.md)
-- [Edit Text In A Rendered Web Page](html/edit-text-in-a-rendered-web-page.md)
-- [Enable Experimental Browser Features](html/enable-experimental-browser-features.md)
-- [Local Storage and Session Storage](html/local-storage-and-session-storage.md)
-- [Numeric Font Weights](html/numeric-font-weights.md)
-- [Using JSON Data With Local Storage](html/using-json-data-with-local-storage.md)
-- [View Browser Network Requests](html/view-browser-network-requests.md)
 
 ### Integration
 - [Generate REST API Documentation With Redoc](integration/generate-rest-api-documentation-with-redoc.md)
@@ -453,6 +441,18 @@ _380 TILs and counting..._
 - [Debug A Node Application](vs-code/debug-a-node-application.md)
 - [Launch VS Code From The Command Line](vs-code/launch-vscode-from-the-command-line.md)
 - [Use VS Code In A Browser](vs-code/run-vs-code-in-a-browser.md)
+
+### Web
+- [Address Bar And Mobile Viewport Sizing](web/address-bar-and-mobile-viewport-sizing.md)
+- [Communicate Between Browser Contexts](web/communicate-between-browser-contexts.md)
+- [Detect Dark Mode For A Browser](web/detect-dark-mode-for-a-browser.md)
+- [Determine Browser Capabilities](web/determine-browser-capabilities.md)
+- [Edit Text In A Rendered Web Page](web/edit-text-in-a-rendered-web-page.md)
+- [Enable Experimental Browser Features](web/enable-experimental-browser-features.md)
+- [Local Storage and Session Storage](web/local-storage-and-session-storage.md)
+- [Numeric Font Weights](web/numeric-font-weights.md)
+- [Using JSON Data With Local Storage](web/using-json-data-with-local-storage.md)
+- [View Browser Network Requests](web/view-browser-network-requests.md)
 
 ### Windows
 - [Airpods Volume Is Too Loud On Teams](windows/airpods-volume-is-too-loud-on-teams.md)

@@ -1,5 +1,7 @@
 # Edit Text In A Rendered Web Page
 
+__Category: Web__
+
 You can edit text in a rendered web page which by changing the JavaScript DOM setting for `designMode` to "on".
 
 For the web page you want to edit, load Developer Tools and open the JavaScript console.
