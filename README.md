@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_381 TILs and counting..._
+_382 TILs and counting..._
 
 ---
 
@@ -67,8 +67,9 @@ _381 TILs and counting..._
 
 ### Azure
 - [Azure Storage Types](azure/azure-storage-types.md)
-- [What Is Azure Static Web Apps](azure/what-is-azure-static-web-apps.md)
+- [Install Azure CLI On MacOS](azure/install-azure-cli-on-macos.md)
 - [Show App Service Linux Runtimes](azure/show-app-service-linux-runtimes.md)
+- [What Is Azure App Service](azure/what-is-azure-app-service.md)
 - [What Is Azure ExpressRoute](azure/what-is-azure-expressroute.md)
 - [What Is Azure Static Web Apps](azure/what-is-azure-static-web-apps.md)
 
@@ -151,7 +152,7 @@ _381 TILs and counting..._
 - [Add JAXB Dependencies](java/add-jaxb-dependencies.md)
 - [Check If A String Value Is Numeric](java/check-if-a-string-value-is-numeric.md)
 - [Import A Certificate Into The KeyStore](java/import-a-certificate-into-the-keystore.md)
-- [Install Java On macOS](java/install-java-on-macos.md)
+- [Install Java On MacOS](java/install-java-on-macos.md)
 - [Java Licensing Policy](java/java-licensing-policy.md)
 - [List Certificates In The Keystore](java/list-certificates-in-the-keystore.md)
 - [Override Field Names In JSON Payloads](java/override-field-names-in-json-payloads.md)
@@ -424,7 +425,7 @@ _381 TILs and counting..._
 ### Terraform
 - [Deploy Nginx Locally With Terraform](terraform/deploy-nginx-locally-with-terraform.md)
 - [Generate A Diagram Of A Terraform Plan](terraform/generate-a-diagram-of-a-terraform-plan.md)
-- [Install Terraform On macOS](terraform/install-terraform-on-macos.md)
+- [Install Terraform On MacOS](terraform/install-terraform-on-macos.md)
 - [Show Status Of Resources](terraform/show-status-of-resources.md)
 
 ### TypeScript
