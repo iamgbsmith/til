@@ -2,7 +2,7 @@
 
 __Category: Kubernetes__
 
-Install MicroK8s as follows:
+Install MicroK8s on Linux as follows:
 
 ```shell
 sudo snap install microk8s --classic
