@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_385 TILs and counting..._
+_386 TILs and counting..._
 
 ---
 
@@ -81,6 +81,7 @@ _385 TILs and counting..._
 - [The Blockchain Trilemma](blockchain/the-blockchain-trilemma.md)
 - [What Is IPFS](blockchain/what-is-ipfs.md)
 - [What Is Ganache](blockchain/what-is-ganache.md)
+- [What Is The UTXO Model](blockchain/what-is-the-utxo-model.md)
 - [What Is Web3js](blockchain/what-is-web3js.md)
 
 ### DevOps
