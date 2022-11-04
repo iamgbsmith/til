@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_387 TILs and counting..._
+_388 TILs and counting..._
 
 ---
 
@@ -211,6 +211,7 @@ _387 TILs and counting..._
 - [Show Disk Input Output](linux/show-disk-input-output.md)
 - [Show Free Disk Space](linux/show-free-disk-space.md)
 - [Show Timestamps In Bash History](linux/show-timestamps-in-bash-history.md)
+- [Terminate A User Session](linux/terminate-a-user-session.md)
 - [What Is Snap](linux/what-is-snap.md)
 
 ### Mac
