@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_390 TILs and counting..._
+_391 TILs and counting..._
 
 ---
 
@@ -316,6 +316,7 @@ _390 TILs and counting..._
 - [Hash Join Versus Merge Join](postgres/hash-join-versus-merge-join.md)
 - [List Database Users](postgres/list-database-users.md)
 - [List Databases And Tables Using PSQL](postgres/list-databases-and-tables-using-psql.md)
+- [List Postgres Schemas](postgres/list-postgres-schemas.md)
 - [Log Long Running Queries](postgres/log-long-running-queries.md)
 - [Partial Indexes](postgres/partial-indexes.md)
 - [Query Across Different Databases](postgres/query-across-different-databases.md)
