@@ -6,9 +6,9 @@ TypeScript from Microsoft is a typed superset of JavaScript that compiles to pla
 
 * Type safety - static types can be added to JavaScript which allows for errors to be caught earlier in the development process when code is being written. This lowers potential bug count and application support costs.
 
-* Maintainability and extensibility - types facilitate products which are easier to maintain and extend when compared to using plain JavaScript. Applications are also easier to debug and trace through.
+* Maintainability and extensibility - types makes software easier to maintain and extend when compared to plain JavaScript. Applications are easier to debug and trace through.
 
-* Developer onboarding - types make code easier to read and help developers to more quickly understand the implementation without needing to continually rely on other team members to learn a new codebase.
+* Developer onboarding - types make code easier to read and help developers to quickly understand the implementation without needing to continually rely on other team members to learn a new codebase.
 
 * Portability - through transpiling with `tsc`, TypeScript allows for applications written using ES6, ES7, ES8 and future versions to work on every device, platform or browser that runs JavaScript.
 
