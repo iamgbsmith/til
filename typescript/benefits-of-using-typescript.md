@@ -16,7 +16,7 @@ TypeScript from Microsoft is a typed superset of JavaScript that compiles to pla
 
 * Deters cut-and-paste re-use - poorly written JavaScript will be harder to copy into a project written in TypeScript. No more blind cut-and-paste of dubious code from answers on Stack Overflow.
 
-* Scaling front-end development - large and complex applications can be split up between teams by using functional partioning. When team members need to move between functional areas it is easier for them to work on new areas of the codebase by relying on type inference and interfaces.
+* Scaling front-end development - large and complex applications can be split up between teams by using functional partitioning. When team members need to move between functional areas it is easier for them to work on new areas of the codebase by relying on type inference and interfaces.
 
 * Developer productivity - VSCode can provide code hints and code completion using IntelliSense. Other IDEs such as Atom, WebStorm and Sublime Text also provide enhanced developer productivity for TypeScript projects.
 
