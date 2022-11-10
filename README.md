@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_392 TILs and counting..._
+_393 TILs and counting..._
 
 ---
 
@@ -154,6 +154,7 @@ _392 TILs and counting..._
 
 ### Java
 - [Add JAXB Dependencies](java/add-jaxb-dependencies.md)
+- [Alternatives To The Oracle JDK](java/alternatives-to-the-oracle-jdk.md)
 - [Check If A String Value Is Numeric](java/check-if-a-string-value-is-numeric.md)
 - [Import A Certificate Into The KeyStore](java/import-a-certificate-into-the-keystore.md)
 - [Install Java On MacOS](java/install-java-on-macos.md)
