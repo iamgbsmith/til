@@ -18,7 +18,7 @@ Amazon Corretto is certified to meet the Java SE standard and can be used as a d
 [Azul Zulu](https://www.azul.com/products/zulu-community) is a branded build of OpenJDK without restrictions. Azul offer commercial support and with Zulu Community you get access to selected new OpenJDK features up to 6 months faster than other builds. Azul also maintains an archive of Zulu Community builds of OpenJDK that goes back to 2014.
 
 ### Microsoft builds of OpenJDK
-[Microsoft Build of OpenJDK](https://learn.microsoft.com/en-gb/java/openjdk/) provide a no-cost distribution of OpenJDK that is open source and available for free as a drop-in replacement for any other OpenJDK distribution available in the Java ecosystem. It includes Long-Term Support (LTS) binaries for Java 11 and Java 17 on x64 server and desktop environments on macOS, Linux, and Windows, AArch64/ARM64 on Linux and Windows. 
+The [Microsoft Build of OpenJDK](https://learn.microsoft.com/en-gb/java/openjdk/) provides a no-cost distribution of OpenJDK that is open source and available for free as a drop-in replacement for any other OpenJDK distribution. It includes Long-Term Support (LTS) binaries for Java 11 and Java 17 on x64 server and desktop environments on macOS, Linux, and Windows, AArch64/ARM64 on Linux and Windows. 
 
 Container images for the Microsoft Build of OpenJDK are available at https://learn.microsoft.com/en-gb/java/openjdk/containers
 
