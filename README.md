@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_394 TILs and counting..._
+_395 TILs and counting..._
 
 ---
 
@@ -424,6 +424,7 @@ _394 TILs and counting..._
 - [OAuth Permission Scopes](spring/oauth-permission-scopes.md)
 - [OAuth Token Endpoints](spring/oauth-token-endpoints.md)
 - [Spring Boot Application Profiles](spring/spring-boot-application-profiles.md)
+- [Upgrade From Web Security Configurer Adaptor](spring/upgrade-from-web-security-configurer-adaptor.md)
 - [Validating An OAuth Token](spring/validating-an-oauth-token.md)
 
 ### Swift
