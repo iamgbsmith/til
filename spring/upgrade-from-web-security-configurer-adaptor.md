@@ -12,7 +12,7 @@ Create a class called `SecurityConfiguration` as follows:
 // Imports deleted for brevity
 
 @Configuration
-@EnableWebSecurityy(prePostEnabled = true, securedEnabled = true)
+@EnableWebSecurity(prePostEnabled = true, securedEnabled = true)
 public class SecurityConfiguration {
 
     /**
@@ -33,7 +33,7 @@ public class SecurityConfiguration {
     @Bean
     public WebSecurityCustomizer webSecurityCustomizer() {
         return (web) -> web.ignoring().antMatchers(
-                "/error",
+                "/error", 
                 "/css/*",
                 "/img/*");
     }
