@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_395 TILs and counting..._
+_396 TILs and counting..._
 
 ---
 
@@ -132,6 +132,7 @@ _395 TILs and counting..._
 - [Change Default Init Branch Name](git/change-default-init-branch-name.md)
 - [Command Line Git Tutorial](git/command-line-git-tutorial.md)
 - [Configure Git Settings](git/configure-git-settings.md)
+- [Create Release Notes Using Git](git/create-release-notes-using-git.md)
 - [Delete The Last Commit](git/delete-the-last-commit.md)
 - [Naming Branches](git/naming-branches.md)
 - [Improve Productivity Using Aliases](git/improve-productivity-using-aliases.md)
