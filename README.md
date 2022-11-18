@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_397 TILs and counting..._
+_398 TILs and counting..._
 
 ---
 
@@ -335,6 +335,7 @@ _397 TILs and counting..._
 - [Terminate A Hanging Query](postgres/terminate-a-hanging-query.md)
 - [Use Expanded Display In PSQL](postgres/use-expanded-display-in-psql.md)
 - [UUIDs As Primary Keys](postgres/uuids-as-primary-keys.md)
+- [Visualise A Postgres Database](postgres/visualise-a-postgres-database.md)
 - [What Is Row Level Security](postgres/what-is-row-level-security.md)
 
 ### Python
