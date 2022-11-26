@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_401 TILs and counting..._
+_402 TILs and counting..._
 
 ---
 
@@ -285,6 +285,7 @@ _401 TILs and counting..._
 - [Create Custom Middleware For Express](nodejs/create-custom-middleware-for-express.md)
 - [Create A Simple HTTP Server](nodejs/create-a-simple-http-server.md)
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
+- [Install Packages Globally With Yarn](nodejs/install-packages-globally-with-yarn.md)
 - [Install Yarn](nodejs/install-yarn.md)
 - [Log HTTP Requests In Express Using Pino](nodejs/log-http-requests-in-express-using-pino.md)
 - [Optimise For Performance](nodejs/optimise-for-performance.md)
