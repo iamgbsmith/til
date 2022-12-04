@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_404 TILs and counting..._
+_405 TILs and counting..._
 
 ---
 
@@ -420,6 +420,7 @@ _404 TILs and counting..._
 - [Understanding CVSS Scores](security/understanding-cvss-scores.md)
 - [Verify A Checksum](security/verify-a-checksum.md)
 - [What is FIDO2](security/what-is-fido2.md)
+- [What is OpenID Connect](security/what-is-openid-connect.md)
 - [What is PKCE](security/what-is-pkce.md)
 
 ### Spring
