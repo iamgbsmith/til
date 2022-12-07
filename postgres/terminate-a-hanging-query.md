@@ -12,13 +12,13 @@ SELECT now() - pg_stat_activity.query_start AS duration, * FROM pg_stat_activity
 
 If the value for the duration is more than a few minutes, it is likely the query will be causing database performance problems. 
 
-Using the PID from the above query results, terminate the query using the follwoing command which leaves the connection open upon completion:
+Using the PID from the above query results, terminate the query using the following command which leaves the connection open upon completion:
 
 ```sql
 SELECT pg_cancel_backend(PID);
 ```
 
-This may take time to run, and in some situations, may not work. A more forceful, but riskier way to kill the query is to execute the following:
+This operation can take time to run, and in some situations, may not work. A more forceful, but riskier way to kill the query is to execute the following:
 
 ```sql
 SELECT pg_terminate_backend(PID);
