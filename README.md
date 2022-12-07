@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_405 TILs and counting..._
+_406 TILs and counting..._
 
 ---
 
@@ -317,6 +317,7 @@ _405 TILs and counting..._
 - [Backup A Database](postgres/backup-a-database.md)
 - [Connect To pgAdmin Over SSH](postgres/connect-to-pgadmin-over-ssh.md)
 - [Create A User Or Role](postgres/create-a-user-or-role.md)
+- [Create An Index Without Blocking](postgres/create-an-index-without-blocking.md)
 - [Determine Index Hit Rate](postgres/determine-index-hit-rate.md)
 - [Determine Table And Index Sizes](postgres/determine-table-and-index-sizes.md)
 - [Enable Row Level Security](postgres/enable-row-level-security.md)
