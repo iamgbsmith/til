@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_407 TILs and counting..._
+_408 TILs and counting..._
 
 ---
 
@@ -516,6 +516,7 @@ _407 TILs and counting..._
 - [Install Xcode Manually](xcode/install-xcode-manually.md)
 - [Record iOS Simulator](xcode/record-ios-simulator.md)
 - [Setup MITMProxy For A Simulator Device](xcode/setup-mitmproxy-for-a-simulator-device.md)
+- [Show The Simulator When Developing](xcode/show-the-simulator-when-developing.md)
 - [Show Web Inspector For A Simulator Device](xcode/show-web-inspector-for-a-simulator-device.md)
 
 ## About
