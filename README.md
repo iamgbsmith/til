@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_409 TILs and counting..._
+_410 TILs and counting..._
 
 ---
 
@@ -471,6 +471,7 @@ _409 TILs and counting..._
 
 ### Web
 - [Address Bar And Mobile Viewport Sizing](web/address-bar-and-mobile-viewport-sizing.md)
+- [Commonly Used HTTP Status Codes](web/commonly-used-http-status-codes.md)
 - [Communicate Between Browser Contexts](web/communicate-between-browser-contexts.md)
 - [Detect Dark Mode For A Browser](web/detect-dark-mode-for-a-browser.md)
 - [Determine Browser Capabilities](web/determine-browser-capabilities.md)
