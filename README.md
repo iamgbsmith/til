@@ -338,6 +338,7 @@ _411 TILs and counting..._
 - [Show Config File Location](postgres/show-config-file-location.md)
 - [Show Data Directory](postgres/show-data-directory.md)
 - [Show Installed Extensions](postgres/show-installed-extensions.md)
+- [Show The Connected Application](postgres/show-the-connected-application.md)
 - [Store Passwords Securely](postgres/store-passwords-securely.md)
 - [Terminate A Hanging Query](postgres/terminate-a-hanging-query.md)
 - [Terminate All Queries For A User](postgres/terminate-all-queries-for-a-user.md)
