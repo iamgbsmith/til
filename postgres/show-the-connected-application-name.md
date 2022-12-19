@@ -1,4 +1,4 @@
-# Show The Connected Application
+# Show The Connected Application Name
 
 __Category: Postgres__
 
