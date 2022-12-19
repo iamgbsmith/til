@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_412 TILs and counting..._
+_413 TILs and counting..._
 
 ---
 
@@ -334,6 +334,7 @@ _412 TILs and counting..._
 - [Query Across Different Databases](postgres/query-across-different-databases.md)
 - [Restore A Database](postgres/restore-a-database.md)
 - [Row Level Security Considerations](postgres/row-level-security-considerations.md)
+- [Set The Connected Application Name](postgres/set-the-connected-application-name.md)
 - [Set The Current User](postgres/set-the-current-user.md)
 - [Show Config File Location](postgres/show-config-file-location.md)
 - [Show Data Directory](postgres/show-data-directory.md)
