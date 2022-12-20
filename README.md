@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_413 TILs and counting..._
+_414 TILs and counting..._
 
 ---
 
@@ -324,7 +324,6 @@ _413 TILs and counting..._
 - [Determine Table And Index Sizes](postgres/determine-table-and-index-sizes.md)
 - [Enable Row Level Security](postgres/enable-row-level-security.md)
 - [Export From A Table Or Query To CSV](postgres/export-from-a-table-or-query-to-csv.md)
-- [Get The Current User](postgres/get-the-current-user.md)
 - [Hash Join Versus Merge Join](postgres/hash-join-versus-merge-join.md)
 - [List Database Users](postgres/list-database-users.md)
 - [List Databases And Tables Using PSQL](postgres/list-databases-and-tables-using-psql.md)
@@ -333,6 +332,7 @@ _413 TILs and counting..._
 - [Partial Indexes](postgres/partial-indexes.md)
 - [Query Across Different Databases](postgres/query-across-different-databases.md)
 - [Restore A Database](postgres/restore-a-database.md)
+- [Revoke Privileges From A User Or Role](postgres/revoke-privileges-from-a-user-or-role.md)
 - [Row Level Security Considerations](postgres/row-level-security-considerations.md)
 - [Set The Connected Application Name](postgres/set-the-connected-application-name.md)
 - [Set The Current User](postgres/set-the-current-user.md)
