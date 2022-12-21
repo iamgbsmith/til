@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_414 TILs and counting..._
+_415 TILs and counting..._
 
 ---
 
@@ -324,6 +324,7 @@ _414 TILs and counting..._
 - [Determine Table And Index Sizes](postgres/determine-table-and-index-sizes.md)
 - [Enable Row Level Security](postgres/enable-row-level-security.md)
 - [Export From A Table Or Query To CSV](postgres/export-from-a-table-or-query-to-csv.md)
+- [Grant Privileges To A User Or Role](postgres/grant-privileges-to-a-user-or-role.md)
 - [Hash Join Versus Merge Join](postgres/hash-join-versus-merge-join.md)
 - [List Database Users](postgres/list-database-users.md)
 - [List Databases And Tables Using PSQL](postgres/list-databases-and-tables-using-psql.md)
