@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_416 TILs and counting..._
+_417 TILs and counting..._
 
 ---
 
@@ -67,6 +67,7 @@ _416 TILs and counting..._
 
 ### Azure
 - [Azure App Service Plans](azure/azure-app-service-plans.md)
+- [Azure Integration Services](azure/azure-integration-services.md)
 - [Azure Storage Types](azure/azure-storage-types.md)
 - [Install Azure CLI On MacOS](azure/install-azure-cli-on-macos.md)
 - [Show App Service Linux Runtimes](azure/show-app-service-linux-runtimes.md)
