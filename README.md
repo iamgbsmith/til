@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_415 TILs and counting..._
+_416 TILs and counting..._
 
 ---
 
@@ -181,6 +181,7 @@ _415 TILs and counting..._
 - [Handle Key Press Events](javascript/handle-key-press-events.md)
 - [Immutability With Immer](javascript/immutability-with-immer.md)
 - [Iterate An Array](javascript/iterate-an-array.md)
+- [Measure JavaScript Execution Time](javascript/measure-javascript-execution-time.md)
 
 ### Kubernetes
 - [Container States In Kubernetes](kubernetes/container-states-in-kubernetes.md)
