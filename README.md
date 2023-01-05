@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_417 TILs and counting..._
+_418 TILs and counting..._
 
 ---
 
@@ -169,6 +169,7 @@ _417 TILs and counting..._
 - [Override Field Names In JSON Payloads](java/override-field-names-in-json-payloads.md)
 - [Reduce Boilerplate Code With Lombok](java/reduce-boilerplate-code-with-lombok.md)
 - [Run Unit Tests Faster](java/run-unit-tests-faster.md)
+- [What Are Virtual Threads](java/what-are-virtual-threads.md)
 - [What Is GraalVM](java/what-is-graalvm.md)
 
 ### JavaScript
