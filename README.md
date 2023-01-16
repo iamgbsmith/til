@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_419 TILs and counting..._
+_420 TILs and counting..._
 
 ---
 
@@ -421,6 +421,7 @@ _419 TILs and counting..._
 - [Enable Private Relay VPN On iOS](security/enable-private-relay-vpn-on-ios.md)
 - [Encrypt A File](security/encrypt-a-file.md)
 - [Generate An SSH Key](security/generate-an-ssh-key.md)
+- [Get OpenID Connect Provider Configuration](security/get-openid-connect-provider-configuration.md)
 - [List GPG Keys](security/list-gpg-keys.md)
 - [List SSH Keys](security/list-ssh-keys.md)
 - [OAuth 2.1 Grant Types](security/oauth-2.1-grant-types.md)
@@ -536,6 +537,6 @@ This collection was inspired by Josh Branchaud [jbranchaud/til](https://github.c
 
 ## License
 
-&copy; 2020 - 2022 Greg Smith
+&copy; 2020 - 2023 Greg Smith
 
 This repository is licensed under the MIT license. See `LICENSE` for details.
