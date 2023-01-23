@@ -4,9 +4,9 @@ __Category: Mac__
 
 You can clear your Safari cache for a specific website. 
 
-From the menu, select Preferences.
+From the menu, select Safari -> Settings.
 
-Select the Privacy tab then press "Manage Website Data".
+In the dialog, select the Privacy tab then press "Manage Website Data".
 
 Select the website from the list or filter using the name of it.
 
