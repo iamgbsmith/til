@@ -69,4 +69,6 @@ For example, Google configuration at https://accounts.google.com/.well-known/ope
 }
 ```
 
+OpenID configuration metadata from the common authority's OpenID configuration document endpoint on Azure can be accessed at https://login.microsoftonline.com/common/v2.0/.well-known/openid-configuration
+
 See [Openid-configuration](https://ldapwiki.com/wiki/Openid-configuration#:~:text=Openid%2Dconfiguration%20is%20a%20Well,the%20Identity%20Provider%20(IDP).) for more details.
