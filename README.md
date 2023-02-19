@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_422 TILs and counting..._
+_423 TILs and counting..._
 
 ---
 
@@ -152,8 +152,9 @@ _422 TILs and counting..._
 - [Skip Tests During Builds](gradle/skip-tests-during-builds.md)
 
 ### Integration
+- [Generate Client Libraries From An OpenAPI Spec](integration/generate-typescript-types-from-an-openapi-spec.md)
 - [Generate REST API Documentation With Redoc](integration/generate-rest-api-documentation-with-redoc.md)
-- [Generate TypeScript Types From An OpenAPI Spec](integration/generate-typescript-types-from-an-openapi-spec.md)
+- [Generate TypeScript Types From An OpenAPI Spec](integration/generate-client-libraries-from-an-openapi-spec.md)
 
 ### Java
 - [Add JAXB Dependencies](java/add-jaxb-dependencies.md)
