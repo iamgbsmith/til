@@ -1,4 +1,4 @@
-# Deploying To Netlify
+# Deploy A Gatsby Site To Netlify
 
 __Category: Gatsby__
 
