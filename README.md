@@ -120,7 +120,7 @@ _424 TILs and counting..._
 ### Gatsby
 - [Change Favicon](gatsby/change-favicon.md)
 - [Create A Gatsby Site](gatsby/create-a-gatsby-site.md)
-- [Deploying To Netlify](gatsby/deploying-to-netlify.md)
+- [Deploy A Gatsby Site To Netlify](gatsby/deploy-a-gatsby-site-to-netlify.md)
 - [Make Content Crawlable](gatsby/make-content-crawlable.md)
 - [Search Engine Optimisation](gatsby/search-engine-optimisation.md)
 - [Set Nodejs Version On Netlify](gatsby/set-nodejs-version-on-netlify.md)
