@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_423 TILs and counting..._
+_424 TILs and counting..._
 
 ---
 
@@ -142,6 +142,7 @@ _423 TILs and counting..._
 - [Unstage Files](git/unstage-files.md)
 - [Working With Branches](git/working-with-branches.md)
 - [Undoing Changes](git/undoing-changes.md)
+- [Update GitHub RSA SSH Host Key](git/update-github-rsa-ssh-host-key.md)
 
 ### Gradle
 - [Clear Gradle Cache](gradle/clear-gradle-cache.md)
