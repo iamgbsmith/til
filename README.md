@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_426 TILs and counting..._
+_427 TILs and counting..._
 
 ---
 
@@ -442,6 +442,7 @@ _426 TILs and counting..._
 - [What is PKCE](security/what-is-pkce.md)
 
 ### Spring
+- [Add Custom Claims To A JWT](spring/add-custom-claims-to-a-jwt.md)
 - [Create A Spring Project From The Command Line](spring/create-a-spring-project-from-the-command-line.md)
 - [Custom HTTP Response Headers](spring/custom-http-response-headers.md)
 - [Custom Servlet Filter](spring/custom-servlet-filter.md)
