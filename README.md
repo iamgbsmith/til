@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_425 TILs and counting..._
+_426 TILs and counting..._
 
 ---
 
@@ -361,6 +361,7 @@ _425 TILs and counting..._
 - [Acccess A Flask Application Across A Network](python/access-a-flask-application-across-a-network.md)
 - [Create A REST API Using Flask Restful](python/create-a-rest-api-using-flask-restful.md)
 - [Create A Virtual Environment](python/create-a-virtual-environment.md)
+- [Install Python Packages With A Requirements File](python/install-python-packages-with-a-requirements-file.md)
 - [Installing And Upgrading Packages](python/installing-and-upgrading-packages.md)
 
 ### React
