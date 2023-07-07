@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_427 TILs and counting..._
+_428 TILs and counting..._
 
 ---
 
@@ -405,6 +405,7 @@ _427 TILs and counting..._
 - [Render An SVG](react-native/render-an-svg.md)
 - [Request Device Permissions](react-native/request-device-permissions.md)
 - [Run Bundler And Simulator In VSCode](react-native/run-bundler-and-simulator-in-vscode.md)
+- [Toggle Simulator Between Light And Dark Mode](react-native/toggle-simulator-between-light-and-dark-mode.md)
 - [Unable To Boot Device In Current State](react-native/unable-to-boot-device-in-current-state.md)
 - [What Is Hermes](react-native/what-is-hermes.md)
 
