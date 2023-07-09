@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_428 TILs and counting..._
+_429 TILs and counting..._
 
 ---
 
@@ -363,6 +363,7 @@ _428 TILs and counting..._
 - [Create A Virtual Environment](python/create-a-virtual-environment.md)
 - [Install Python Packages With A Requirements File](python/install-python-packages-with-a-requirements-file.md)
 - [Installing And Upgrading Packages](python/installing-and-upgrading-packages.md)
+- [Python Imports Cannot Be Resolved In VSCode](/python/python-imports-cannot-be-resolved-in-vscode.md)
 
 ### React
 - [Add Custom Fonts To Styled Components](react/add-custom-fonts-to-styled-components.md)
