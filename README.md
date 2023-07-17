@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_429 TILs and counting..._
+_430 TILs and counting..._
 
 ---
 
@@ -422,6 +422,7 @@ _429 TILs and counting..._
 ### Security
 - [Add An SSH Key](security/add-an-ssh-key.md)
 - [Check SSL Certificate Expiry Date](security/check-ssl-certificate-expiry-date.md)
+- [Convert A PCKS12 File To PEM Format](security/convert-a-pkcs12-file-to-pem-format.md)
 - [Detect Open Ports Using Nmap](security/detect-open-ports-using-nmap.md)
 - [Display LDAP SSL Certificate Details](security/display-ldap-ssl-certificate-details.md)
 - [Display SSL Certificate Details](security/display-ssl-certificate-details.md)
