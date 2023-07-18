@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_430 TILs and counting..._
+_431 TILs and counting..._
 
 ---
 
@@ -532,6 +532,7 @@ _430 TILs and counting..._
 - [Ad Hoc iOS App Distribution](xcode/ad-hoc-ios-app-distribution.md)
 - [Add A Simulator Device](xcode/add-a-simulator-device.md)
 - [Change Region For A Simulator Device](xcode/change-region-for-a-simulator-device.md)
+- [Connect A Menu Item To Code](xcode/connect-a-menu-item-to-code.md)
 - [Create A Custom URL Scheme](xcode/create-a-custom-url-scheme.md)
 - [Change Refresh Key Mapping In iOS Simulator](xcode/change-refresh-key-mapping-in-ios-simulator.md)
 - [Hide An Application Dock Icon And Main Window](xcode/hide-an-application-dock-icon-and-main-window.md)
