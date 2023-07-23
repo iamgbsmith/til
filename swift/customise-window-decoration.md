@@ -1,5 +1,7 @@
 # Customise Window Decoration
 
+__Category: Swift__
+
 Instances of `NSWindow` can be customised in a number of ways. For example you can remove the title text or make the title bar transparent.
 
 ### Hide the window title (text)
