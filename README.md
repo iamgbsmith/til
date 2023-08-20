@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_439 TILs and counting..._
+_440 TILs and counting..._
 
 ---
 
@@ -254,6 +254,7 @@ _439 TILs and counting..._
 - [Mount An SD Card](mac/mount-an-sd-card.md)
 - [Password Protect A PDF](mac/password-protect-a-pdf.md)
 - [Play Safari Videos Using Picture In Picture](mac/play-safari-videos-using-picture-in-picture.md)
+- [Prevent Applications From Starting Automatically](mac/prevent-applications-from-automatically-starting.md)
 - [Print From The Command Line](mac/print-from-the-command-line.md)
 - [Remove The Background From An Image](mac/remove-the-background-from-an-image.md)
 - [Reorder Menubar Items](mac/reorder-menubar-items.md)
