@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_446 TILs and counting..._
+_447 TILs and counting..._
 
 ---
 
@@ -71,6 +71,7 @@ _446 TILs and counting..._
 - [Azure Storage Types](azure/azure-storage-types.md)
 - [Install Azure CLI On MacOS](azure/install-azure-cli-on-macos.md)
 - [Show App Service Linux Runtimes](azure/show-app-service-linux-runtimes.md)
+- [Switch To A Specific Azure Subscription](azure/switch-to-a-specific-azure-subscription.md)
 - [What Is Azure App Service](azure/what-is-azure-app-service.md)
 - [What Is Azure ExpressRoute](azure/what-is-azure-expressroute.md)
 - [What Is Azure Static Web Apps](azure/what-is-azure-static-web-apps.md)
