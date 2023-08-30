@@ -8,11 +8,24 @@ Import statements in React projects typically use relative paths which becomes c
 
 This needs to be done in two places.
 
+### Add node types to your project
+
+Add the `@types/node` package to your project. 
+
+```shell
+yarn add @types/node
+```
+
+You will import `path` from this package in vite.config.js.
+
 ### Update vite.config
 
 Edit `vite.config.ts` to add aliases. The following sets up aliases for assets, components, features and pages. Add new aliases as necessary.
 
 ```javascript
+// Add path import
+import * as path from 'path'
+
 export default defineConfig({
 plugins: [react()],
   resolve: {
