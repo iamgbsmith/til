@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_448 TILs and counting..._
+_449 TILs and counting..._
 
 ---
 
@@ -534,6 +534,7 @@ _448 TILs and counting..._
 - [List Running Processes Using PowerShell](windows/list-running-processes-using-powershell.md)
 - [Move A Window Or Dialog Using The Cursor](windows/move-a-window-or-dialog-using-the-cursor.md)
 - [Open An Elevated Command Prompt](windows/open-an-elevated-command-prompt.md)
+- [Resize An Image Using The Photos Application](windows/resize-an-image-using-the-photos-application.md)
 - [Send An HTTP Request Using PowerShell](windows/send-an-http-request-using-powershell.md)
 - [Shorten Display Time For On Screen Volume Control](windows/shorten-on-screen-display-time-for-volume-control.md)
 - [Show Command History In PowerShell](windows/show-command-history-in-powershell.md)
