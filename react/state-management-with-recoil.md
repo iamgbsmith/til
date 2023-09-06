@@ -67,7 +67,7 @@ function BinaryConverter() {
 }
 
 function NumericInput() {
-  const [number, setNumber] = useRecoilState(numberState);
+  const [number, setNumber] = useRecoilState(numberAtom);
 
   const onChange = (event) => {
     // Check that an integer value has been typed
