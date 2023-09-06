@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_450 TILs and counting..._
+_451 TILs and counting..._
 
 ---
 
@@ -270,6 +270,7 @@ _450 TILs and counting..._
 - [Show Hidden Files In Finder](mac/show-hidden-files-in-finder.md)
 - [Show Metadata Attributes For A File](mac/show-metadata-attributes-for-a-file.md)
 - [Show Recent Finder Locations](mac/show-recent-finder-locations.md)
+- [Show Specific Columns In Top](mac/show-specific-columns-in-top.md)
 - [Take A Screen Recording](mac/take-a-screen-recording.md)
 - [Take A Screenshot](mac/take-a-screenshot.md)
 - [Update Brew Packages](mac/update-brew-packages.md)
