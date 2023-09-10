@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_453 TILs and counting..._
+_454 TILs and counting..._
 
 ---
 
@@ -446,6 +446,7 @@ _453 TILs and counting..._
 - [Encrypt A File](security/encrypt-a-file.md)
 - [Generate An SSH Key](security/generate-an-ssh-key.md)
 - [Get OpenID Connect Provider Configuration](security/get-openid-connect-provider-configuration.md)
+- [Ignore Invalid SSL Certificates With Curl](security/ignore-invalid-ssl-certificates-with-curl.md)
 - [List GPG Keys](security/list-gpg-keys.md)
 - [List SSH Keys](security/list-ssh-keys.md)
 - [OAuth 2.1 Grant Types](security/oauth-2.1-grant-types.md)
