@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_457 TILs and counting..._
+_458 TILs and counting..._
 
 ---
 
@@ -316,6 +316,7 @@ _457 TILs and counting..._
 - [Setup A Nodejs Project With TypeScript](nodejs/setup-a-nodejs-project-with-typescript.md)
 - [Specifying A Node Version](nodejs/specifying-a-node-version.md)
 - [Start Node On A Different Port](nodejs/start-node-on-a-different-port.md)
+- [Update Package Dependencies With PNPM](nodejs/update-package-dependencies-with-pnpm.md)
 - [Update Package Dependencies With Yarn](nodejs/update-package-dependencies-with-yarn.md)
 - [Update Global Packages With Yarn](nodejs/update-global-packages-with-yarn.md)
 - [Using Node Version Manager](nodejs/using-node-version-manager.md)
