@@ -316,7 +316,7 @@ _457 TILs and counting..._
 - [Setup A Nodejs Project With TypeScript](nodejs/setup-a-nodejs-project-with-typescript.md)
 - [Specifying A Node Version](nodejs/specifying-a-node-version.md)
 - [Start Node On A Different Port](nodejs/start-node-on-a-different-port.md)
-- [Upgrading Package Dependencies](nodejs/upgrading-package-dependencies.md)
+- [Update Package Dependencies With Yarn](nodejs/update-package-dependencies-with-yarn.md)
 - [Update Global Packages With Yarn](nodejs/update-global-packages-with-yarn.md)
 - [Using Node Version Manager](nodejs/using-node-version-manager.md)
 
