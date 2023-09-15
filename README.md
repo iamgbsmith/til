@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_459 TILs and counting..._
+_460 TILs and counting..._
 
 ---
 
@@ -253,6 +253,7 @@ _459 TILs and counting..._
 - [Get Computer Name](mac/get-computer-name.md)
 - [Get CPU Core Count Details](mac/get-cpu-core-count-details.md)
 - [Get CPU Temperature And Thermal Information](mac/get-cpu-temperature-and-thermal-information.md)
+- [Get Process ID By Name](mac/get-process-id-by-name.md)
 - [Install Command Line Tools](mac/install-command-line-tools.md)
 - [Jump To A Location In Finder](mac/jump-to-a-location-in-finder.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
