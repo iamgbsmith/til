@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_458 TILs and counting..._
+_459 TILs and counting..._
 
 ---
 
@@ -248,6 +248,7 @@ _458 TILs and counting..._
 - [Excessive Xcode Disk Usage](mac/excessive-xcode-disk-usage.md)
 - [Extract Pages From A PDF](mac/extract-pages-from-a-pdf.md)
 - [Find Which Process Is Using A Port](mac/find-which-process-is-using-a-port.md)
+- [Follow Symbolic Links](mac/follow-symbolic-links.md)
 - [Format A USB Disk From The Command Line](mac/format-a-usb-disk-from-the-command-line.md)
 - [Get Computer Name](mac/get-computer-name.md)
 - [Get CPU Core Count Details](mac/get-cpu-core-count-details.md)
