@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_460 TILs and counting..._
+_461 TILs and counting..._
 
 ---
 
@@ -381,6 +381,7 @@ _460 TILs and counting..._
 
 ### React
 - [Add Custom Fonts To Styled Components](react/add-custom-fonts-to-styled-components.md)
+- [Add Vitest To A React Project](react/add-vitest-to-a-react-project.md)
 - [Add Polyfill Modules For Webpack](react/add-polyfill-modules-for-webpack.md)
 - [Build For Production](react/build-for-production.md)
 - [Change Page Title](react/change-page-title.md)
