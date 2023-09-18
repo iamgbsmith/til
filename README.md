@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_462 TILs and counting..._
+_463 TILs and counting..._
 
 ---
 
@@ -74,6 +74,7 @@ _462 TILs and counting..._
 - [Create an Azure APIM Subscription](azure/create-an-azure-apim-subscription.md)
 - [Get Azure Tenant ID](azure/get-azure-tenant-id.md)
 - [Install Azure CLI On MacOS](azure/install-azure-cli-on-macos.md)
+- [Return JSON In An Azure Function](azure/return-json-in-an-azure-function.md)
 - [Show App Service Linux Runtimes](azure/show-app-service-linux-runtimes.md)
 - [Switch To A Specific Azure Subscription](azure/switch-to-a-specific-azure-subscription.md)
 - [What Is Azure App Service](azure/what-is-azure-app-service.md)
