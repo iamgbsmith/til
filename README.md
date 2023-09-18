@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_461 TILs and counting..._
+_462 TILs and counting..._
 
 ---
 
@@ -235,6 +235,7 @@ _461 TILs and counting..._
 
 ### Mac
 - [Automate Applications Using AppleScript](mac/automate-applications-using-applescript.md)
+- [Benchmark Disk Write Performance](mac/benchmark-disk-write-performance.md)
 - [Bind To Active Directory](mac/bind-to-active-directory.md)
 - [Bulk Convert Image Format And Size](mac/bulk-convert-image-format-and-size.md)
 - [Bulk Rename Files](mac/bulk-rename-files.md)
