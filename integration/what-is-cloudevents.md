@@ -2,7 +2,7 @@
 
 __Category: Integration__
 
-CloudEvents is a specification from Cloud Native Computing Foundation (CNCF) for describing event data in common formats to provide interoperability across services, platforms, and systems. CloudEvents are transport agnostic (for example: HTTP, MQTT, Websockets, SMTP, Kafka, AMQP) and can work with various event sources and consumers.
+CloudEvents is a specification from Cloud Native Computing Foundation (CNCF) for describing event data in common formats to provide interoperability across services, platforms, and systems. CloudEvents are transport agnostic (for example: HTTP, MQTT, WebSockets, SMTP, Kafka, AMQP) and can work with various event sources and consumers.
 
 Core attributes for a CloudEvent are:
 
