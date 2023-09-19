@@ -236,7 +236,7 @@ _463 TILs and counting..._
 
 ### Mac
 - [Automate Applications Using AppleScript](mac/automate-applications-using-applescript.md)
-- [Benchmark Disk Write Performance](mac/benchmark-disk-write-performance.md)
+- [Benchmark Disk Write Performance On MacOS](mac/benchmark-disk-write-performance-on-macos.md)
 - [Bind To Active Directory](mac/bind-to-active-directory.md)
 - [Bulk Convert Image Format And Size](mac/bulk-convert-image-format-and-size.md)
 - [Bulk Rename Files](mac/bulk-rename-files.md)
