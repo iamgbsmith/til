@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_466 TILs and counting..._
+_467 TILs and counting..._
 
 ---
 
@@ -513,6 +513,7 @@ _466 TILs and counting..._
 - [Benefits Of Using TypeScript](typescript/benefits-of-using-typescript.md)
 - [Install TypeScript Compiler Globally](typescript/install-typescript-compiler-globally.md)
 - [Linting In TypeScript](typescript/linting-in-typescript.md)
+- [Restrict Values For A String Type](typescript/restrict-values-for-a-string-type.md)
 
 ### VS Code
 - [Create A Dev Containers Project](vs-code/create-a-dev-containers-project.md)
