@@ -75,7 +75,7 @@ _468 TILs and counting..._
 - [Get Azure Tenant ID](azure/get-azure-tenant-id.md)
 - [Install Azure CLI On MacOS](azure/install-azure-cli-on-macos.md)
 - [Install Azure CLI On Windows](azure/install-azure-cli-on-windows.md)
-- [List Azure Resource Groups](azure/list-azure-resouce-groups.md)
+- [List Resource Groups Using The Azure CLI](azure/list-azure-resouce-groups.md)
 - [Return JSON In An Azure Function](azure/return-json-in-an-azure-function.md)
 - [Show App Service Linux Runtimes](azure/show-app-service-linux-runtimes.md)
 - [Switch To A Specific Azure Subscription](azure/switch-to-a-specific-azure-subscription.md)

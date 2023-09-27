@@ -1,8 +1,8 @@
-# List Azure Resource Groups
+# List Resource Groups Using The Azure CLI
 
 __Category: Azure__
 
-You can list Resource Groups in an Azure subscription showing full details with the following command:
+You can list Resource Groups in an subscription showing full details with the following Azure CLI command:
 
 ```shell
 az group list
