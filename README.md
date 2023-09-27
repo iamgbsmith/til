@@ -71,6 +71,7 @@ _468 TILs and counting..._
 - [Azure Integration Services](azure/azure-integration-services.md)
 - [Azure Storage Types](azure/azure-storage-types.md)
 - [Change The Route Prefix For An Azure Function](azure/change-the-route-prefix-for-an-azure-function.md)
+- [Create A Resource Group Using The Azure CLI](azure/create-a-resource-group-using-the-azure-cli.md)
 - [Create an Azure APIM Subscription](azure/create-an-azure-apim-subscription.md)
 - [Get Azure Tenant ID](azure/get-azure-tenant-id.md)
 - [Install Azure CLI On MacOS](azure/install-azure-cli-on-macos.md)
