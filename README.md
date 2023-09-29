@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_469 TILs and counting..._
+_470 TILs and counting..._
 
 ---
 
@@ -492,6 +492,7 @@ _469 TILs and counting..._
 ### Swift
 - [Create A Callback Function](swift/create-a-callback-function.md)
 - [Customise Window Decoration](swift/customise-window-decoration.md)
+- [Find Matching Item In An Array](swift/find-matching-item-in-an-array.md)
 - [Format A Date String](swift/format-a-date-string.md)
 - [Hide MacOS Storyboard Window On Start](swift/hide-macos-storyboard-window-on-start.md)
 - [Open A Browser URL](swift/open-a-browser-url.md)
