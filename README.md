@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_470 TILs and counting..._
+_471 TILs and counting..._
 
 ---
 
@@ -536,6 +536,7 @@ _470 TILs and counting..._
 - [Local Storage and Session Storage](web/local-storage-and-session-storage.md)
 - [Numeric Font Weights](web/numeric-font-weights.md)
 - [Prevent ChatGPT From Indexing A Web Site](web/prevent-chatgpt-from-indexing-a-web-site.md)
+- [Support Dark Mode With CSS Media Queries](web/support-dark-mode-with-css-media-queries.md)
 - [Using JSON Data With Local Storage](web/using-json-data-with-local-storage.md)
 - [View Browser Network Requests](web/view-browser-network-requests.md)
 - [What Are Core Web Vitals](web/what-are-core-web-vitals.md)
