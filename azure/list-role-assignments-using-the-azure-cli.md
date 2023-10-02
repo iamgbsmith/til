@@ -23,13 +23,13 @@ az ad user show --id "bob.jackson@microspan.com" --query "id" --output tsv
 List role assignments using the object id for the user in tabular format:
 
 ```shell
-az role assignment list --all --assignee "6c967980-1406-4328-94ad-b315364b8224" --query "[].{principalName:principalName,roleDefinitionName:roleDefinitionName, scope:scope}" --output tsv
+az role assignment list --all --assignee "6c967980-1406-4328-94ad-b315364b8224" --query "[].{principalName:principalName, roleDefinitionName:roleDefinitionName, scope:scope}" --output tsv
 ```
 
 List role assignments using the principal name for the user in JSON format:
 
 ```shell
-az role assignment list --all --assignee bob.jackson@microspan.com --query "[].{principalName:principalName,roleDefinitionName:roleDefinitionName,scope:scope}"
+az role assignment list --all --assignee bob.jackson@microspan.com --query "[].{principalName:principalName, roleDefinitionName:roleDefinitionName, scope:scope}"
 ```
 
 ### Show group role assignment
@@ -53,7 +53,7 @@ az role assignment list --resource-group "{groupId}" --query "[].{roleDefinition
 To list role assignments for a subscription use:
 
 ```shell
-az role assignment list --subscription {subscriptionNameOrId} --output json --query "[].{principalName:principalName,roleDefinitionName:roleDefinitionName,scope:scope}"
+az role assignment list --subscription {subscriptionNameOrId} --output json --query "[].{principalName:principalName, roleDefinitionName:roleDefinitionName, scope:scope}"
 ```
 
 To list role assignents for a service principal in tabular format:
