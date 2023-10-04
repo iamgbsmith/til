@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_474 TILs and counting..._
+_475 TILs and counting..._
 
 ---
 
@@ -76,6 +76,7 @@ _474 TILs and counting..._
 - [Get Azure Tenant ID](azure/get-azure-tenant-id.md)
 - [Install Azure CLI On MacOS](azure/install-azure-cli-on-macos.md)
 - [Install Azure CLI On Windows](azure/install-azure-cli-on-windows.md)
+- [List Azure Regions Using The Azure CLI](azure/list-azure-regions-using-the-azure-cli.md)
 - [List Resource Groups Using The Azure CLI](azure/list-resouce-groups-using-the-azure-cli.md)
 - [List Role Assignments Using The Azure CLI](azure/list-role-assignments-using-the-azure-cli.md)
 - [List Role Definitions Using The Azure CLI](azure/list-role-definitions-using-the-azure-cli.md)
