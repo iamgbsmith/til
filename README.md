@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_473 TILs and counting..._
+_474 TILs and counting..._
 
 ---
 
@@ -553,6 +553,7 @@ _473 TILs and counting..._
 - [Find Which Process Is Using A Port](windows/find-which-process-is-using-a-port.md)
 - [Forward Traffic Over Netsh](windows/forward-traffic-over-netsh.md)
 - [Get Weather Information From The Command Line](windows/get-weather-information-from-the-command-line.md)
+- [Install An MSI Package Silently](windows/install-an-msi-package-silently.md)
 - [Install OpenSSH On Windows](windows/install-open-ssh-on-windows.md)
 - [Install WSL](windows/install-wsl.md)
 - [List Running Processes Using PowerShell](windows/list-running-processes-using-powershell.md)
