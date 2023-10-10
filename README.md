@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_478 TILs and counting..._
+_479 TILs and counting..._
 
 ---
 
@@ -73,6 +73,7 @@ _478 TILs and counting..._
 - [Change The Route Prefix For An Azure Function](azure/change-the-route-prefix-for-an-azure-function.md)
 - [Create A Resource Group Using The Azure CLI](azure/create-a-resource-group-using-the-azure-cli.md)
 - [Create an Azure APIM Subscription](azure/create-an-azure-apim-subscription.md)
+- [Find Resources By Type Using The Azure CLI](azure/find-resources-by-type-using-the-azure-cli.md)
 - [Get Azure Tenant ID](azure/get-azure-tenant-id.md)
 - [Install Azure CLI On MacOS](azure/install-azure-cli-on-macos.md)
 - [Install Azure CLI On Windows](azure/install-azure-cli-on-windows.md)
