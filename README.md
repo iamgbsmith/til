@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_480 TILs and counting..._
+_481 TILs and counting..._
 
 ---
 
@@ -83,6 +83,7 @@ _480 TILs and counting..._
 - [List Role Assignments Using The Azure CLI](azure/list-role-assignments-using-the-azure-cli.md)
 - [List Role Definitions Using The Azure CLI](azure/list-role-definitions-using-the-azure-cli.md)
 - [List Tags Using The Azure CLI](azure/list-tags-using-the-azure-cli.md)
+- [Protect Azure Resources Using Locks](azure/protect-azure-resources-using-locks.md)
 - [Return JSON In An Azure Function](azure/return-json-in-an-azure-function.md)
 - [Show App Service Linux Runtimes](azure/show-app-service-linux-runtimes.md)
 - [Switch To A Specific Azure Subscription](azure/switch-to-a-specific-azure-subscription.md)
