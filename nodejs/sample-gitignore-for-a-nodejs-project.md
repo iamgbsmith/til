@@ -1,4 +1,4 @@
-# Sample Git Ignore For A Nodejs Project
+# Sample Gitignore For A Nodejs Project
 
 __Category: Nodejs__
 

@@ -327,7 +327,7 @@ _481 TILs and counting..._
 - [Perform A Vulnerability Audit](nodejs/perform-a-vulnerability-audit.md)
 - [Read A Text File Line By Line](nodejs/read-a-text-file-line-by-line.md)
 - [Run Multiple Commands Concurrently](nodejs/run-multiple-commands-concurrently.md)
-- [Sample Git Ignore For A Nodejs Project](nodejs/sample-git-ignore-for-a-nodejs-project.md)
+- [Sample Gitignore For A Nodejs Project](nodejs/sample-gitignore-for-a-nodejs-project.md)
 - [Serve Static Web Content](nodejs/serve-static-web-content.md)
 - [Set An NPM Registry For Packages](nodejs/set-an-npm-registry-for-packages.md)
 - [Setup A Nodejs Project With TypeScript](nodejs/setup-a-nodejs-project-with-typescript.md)
