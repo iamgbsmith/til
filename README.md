@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_483 TILs and counting..._
+_484 TILs and counting..._
 
 ---
 
@@ -298,6 +298,7 @@ _483 TILs and counting..._
 - [Update Brew Packages](mac/update-brew-packages.md)
 - [Use Emojis And Symbols](mac/use-emojis-and-symbols.md)
 - [Use Two Applications Side By Side](mac/use-two-applications-side-by-side.md)
+- [What Are Library Container Directories](mac/what-are-library-container-directories.md)
 - [Write IMG File To SD Card From The Command Line](mac/write-img-file-to-sd-card-from-the-command-line.md)
 
 ### MQTT
