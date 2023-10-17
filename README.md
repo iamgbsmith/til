@@ -6,7 +6,7 @@ On many occassions I have done something in a hurry without capturing my learnin
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
 
-_484 TILs and counting..._
+_485 TILs and counting..._
 
 ---
 
@@ -500,6 +500,7 @@ _484 TILs and counting..._
 - [Validating An OAuth Token](spring/validating-an-oauth-token.md)
 
 ### Swift
+- [Convert A Date To A String](swift/convert-a-date-to-a-string.md)
 - [Create A Callback Function](swift/create-a-callback-function.md)
 - [Customise Window Decoration](swift/customise-window-decoration.md)
 - [Find Matching Item In An Array](swift/find-matching-item-in-an-array.md)
