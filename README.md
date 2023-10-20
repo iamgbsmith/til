@@ -2,11 +2,13 @@
 
 ## Today I Learned
 
+Learn. Every. Day.
+
 On many occassions I have done something in a hurry without capturing my learnings for future reference.
 
-This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save  time and improve productivity.
+This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_485 TILs and counting..._
+_486 TILs and counting..._
 
 ---
 
@@ -590,6 +592,7 @@ _485 TILs and counting..._
 - [Hide An Application Dock Icon And Main Window](xcode/hide-an-application-dock-icon-and-main-window.md)
 - [Install Xcode Manually](xcode/install-xcode-manually.md)
 - [No Such Module XCTest](xcode/no-such-module-xctest.md)
+- [Pass Arguments To Command Line Apps In Xcode](xcode/pass-arguments-to-command-line-apps-in-xcode.md)
 - [Record iOS Simulator](xcode/record-ios-simulator.md)
 - [Setup MITMProxy For A Simulator Device](xcode/setup-mitmproxy-for-a-simulator-device.md)
 - [Show The Simulator When Developing](xcode/show-the-simulator-when-developing.md)
