@@ -4,11 +4,9 @@
 
 Learn. Every. Day.
 
-On many occassions I have done something in a hurry without capturing my learnings for future reference.
-
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_486 TILs and counting..._
+_487 TILs and counting..._
 
 ---
 
@@ -153,6 +151,7 @@ _486 TILs and counting..._
 - [Command Line Git Tutorial](git/command-line-git-tutorial.md)
 - [Configure Git Settings](git/configure-git-settings.md)
 - [Create A Global Gitignore On MacOS](git/create-a-global-gitignore-on-macos.md)
+- [Create A Global Gitignore On Windows](git/create-a-global-gitignore-on-windows.md)
 - [Create Release Notes Using Git](git/create-release-notes-using-git.md)
 - [Delete The Last Commit](git/delete-the-last-commit.md)
 - [Naming Branches](git/naming-branches.md)
