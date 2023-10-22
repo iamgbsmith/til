@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_488 TILs and counting..._
+_489 TILs and counting..._
 
 ---
 
@@ -297,6 +297,7 @@ _488 TILs and counting..._
 - [Take A Screen Recording](mac/take-a-screen-recording.md)
 - [Take A Screenshot](mac/take-a-screenshot.md)
 - [Update Brew Packages](mac/update-brew-packages.md)
+- [Update MacOS Software From The Command Line](mac/update-macos-software-from-the-command-line.md)
 - [Use Emojis And Symbols](mac/use-emojis-and-symbols.md)
 - [Use Two Applications Side By Side](mac/use-two-applications-side-by-side.md)
 - [What Are Library Container Directories](mac/what-are-library-container-directories.md)
