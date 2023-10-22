@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_489 TILs and counting..._
+_490 TILs and counting..._
 
 ---
 
@@ -284,6 +284,7 @@ _489 TILs and counting..._
 - [Print From The Command Line](mac/print-from-the-command-line.md)
 - [Remove The Background From An Image](mac/remove-the-background-from-an-image.md)
 - [Reorder Menubar Items](mac/reorder-menubar-items.md)
+- [Reset User Defaults For An Application](mac/reset-user-defaults-for-an-application.md)
 - [Responsive Design Mode In Safari](mac/responsive-design-mode-in-safari.md)
 - [Rotate An Image](mac/rotate-an-image.md)
 - [Run Unsigned Applications](mac/run-unsigned-applications.md)
