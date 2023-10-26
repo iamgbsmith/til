@@ -4,6 +4,18 @@ __Category: Swift__
 
 This TIL shows how to call Swift code from Objective-C code in the same project without creating a circular dependency.
 
+Ensure the method you are trying to call in your Swift class is prefixed with `@objc`, for example:
+
+```swift
+public class YourSwiftClass: NSObject {
+    
+    @objc public func someMethod() {
+        print("Hello world!")
+    }
+    
+}
+```
+
 Add a forward reference in your Objective-C header file:
 
 ```c
