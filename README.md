@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_491 TILs and counting..._
+_492 TILs and counting..._
 
 ---
 
@@ -260,6 +260,7 @@ _491 TILs and counting..._
 - [Convert HEIC Images To Another Format](mac/convert-heic-images-to-another-format.md)
 - [Copy To Your Clipboard From The Command Line](mac/copy-to-your-clipboard-from-the-command-line.md)
 - [Create A Bootable USB Installer For MacOS](mac/create-a-bootable-usb-installer-for-macos.md)
+- [Determine File Type Or Encoding](mac/determine-file-type-or-encoding.md)
 - [Encrypt A Zip File](mac/encrypt-a-zip-file.md)
 - [Encrypt Your Disk](mac/encrypt-your-disk.md)
 - [Excessive Xcode Disk Usage](mac/excessive-xcode-disk-usage.md)
