@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_492 TILs and counting..._
+_493 TILs and counting..._
 
 ---
 
@@ -322,6 +322,7 @@ _492 TILs and counting..._
 - [Clean Yarn Cache](nodejs/clean-yarn-cache.md)
 - [Compile To An Executable](nodejs/compile-to-an-executable.md)
 - [Convert Markdown To HTML](nodejs/convert-markdown-to-html.md)
+- [Convert Markdown To PDF](nodejs/convert-markdown-to-pdf.md)
 - [Create Custom Middleware For Express](nodejs/create-custom-middleware-for-express.md)
 - [Create A Simple HTTP Server](nodejs/create-a-simple-http-server.md)
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
