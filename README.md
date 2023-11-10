@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_493 TILs and counting..._
+_494 TILs and counting..._
 
 ---
 
@@ -328,6 +328,7 @@ _493 TILs and counting..._
 - [Create A Simple REST Server](nodejs/create-a-simple-rest-server.md)
 - [Find Package Usage With Yarn](nodejs/find-package-usage-with-yarn.md)
 - [Install Packages Globally With Yarn](nodejs/install-packages-globally-with-yarn.md)
+- [Install PNPM](nodejs/install-pnpm.md)
 - [Install Yarn](nodejs/install-yarn.md)
 - [Log HTTP Requests In Express Using Pino](nodejs/log-http-requests-in-express-using-pino.md)
 - [Optimise For Performance](nodejs/optimise-for-performance.md)
