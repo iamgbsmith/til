@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_497 TILs and counting..._
+_498 TILs and counting..._
 
 ---
 
@@ -587,6 +587,7 @@ _497 TILs and counting..._
 - [Shutdown A WSL Instance](windows/shutdown-a-wsl-instance.md)
 - [SSH Into WSL From Another Machine](windows/ssh-into-wsl-from-another-machine.md)
 - [Take A Screenshot](windows/take-a-screenshot.md)
+- [Uninstall An MSI Package Silently](windows/uninstall-an-msi-package-silently.md)
 - [Unlock Windows Using Facial Recognition](windows/unlock-windows-using-facial-recognition.md)
 - [Upgrade PowerShell](windows/upgrade-powershell.md)
 - [Use An Apple Magic Mouse With Windows](windows/use-an-apple-magic-mouse-with-windows.md)
