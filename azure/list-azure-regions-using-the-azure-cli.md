@@ -11,7 +11,7 @@ az account list-locations --out json
 To list regional details and physical location in tabular format, use the following command:
 
 ```shell
-az account list-locations --query "[].{regionalDisplayName:regionalDisplayName, physicalLocation:physicalLocation, name:name]" --out table
+az account list-locations --query "[].{regionalDisplayName:regionalDisplayName, physicalLocation:physicalLocation, name:name}" --out table
 ```
 
 
