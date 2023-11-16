@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_500 TILs and counting..._
+_501 TILs and counting..._
 
 ---
 
@@ -217,6 +217,7 @@ _500 TILs and counting..._
 - [Control Plane Services](kubernetes/control-plane-services.md)
 - [Install MicroK8s on Linux](kubernetes/install-microk8s-on-linux.md)
 - [Lifecycle Of A Kubernetes Pod](kubernetes/lifecycle-of-a-kubernetes-pod.md)
+- [List Kubernetes API Services](kubernetes/list-kubernetes-api-services.md)
 - [Services That Run On A Kubernetes Node](kubernetes/services-that-run-on-a-kubernetes-node.md)
 - [Show Installed Version Of Kubernetes](kubernetes/show-installed-version-of-kubernetes.md)
 - [Supported Kubernetes Container Runtimes](kubernetes/supported-kubernetes-container-runtimes.md)
