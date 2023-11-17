@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_501 TILs and counting..._
+_502 TILs and counting..._
 
 ---
 
@@ -126,7 +126,7 @@ _501 TILs and counting..._
 - [Find Container Vulnerabilities Using Docker Scout](docker/find-container-vulnerabilities-using-docker-scout.md)
 - [Generate A Software Bill of Materials](docker/generate-a-software-bill-of-materials.md)
 - [Install Docker On Ubuntu](docker/install-docker-on-ubuntu.md)
-- [Install Podman On MacOs](docker/install-podman-on-macos.md)
+- [Install Podman On MacOS](docker/install-podman-on-macos.md)
 - [Log In To Docker Hub From The Command Line](docker/log-in-to-docker-hub-from-the-command-line.md)
 - [Manage Sensitive Data With Secrets](docker/manage-sensitive-data-with-secrets.md)
 - [Pause And Unpause A Container](docker/pause-and-unpause-a-container.md)
@@ -277,6 +277,7 @@ _501 TILs and counting..._
 - [Get CPU Core Count Details](mac/get-cpu-core-count-details.md)
 - [Get CPU Temperature And Thermal Information](mac/get-cpu-temperature-and-thermal-information.md)
 - [Get Process ID By Name](mac/get-process-id-by-name.md)
+- [Install A PKG File Silently](mac/install-a-pkg-file-silently.md)
 - [Install Command Line Tools](mac/install-command-line-tools.md)
 - [Install Ruby Using RVM](mac/install-ruby-using-rvm.md)
 - [Jump To A Location In Finder](mac/jump-to-a-location-in-finder.md)
