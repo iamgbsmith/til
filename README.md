@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_502 TILs and counting..._
+_503 TILs and counting..._
 
 ---
 
@@ -178,6 +178,7 @@ _502 TILs and counting..._
 - [Generate Client Libraries From An OpenAPI Spec](integration/generate-client-libraries-from-an-openapi-spec.md)
 - [Generate REST API Documentation With Redoc](integration/generate-rest-api-documentation-with-redoc.md)
 - [Generate TypeScript Types From An OpenAPI Spec](integration/generate-typescript-types-from-an-openapi-spec.md)
+- [Topics Versus Queues](integration/topics-versus-queues.md)
 - [What Is CloudEvents](integration/what-is-cloudevents.md)
 
 ### Java
