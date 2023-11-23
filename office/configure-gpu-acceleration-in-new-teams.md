@@ -2,11 +2,11 @@
 
 __Category: Office__
 
-The new version of teams based on React does not provide a UI configuration item to disable or enable GPU acceleration. In some situations, you might need to disable GPU acceleration if Teams is freezing or the video and sound is choppy.
+The new version of teams based on React does not provide a UI configuration item to disable or enable GPU acceleration on Windows. In some situations, you might need to disable GPU acceleration if Teams is freezing or the video and sound is choppy.
 
-Perform the following to disable GPU acceleration.
+Perform the following to disable GPU acceleration on Windows.
 
-1. Close the Teams application by right clicking on the icon in the taskbar overflow area and selecting "Quit".
+1. Close the Teams application by performing right-click on the Teams icon in the taskbar overflow area and selecting "Quit".
 2. Open `desktop-config.json` in C:\Users\\{username}\AppData\Roaming\Microsoft\Teams\ using a text editor.
 3. Find the entry for `disableGpu` and change the value to `true`
 4. Save the `desktop-config.json` file.
