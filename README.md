@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_504 TILs and counting..._
+_505 TILs and counting..._
 
 ---
 
@@ -362,6 +362,7 @@ _504 TILs and counting..._
 - [Count Cells In Excel Matching A Value](office/count-cells-in-excel-matching-a-value.md)
 - [End Meetings Early In Outlook](office/end-meetings-early-in-outlook.md)
 - [Keyboard Shortcuts For Teams](office/keyboard-shortcuts-for-teams.md)
+- [New Teams Freezes And Locks Up](office/new-teams-freezes-and-locks-up.md)
 - [Outlook Email Search Filters](office/outlook-email-search-filters.md)
 - [Password Protect An Excel Workbook](office/password-protect-an-excel-workbook.md)
 - [Delayed Sending Of Email Messages In Outlook](office/delay-sending-of-email-messages-in-outlook.md)
