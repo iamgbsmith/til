@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_505 TILs and counting..._
+_506 TILs and counting..._
 
 ---
 
@@ -570,6 +570,7 @@ _505 TILs and counting..._
 - [Using JSON Data With Local Storage](web/using-json-data-with-local-storage.md)
 - [View Browser Network Requests](web/view-browser-network-requests.md)
 - [What Are Core Web Vitals](web/what-are-core-web-vitals.md)
+- [What Is QUIC](web/what-is-quic.md)
 
 ### Windows
 - [Airpods Volume Is Too Loud On Teams](windows/airpods-volume-is-too-loud-on-teams.md)
