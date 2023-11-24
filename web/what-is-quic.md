@@ -10,4 +10,4 @@ The following software components provide support for HTTP/3:
 
 * Modern web browsers listed at [caniuse](https://caniuse.com/?search=quic)
 * Content delivery networks and load balancers - Cloudflare, Fastly, AWS CloudFront, Google Cloud CDN, and Azure Application Gateway. 
-* HTTP servers - Microsoft IIS, Nginx, Kestrel, LiteSpeed, and HAProxy.
+* HTTP and reverse-proxy servers - Microsoft IIS, Nginx, Kestrel, LiteSpeed, and HAProxy.
