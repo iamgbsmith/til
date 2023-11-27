@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_506 TILs and counting..._
+_507 TILs and counting..._
 
 ---
 
@@ -23,6 +23,7 @@ _506 TILs and counting..._
 * [Integration](#integration)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kafka](#kafka)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Mac](#mac)
@@ -212,6 +213,9 @@ _506 TILs and counting..._
 - [Immutability With Immer](javascript/immutability-with-immer.md)
 - [Iterate An Array](javascript/iterate-an-array.md)
 - [Measure JavaScript Execution Time](javascript/measure-javascript-execution-time.md)
+
+### Kafka
+- [Partitions In Kafka](kafka/partitions-in-kafka.md)
 
 ### Kubernetes
 - [Container States In Kubernetes](kubernetes/container-states-in-kubernetes.md)
