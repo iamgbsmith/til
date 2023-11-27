@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_507 TILs and counting..._
+_508 TILs and counting..._
 
 ---
 
@@ -473,6 +473,7 @@ _507 TILs and counting..._
 - [Get Server Info](redis/get-server-info.md)
 - [List Installed Redis Modules](redis/list-installed-redis-modules.md)
 - [List Redis Users And Permissions](redis/list-redis-users-and-permissions.md)
+- [Log Slow Redis Queries](redis/log-slow-redis-queries.md)
 - [Measure Redis Latency](redis/measure-redis-latency.md)
 - [Pattern Matching Pub Sub With Redis](redis/pattern-matching-pub-sub-with-redis.md)
 - [Working With Keys](redis/working-with-keys.md)
