@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_509 TILs and counting..._
+_510 TILs and counting..._
 
 ---
 
@@ -364,12 +364,13 @@ _509 TILs and counting..._
 - [Change Orientation For Selected Pages In Word](office/change-orientation-for-selected-pages-in-word.md)
 - [Configure GPU Acceleration In New Teams](office/configure-gpu-acceleration-in-new-teams.md)
 - [Count Cells In Excel Matching A Value](office/count-cells-in-excel-matching-a-value.md)
+- [Delayed Sending Of Email Messages In Outlook](office/delay-sending-of-email-messages-in-outlook.md)
 - [End Meetings Early In Outlook](office/end-meetings-early-in-outlook.md)
+- [Format Superscript Or Subscript Text In Word](office/format-superscript-or-subscript-in-word.md)
 - [Keyboard Shortcuts For Teams](office/keyboard-shortcuts-for-teams.md)
 - [New Teams Freezes And Locks Up](office/new-teams-freezes-and-locks-up.md)
 - [Outlook Email Search Filters](office/outlook-email-search-filters.md)
 - [Password Protect An Excel Workbook](office/password-protect-an-excel-workbook.md)
-- [Delayed Sending Of Email Messages In Outlook](office/delay-sending-of-email-messages-in-outlook.md)
 
 ### Postgres
 - [Backup A Database](postgres/backup-a-database.md)
