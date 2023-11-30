@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_511 TILs and counting..._
+_512 TILs and counting..._
 
 ---
 
@@ -199,6 +199,7 @@ _511 TILs and counting..._
 - [Run Unit Tests Faster](java/run-unit-tests-faster.md)
 - [Validate A UUID String In Java](java/validate-a-uuid-string-in-java.md)
 - [What Are Virtual Threads](java/what-are-virtual-threads.md)
+- [What Is A Record](java/what-is-a-record.md)
 - [What Is GraalVM](java/what-is-graalvm.md)
 
 ### JavaScript
