@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_512 TILs and counting..._
+_513 TILs and counting..._
 
 ---
 
@@ -187,6 +187,7 @@ _512 TILs and counting..._
 - [Alternatives To The Oracle JDK](java/alternatives-to-the-oracle-jdk.md)
 - [Check If A String Value Is Numeric](java/check-if-a-string-value-is-numeric.md)
 - [Decompile An APK File](java/decompile-an-apk-file.md)
+- [Execute Java Source Files As Scripts](java/execute-java-source-files-as-scripts.md)
 - [Flyway Migration Naming Conventions](java/flyway-migration-naming-conventions.md)
 - [Import A Certificate Into The KeyStore](java/import-a-certificate-into-the-keystore.md)
 - [Install Java On MacOS](java/install-java-on-macos.md)
