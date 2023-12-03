@@ -6,7 +6,7 @@ The `java` command can be used to run a single class file without requiring manu
 
 Add a shebang line as the first entry in the file to resolve to the location of the `java` executable followed by `--source` and the Java version the code was written for. The filename can use any extension.
 
-For example:
+For example, create a file called `DoSomething.sh` as follows:
 
 ```java
 #!/path/to/bin/java --source 18
@@ -24,4 +24,8 @@ public class DoSomething {
 }
 ```
 
-Update the file permission using `chmod +x` to make it executable then run it.
+Update the file permission using `chmod +x` to make it executable, then run it.
+
+```shell
+./DoSomething.sh
+```
