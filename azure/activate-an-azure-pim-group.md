@@ -6,7 +6,7 @@ Azure Privileged Identity Management (PIM) is used to assign access to Azure AD 
 
 To activate a PIM role, log into the Azure Portal.
 
-Navigate or search for "AZure AD Privileged Identity Management" to manage access.
+Navigate or search for "Azure AD Privileged Identity Management" to manage access.
 
 Select My roles -> Groups from the left-hand menu.
 
