@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_514 TILs and counting..._
+_515 TILs and counting..._
 
 ---
 
@@ -86,6 +86,7 @@ _514 TILs and counting..._
 - [List Role Definitions Using The Azure CLI](azure/list-role-definitions-using-the-azure-cli.md)
 - [List Service Principals Using The Azure CLI](azure/list-service-principals-using-the-azure-cli.md)
 - [List Tags Using The Azure CLI](azure/list-tags-using-the-azure-cli.md)
+- [Policies In Azure APIM](azure/policies-in-azure-apim.md)
 - [Protect Azure Resources Using Locks](azure/protect-azure-resources-using-locks.md)
 - [Return JSON In An Azure Function](azure/return-json-in-an-azure-function.md)
 - [Show App Service Linux Runtimes](azure/show-app-service-linux-runtimes.md)
