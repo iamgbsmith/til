@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_515 TILs and counting..._
+_516 TILs and counting..._
 
 ---
 
@@ -68,6 +68,7 @@ _515 TILs and counting..._
 
 ### Azure
 - [Activate An Azure PIM Group](azure/activate-an-azure-pim-group.md)
+- [Assign Roles Using The Azure CLI](azure/assign-roles-using-the-azure-cli.md)
 - [Azure App Service Plans](azure/azure-app-service-plans.md)
 - [Azure Integration Services](azure/azure-integration-services.md)
 - [Azure Storage Types](azure/azure-storage-types.md)
