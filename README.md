@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_516 TILs and counting..._
+_517 TILs and counting..._
 
 ---
 
@@ -51,6 +51,7 @@ _516 TILs and counting..._
 ### AWS
 - [Cloud Adoption Framework](aws/cloud-adoption-framework.md)
 - [Cloud Migration Strategies](aws/cloud-migration-strategies.md)
+- [CloudFront Origin Access Identity](aws/cloudfront-origin-access-identity.md)
 - [CloudFront Request Geo Restrictions](aws/cloudfront-request-geo-restrictions.md)
 - [Install AWS CLI On MacOS](aws/install-aws-cli-on-macos.md)
 - [Install AWS CLI On Windows](aws/install-aws-cli-on-windows.md)
