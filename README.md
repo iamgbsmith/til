@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_517 TILs and counting..._
+_518 TILs and counting..._
 
 ---
 
@@ -389,6 +389,7 @@ _517 TILs and counting..._
 - [Export From A Table Or Query To CSV](postgres/export-from-a-table-or-query-to-csv.md)
 - [Grant Privileges To A User Or Role](postgres/grant-privileges-to-a-user-or-role.md)
 - [Hash Join Versus Merge Join](postgres/hash-join-versus-merge-join.md)
+- [Improve Query Planner Performance](postgres/improve-query-planner-performance.md)
 - [List Database Users](postgres/list-database-users.md)
 - [List Databases And Tables Using PSQL](postgres/list-databases-and-tables-using-psql.md)
 - [List Postgres Schemas](postgres/list-postgres-schemas.md)
