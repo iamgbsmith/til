@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_518 TILs and counting..._
+_519 TILs and counting..._
 
 ---
 
@@ -497,6 +497,7 @@ _518 TILs and counting..._
 - [Enable Private Relay VPN On iOS](security/enable-private-relay-vpn-on-ios.md)
 - [Encrypt A File](security/encrypt-a-file.md)
 - [Generate An SSH Key](security/generate-an-ssh-key.md)
+- [Get MAC Address For Devices On A Network](security/get-mac-address-for-devices-on-a-network.md)
 - [Get OpenID Connect Provider Configuration](security/get-openid-connect-provider-configuration.md)
 - [Ignore Invalid SSL Certificates With Curl](security/ignore-invalid-ssl-certificates-with-curl.md)
 - [List GPG Keys](security/list-gpg-keys.md)
