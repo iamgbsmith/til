@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_519 TILs and counting..._
+_520 TILs and counting..._
 
 ---
 
@@ -112,7 +112,7 @@ _519 TILs and counting..._
 
 ### DevOps
 - [Add A Data Source To Grafana](devops/add-a-data-source-to-grafana.md)
-- [Connect To LocalStack Using AWS CLI](devops/connect-to-localstack-using-aws-cli.md)
+- [Connect To LocalStack Using The AWS CLI](devops/connect-to-localstack-using-the-aws-cli.md)
 - [Deploy A React App To GitHub Pages](devops/deploy-a-react-app-to-github-pages.md)
 - [Install And Start LocalStack](devops/install-and-start-localstack.md)
 - [Install Grafana Using Docker](devops/install-grafana-using-docker.md)
@@ -597,6 +597,7 @@ _519 TILs and counting..._
 - [Enable Focus Assist](windows/enable-focus-assist.md)
 - [Find Which Process Is Using A Port](windows/find-which-process-is-using-a-port.md)
 - [Forward Traffic Over Netsh](windows/forward-traffic-over-netsh.md)
+- [Get The First N Lines Of A File](windows/get-the-first-n-lines-of-a-file.md)
 - [Get Weather Information From The Command Line](windows/get-weather-information-from-the-command-line.md)
 - [Install An MSI Package Silently](windows/install-an-msi-package-silently.md)
 - [Install OpenSSH On Windows](windows/install-open-ssh-on-windows.md)
