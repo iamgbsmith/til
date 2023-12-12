@@ -1,4 +1,3 @@
-
 # Format A USB Disk From The Command Line
 
 __Category: Mac__
