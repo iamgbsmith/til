@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_521 TILs and counting..._
+_522 TILs and counting..._
 
 ---
 
@@ -76,6 +76,7 @@ _521 TILs and counting..._
 - [Change The Route Prefix For An Azure Function](azure/change-the-route-prefix-for-an-azure-function.md)
 - [Create A Resource Group Using The Azure CLI](azure/create-a-resource-group-using-the-azure-cli.md)
 - [Create an Azure APIM Subscription](azure/create-an-azure-apim-subscription.md)
+- [Delete Resources Using The Azure CLI](azure/delete-resources-using-the-azure-cli.md)
 - [Find Resources By Type Using The Azure CLI](azure/find-resources-by-type-using-the-azure-cli.md)
 - [Enable CORS In Azure Static Web Apps](azure/enable-cors-in-azure-static-web-apps.md)
 - [Extract Values From Azure CLI Output](azure/extract-values-from-azure-cli-output.md)
