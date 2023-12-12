@@ -15,3 +15,5 @@ You can delete a resource group and all resources contained within it using the 
 ```shell
 az group delete --name resourceGroupName
 ```
+
+__Note:__ You may not be able to delete resources if you do not have the correct permissions (for example, "Contributor" access).
