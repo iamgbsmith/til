@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_520 TILs and counting..._
+_521 TILs and counting..._
 
 ---
 
@@ -295,6 +295,7 @@ _520 TILs and counting..._
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
 - [Launch Finder From The Command Line](mac/launch-finder-from-the-command-line.md)
 - [Loop Through Photos](mac/loop-through-photos.md)
+- [MacBook Will Not Charge](mac/macbook-will-not-charge.md)
 - [Manage Cluttered Desktops](mac/manage-cluttered-desktops.md)
 - [Mount An SD Card](mac/mount-an-sd-card.md)
 - [Password Protect A PDF](mac/password-protect-a-pdf.md)
