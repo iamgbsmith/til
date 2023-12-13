@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_522 TILs and counting..._
+_523 TILs and counting..._
 
 ---
 
@@ -285,6 +285,7 @@ _522 TILs and counting..._
 - [Find Which Process Is Using A Port](mac/find-which-process-is-using-a-port.md)
 - [Follow Symbolic Links](mac/follow-symbolic-links.md)
 - [Format A USB Disk From The Command Line](mac/format-a-usb-disk-from-the-command-line.md)
+- [Get Battery Status From The Command Line](mac/get-battery-status-from-the-command-line.md)
 - [Get Computer Name](mac/get-computer-name.md)
 - [Get CPU Core Count Details](mac/get-cpu-core-count-details.md)
 - [Get CPU Temperature And Thermal Information](mac/get-cpu-temperature-and-thermal-information.md)
