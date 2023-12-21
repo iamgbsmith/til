@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_523 TILs and counting..._
+_524 TILs and counting..._
 
 ---
 
@@ -371,6 +371,7 @@ _523 TILs and counting..._
 - [Add A Page Watermark In Word](office/add-a-page-watermark-in-word.md)
 - [Automatically Record Teams Meetings](office/automatically-record-teams-meetings.md)
 - [Change Orientation For Selected Pages In Word](office/change-orientation-for-selected-pages-in-word.md)
+- [Check Message Headers For Emails In Outlook](office/check-message-headers-for-emails-in-outlook.md)
 - [Configure GPU Acceleration In New Teams](office/configure-gpu-acceleration-in-new-teams.md)
 - [Count Cells In Excel Matching A Value](office/count-cells-in-excel-matching-a-value.md)
 - [Delayed Sending Of Email Messages In Outlook](office/delay-sending-of-email-messages-in-outlook.md)
