@@ -380,7 +380,7 @@ _524 TILs and counting..._
 - [New Teams Freezes And Locks Up](office/new-teams-freezes-and-locks-up.md)
 - [Outlook Email Search Filters](office/outlook-email-search-filters.md)
 - [Password Protect An Excel Workbook](office/password-protect-an-excel-workbook.md)
-- [View Message Headers For Emails In Outlook](office/check-message-headers-for-emails-in-outlook.md)
+- [View Message Headers For Emails In Outlook](office/view-message-headers-for-emails-in-outlook.md)
 
 ### Postgres
 - [Backup A Database](postgres/backup-a-database.md)
