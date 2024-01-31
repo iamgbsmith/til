@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_524 TILs and counting..._
+_525 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _524 TILs and counting..._
 * [Blockchain](#blockchain)
 * [DevOps](#devops)
 * [Docker](#docker)
+* [DotNet](#dotnet)
 * [Gatsby](#gatsby)
 * [Git](#git)
 * [Gradle](#gradle)
@@ -142,6 +143,9 @@ _524 TILs and counting..._
 - [Start And Stop A Container](docker/start-and-stop-a-container.md)
 - [Store Data With Volumes](docker/store-data-with-volumes.md)
 - [What Is A Docker Digest](docker/what-is-a-docker-digest.md)
+
+### DotNet
+- [Disable DotNet CLI Telemetry](dotnet/disable-dotnet-cli-telemetry.md)
 
 ### Gatsby
 - [Change Favicon](gatsby/change-favicon.md)
