@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_525 TILs and counting..._
+_526 TILs and counting..._
 
 ---
 
@@ -306,6 +306,7 @@ _525 TILs and counting..._
 - [Mount An SD Card](mac/mount-an-sd-card.md)
 - [Password Protect A PDF](mac/password-protect-a-pdf.md)
 - [Play Safari Videos Using Picture In Picture](mac/play-safari-videos-using-picture-in-picture.md)
+- [Prevent A Full Stop From Being Automatically Added](mac/prevent-a-full-stop-from-being-automatically-added)
 - [Prevent Applications From Starting Automatically](mac/prevent-applications-from-automatically-starting.md)
 - [Print From The Command Line](mac/print-from-the-command-line.md)
 - [Remove The Background From An Image](mac/remove-the-background-from-an-image.md)
