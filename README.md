@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_526 TILs and counting..._
+_527 TILs and counting..._
 
 ---
 
@@ -322,6 +322,7 @@ _526 TILs and counting..._
 - [Show Metadata Attributes For A File](mac/show-metadata-attributes-for-a-file.md)
 - [Show Recent Finder Locations](mac/show-recent-finder-locations.md)
 - [Show Specific Columns In Top](mac/show-specific-columns-in-top.md)
+- [Sync The System Clock With An NTP Server](mac/sync-the-system-clock-with-an-ntp-server.md)
 - [Take A Screen Recording](mac/take-a-screen-recording.md)
 - [Take A Screenshot](mac/take-a-screenshot.md)
 - [Update Brew Packages](mac/update-brew-packages.md)
