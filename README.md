@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_527 TILs and counting..._
+_528 TILs and counting..._
 
 ---
 
@@ -296,6 +296,7 @@ _527 TILs and counting..._
 - [Get Process ID By Name](mac/get-process-id-by-name.md)
 - [Install A PKG File Silently](mac/install-a-pkg-file-silently.md)
 - [Install Command Line Tools](mac/install-command-line-tools.md)
+- [Install Homebrew](mac/install-homebrew.md)
 - [Install Ruby Using RVM](mac/install-ruby-using-rvm.md)
 - [Jump To A Location In Finder](mac/jump-to-a-location-in-finder.md)
 - [Launch Applications From The Command Line](mac/launch-applications-from-the-command-line.md)
