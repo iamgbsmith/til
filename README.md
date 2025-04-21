@@ -430,7 +430,7 @@ _529 TILs and counting..._
 - [Count Words In A String](python/count-words-in-a-string.md)
 - [Create A REST API Using Flask Restful](python/create-a-rest-api-using-flask-restful.md)
 - [Create A Virtual Environment Using Conda](python/create-a-virtual-environment-using-conda.md)
-- [Create A Virtual Environment](python/create-a-virtual-environment.md)
+- [Create A Virtual Environment Using Venv](python/create-a-virtual-environment-using-venv.md)
 - [Install Python Packages With A Requirements File](python/install-python-packages-with-a-requirements-file.md)
 - [Installing And Upgrading Packages](python/installing-and-upgrading-packages.md)
 - [Load Environment Variables From A File](python/load-environment-variables-from-a-file.md)
