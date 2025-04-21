@@ -1,8 +1,8 @@
-# Create A Virtual Environment Using Anaconda
+# Create A Virtual Environment Using Conda
 
 __Category: Python__
 
-Anaconda (conda) provides isolated Python environments which are cleaner than installing packages system-wide. Virtual environments prevent dependency conflicts and also let you install packages without root privileges.
+Conda (anaconda) provides isolated Python environments which are cleaner than installing packages system-wide. Virtual environments prevent dependency conflicts and also let you install packages without root privileges.
 
 Install Anaconda using a package manager. For example on macOS:
 
