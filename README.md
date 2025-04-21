@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_528 TILs and counting..._
+_529 TILs and counting..._
 
 ---
 
@@ -429,6 +429,7 @@ _528 TILs and counting..._
 - [Acccess A Flask Application Across A Network](python/access-a-flask-application-across-a-network.md)
 - [Count Words In A String](python/count-words-in-a-string.md)
 - [Create A REST API Using Flask Restful](python/create-a-rest-api-using-flask-restful.md)
+- [Create A Virtual Environment Using Conda](python/create-a-virtual-environment-using-conda.md)
 - [Create A Virtual Environment](python/create-a-virtual-environment.md)
 - [Install Python Packages With A Requirements File](python/install-python-packages-with-a-requirements-file.md)
 - [Installing And Upgrading Packages](python/installing-and-upgrading-packages.md)
