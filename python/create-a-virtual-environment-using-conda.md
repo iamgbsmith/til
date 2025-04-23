@@ -10,6 +10,12 @@ Install Anaconda using a package manager. For example on macOS:
 brew install anaconda
 ```
 
+Add conda to your path:
+
+```shell
+/opt/homebrew/anaconda3/bin/conda init zsh
+```
+
 __Launch a new shell for path settings to take effect.__
 
 Create a new virtual environment by choosing a Python version:
