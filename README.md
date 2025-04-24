@@ -6,12 +6,13 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_529 TILs and counting..._
+_530 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [AI](#ai)
 * [AWS](#aws)
 * [Azure](#azure)
 * [Blockchain](#blockchain)
@@ -48,6 +49,9 @@ _529 TILs and counting..._
 * [Xcode](#xcode)
 
 ---
+
+### AI
+- [What Is Apple MLX](ai/what-is-apple-mlx.md)
 
 ### AWS
 - [Cloud Adoption Framework](aws/cloud-adoption-framework.md)
