@@ -6,7 +6,7 @@ Learn. Every. Day.
 
 This collection of __Today I Learned__ snippets contains details of tools or techniques which are intended to save time, improve productivity, and help others.
 
-_530 TILs and counting..._
+_531 TILs and counting..._
 
 ---
 
@@ -297,6 +297,7 @@ _530 TILs and counting..._
 - [Get Computer Name](mac/get-computer-name.md)
 - [Get CPU Core Count Details](mac/get-cpu-core-count-details.md)
 - [Get CPU Temperature And Thermal Information](mac/get-cpu-temperature-and-thermal-information.md)
+- [Get GPU Information And Metrics](mac/get-gpu-information-and-metrics.md)
 - [Get Process ID By Name](mac/get-process-id-by-name.md)
 - [Install A PKG File Silently](mac/install-a-pkg-file-silently.md)
 - [Install Command Line Tools](mac/install-command-line-tools.md)
