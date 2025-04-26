@@ -30,5 +30,5 @@ history -i
 To show the last 8 commands:
 
 ```shell
-history -8 -i
+history -i -8
 ```
